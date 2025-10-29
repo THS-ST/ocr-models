@@ -1,0 +1,118 @@
+import cv2
+import numpy as np
+
+def rotate_image(img, angle):
+    (h, w) = img.shape[:2]
+    M = cv2.getRotationMatrix2D((w/2, h/2), angle, 1.0)   # rotate 30°
+
+    rotated = cv2.warpAffine(img, M, (w, h), 
+                             borderMode=cv2.BORDER_CONSTANT, 
+                             borderValue=(255, 255, 255)) # White border for clean handwriting
+    return rotated
+
+def translate_image(img, shiftx, shifty):
+    (h, w) = img.shape[:2]
+    M = np.float32([[1, 0, shiftx], [0, 1, shifty]]) 
+    shifted = cv2.warpAffine(img, M, (w, h))
+
+    return shifted
+
+def scale_image(img, scale):
+    scaled = cv2.resize(img, None, fx=scale, fy=scale)
+
+    return scaled
+
+def flip_image(img, type):
+    if type == "horizontal":
+        flip_h = cv2.flip(img, 1)  # horizontal
+        return flip_h
+    
+    if type == "vertical":
+        flip_v = cv2.flip(img, 0)
+        return flip_v
+    
+    return None
+
+def affine_transform_image(img, pts2):
+    (h, w) = img.shape[:2]
+    pts1 = np.float32([[50,50], [200,50], [50,200]])
+    M = cv2.getAffineTransform(pts1, pts2)
+    affine = cv2.warpAffine(img, M, (w, h))
+
+    return affine
+
+def perspective_transform(img):
+    (h, w) = img.shape[:2]
+    pts1 = np.float32([[0,0], [w,0], [0,h], [w,h]])
+    pts2 = np.float32([[20,20], [w-20,40], [20,h-40], [w-30,h-20]])
+    M = cv2.getPerspectiveTransform(pts1, pts2)
+    perspective = cv2.warpPerspective(img, M, (w, h))
+
+    return perspective
+
+def adjust_brightness(img, beta):
+    brightness = cv2.convertScaleAbs(img, alpha=1.0, beta=beta)  
+
+    return brightness
+
+def adjust_constrant(img, alpha):
+    contrast = cv2.convertScaleAbs(img, alpha=alpha, beta=0)
+
+    return contrast
+
+def add_gaussian_noise(img):
+    noise = img + np.random.normal(0, 25, img.shape).astype(np.uint8)
+
+    return noise
+
+def add_gaussian_blur(img):
+    blur = cv2.GaussianBlur(img, (5,5), 0)
+
+    return blur
+
+def add_color_jitter(img):
+    hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+    hsv[:,:,0] += 10   # hue
+    hsv[:,:,1] += 20   # saturation
+    hsv[:,:,2] += 30   # value
+    color_jitter = cv2.cvtColor(hsv, cv2.COLOR_HSV2BGR)
+
+    return color_jitter
+
+def sharpen_image(img):
+    kernel = np.array([[0,-1,0], [-1,5,-1], [0,-1,0]])
+    sharp = cv2.filter2D(img, -1, kernel)
+
+    return sharp
+    
+def erode_image(img):
+    kernel = np.ones((5,5),np.uint8)
+    erosion = cv2.erode(img,kernel,iterations = 1)
+
+    return erosion
+
+def dilate_image(img):
+    kernel = np.ones((2,2), np.uint8)
+    thicker = cv2.dilate(img, kernel, iterations=1)
+
+    return thicker
+
+def open_image(img):
+    kernel = np.ones((2,2), np.uint8)
+    opening = cv2.morphologyEx(img, cv2.MORPH_OPEN, kernel)
+
+    return opening
+
+def close_image(img):
+    kernel = np.ones((2,2), np.uint8)
+    closing = cv2.morphologyEx(img, cv2.MORPH_CLOSE, kernel)
+
+    return closing
+
+def tophat_image(img):
+    kernel = np.ones((2,2), np.uint8)
+    tophat = cv2.morphologyEx(img, cv2.MORPH_TOPHAT, kernel)
+
+    return tophat
+
+
