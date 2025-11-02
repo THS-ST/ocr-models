@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python / Jupyter
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Training artifacts / big binaries
+runs/
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+
