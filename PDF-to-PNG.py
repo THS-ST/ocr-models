@@ -3,8 +3,8 @@ from pdf2image import convert_from_path
 from PIL import Image
 
 # --- SETTINGS ---
-input_folder = "data_raw"       # folder containing PDFs and JPGs
-output_folder = "data_png" # all PNGs will go here
+input_folder = "synthetic_data_raw"       # folder containing PDFs and JPGs
+output_folder = "synthetic_data_png" # all PNGs will go here
 
 poppler_path = r"C:\Poppler\poppler-25.07.0\Library\bin"
 
