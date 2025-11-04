@@ -16,4 +16,7 @@ models/
 *.pt
 *.pth
 
+# Temp folders
+testing_folder/
+
 
