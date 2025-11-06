@@ -1,0 +1,1 @@
+!cd PaddleOCR && python tools/train.py -c configs/rec/my_custom_config.yml -o Global.save_model_dir={save_model_dir}
