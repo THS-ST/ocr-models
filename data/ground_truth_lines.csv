@@ -1,871 +1,855 @@
-image_path,transcription,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_0.png,1. Loratadine 10mg/tab #5,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_1.png,Sig: 1 tab once a morning for itch,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_2.png,4. Mupirocin ointment #1,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_3.png,Sig: Ipahid 2x a day for wks,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_4.png,#5,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_5.png,Dove Sensitive Soap,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_6.png,#5,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_7.png,2. Cetirizine 10mg/tab #5,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_8.png,Sig: 1 tab once a night for itch,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_9.png,3. Clobetasol Propionate 0.05% cream #1,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_10.png,Sig: Ipahid nang manipis sa mga apektadong bahagi,
-image_splits/training_set_splits/segmented_lines_per_image/data_1/line_11.png,2x/day for 2 weeks,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_0.png,(Norvasc) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_1.png,#30 -> Vit C/zinc (Civaz) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_2.png,#30,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_3.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_4.png,#30 -> Vit B (Beetab) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_5.png,#30 -> (ATC) Omega gold #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_6.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_7.png,Amlodipine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_8.png,Genacot #200,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_9.png,#30 ->,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_10.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_11.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_2/line_12.png,S: 1 tablet 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_4/line_0.png,(Biogesic) #6,
-image_splits/training_set_splits/segmented_lines_per_image/data_4/line_1.png,Label: 1 tablet every 4 hours for,
-image_splits/training_set_splits/segmented_lines_per_image/data_4/line_2.png,fever and headache,
-image_splits/training_set_splits/segmented_lines_per_image/data_4/line_3.png,Paracetamol 500mg/tablet,
-image_splits/training_set_splits/segmented_lines_per_image/data_4/line_4.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_4/line_5.png,Sodium Ascorbate + Zinc tab,
-image_splits/training_set_splits/segmented_lines_per_image/data_4/line_6.png,(Immunpro) #10,
-image_splits/training_set_splits/segmented_lines_per_image/data_4/line_7.png,Label: 1 tablet after breakfast,
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_0.png,Sig: Ipahid sa lahat ng apektadong bahagi,
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_1.png,3. Avene Cicalfate Cream / Zinc Oxide 10% Cream,
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_2.png,"Sig: Gamitin 3x/day sa katawan,",
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_3.png,1. Muiprocin ointment #1,
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_4.png,2x/day until healed,
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_5.png,2. Clobetasol Propionate 0.05% cream #1,
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_6.png,"Sig: Ipahid sa braso, legs, leeg 2x/day",
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_7.png,until 14th day,
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_8.png,#1,
-image_splits/training_set_splits/segmented_lines_per_image/data_5/line_9.png,(2x/day sa genital area),
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_0.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_1.png,Azithromycin 500mg/tab,
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_2.png,PECOF tablet #14,
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_3.png,(7AM - 7PM),
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_4.png,(Azcotil),
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_5.png,Sig: 1 tab Once a Day,
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_6.png, x 5 Days x 5,
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_7.png,(12 NOON),
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_8.png,Bromhexine + Salbutamol +,
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_9.png,Guaifenesin,
-image_splits/training_set_splits/segmented_lines_per_image/data_6/line_10.png,Sig: 1 tab 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_7/line_0.png,2,
-image_splits/training_set_splits/segmented_lines_per_image/data_7/line_1.png,Cetirizine tablet 10mg #14,
-image_splits/training_set_splits/segmented_lines_per_image/data_7/line_2.png,Sig: 1 tablet once a day ,
-image_splits/training_set_splits/segmented_lines_per_image/data_7/line_3.png,At bedtime for 16 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_0.png,Rosuvastatin 10mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_1.png,(Rosustat / Lustatin) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_2.png,1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_3.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_4.png,Amlopdipine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_5.png,(Provasc / ),
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_6.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_7.png,Lozartan 50mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_8.png,(Kenzar),
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_9.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_10.png,REQUEST FOR DIAGNOSTIC TEST,
-image_splits/training_set_splits/segmented_lines_per_image/data_8/line_11.png,S:,
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_0.png,Sig: Ipahid sa makapal na butlig,
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_1.png,1. Clobetasol Propionate 0.05% cream #1,
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_2.png,2x/day hanggang numipis,
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_3.png,2. Avene Cicalfate Cream,
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_4.png,Sig: Ipahid 3x.day sa katawan (2x/day sa genital area),
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_5.png,#1 ,
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_6.png,3. Niacinamide Cream,
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_7.png,Sig: Ipahid sa mga maitim na sugat,
-image_splits/training_set_splits/segmented_lines_per_image/data_9/line_8.png,2x/day,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_0.png,Levofloxacin 500mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_1.png,(Omnivox) #7,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_2.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_3.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_4.png,Rosuvastatin 10mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_5.png,(Rosustat) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_6.png,S: 1 tablet every other day,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_7.png,Amlodipine 5mg #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_8.png,(Bezam) (Provasc),
-image_splits/training_set_splits/segmented_lines_per_image/data_10/line_9.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_12/line_0.png,Amlopidine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_12/line_1.png,(Provasc) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_12/line_2.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_12/line_3.png,1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_12/line_4.png,S: ,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_0.png,Amlodipine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_1.png,(Provasc) #200,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_2.png,(Provasc) #200,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_3.png,#200,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_4.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_5.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_6.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_7.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_8.png,Febuxostat 40mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_9.png,(Urica / Uxenta) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_10.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_11.png,Multivitamin ,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_12.png,(Centrum gold),
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_13.png,#200,
-image_splits/training_set_splits/segmented_lines_per_image/data_14/line_14.png,Amlodipine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_15/line_0.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_15/line_1.png,Amlodipine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_15/line_2.png,(Provasc) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_15/line_3.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_15/line_5.png,(Urica) 40mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_15/line_6.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_15/line_7.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_0.png,1. GLICLAZIDE,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_1.png,(ZELTINE MR),
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_2.png,80mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_3.png,#400 370,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_4.png,SIG: 1 TABLET 2X A DAY,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_5.png,BEFORE MEALS,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_6.png,2. PIOGLITAZONE,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_7.png,30mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_8.png,(PIOZONE),
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_9.png, #200 170,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_10.png,SIG: 1 TABLET 2X A DAY,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_11.png,BEFORE LUNCH,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_12.png,ATORVASTATIN 10MG,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_13.png,Atormax,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_14.png, #200 170,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_15.png,RITEMED,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_16.png,1 TABLET ONCE A DAY,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_17.png,AT NIGHT,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_18.png,4. VITAMIN B COMPLEX,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_19.png,(PHAREX) ,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_20.png, #200 170,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_21.png,S: 1 TABLET ONCE A DAY,
-image_splits/training_set_splits/segmented_lines_per_image/data_16/line_22.png,IN THE MORNING,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_0.png,Label: 1 tablet every 8 hours for,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_1.png,7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_2.png,colds,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_3.png,Hexitidine oral antiseptic,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_4.png,(Bactidol) #1 bottle,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_5.png,9pm,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_6.png,Label: 1 tablet at night,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_7.png,Co-amixoclav 625mg/tablet,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_8.png,6pm,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_9.png,Sinupret Forte #15,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_10.png,Label: gargle 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_11.png,Bilastine 20mg/tablet #5,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_12.png,# 21,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_13.png,2pm,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_14.png,10pm,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_16.png,7am,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_17.png,1pm,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_18.png,7pm,
-image_splits/training_set_splits/segmented_lines_per_image/data_18/line_19.png,Label: 1 tablet 3x a day for,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_0.png,2. Paracetamol 500mg/tab #16,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_1.png,Sig. take 1 tablet,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_2.png,1. Co amoxiclav 625mg / tab #25,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_3.png,Sig. take 1 tablet,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_4.png,P5,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_5.png,Every 8 hours for,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_6.png,7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_7.png,Every 6 hours as needed,
-image_splits/training_set_splits/segmented_lines_per_image/data_19/line_8.png,for fever,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_0.png,Amlodipine 10mg #200,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_1.png,(Bezam),
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_2.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_3.png,Rosuvastatin 10mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_4.png,(Lustatin) #200,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_5.png,Rx Am,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_6.png,Telmisartan #200,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_7.png,(Teldra) 50mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_8.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_20/line_9.png,PM S: 1 table once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_0.png,Accuflam spray,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_1.png,#1,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_2.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_3.png,(Cataflam) 50mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_4.png,#5,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_5.png,Diclofenac,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_6.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_7.png,or as needed for pain,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_8.png,#1,
-image_splits/training_set_splits/segmented_lines_per_image/data_21/line_9.png,S: AD,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_0.png,(zinof) #200,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_1.png,Amlodipine 5mg #200,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_2.png,fenofibrate 200mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_3.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_4.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_6.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_7.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_8.png,(Bezam/Provasc),
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_9.png,Lozartan 50mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_10.png,(Kenzar / Bezartan),
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_11.png,#200,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_12.png,Metformin 500mg #400,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_13.png,(Normax),
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_14.png,1 tablet 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_23/line_15.png,S:,
-image_splits/training_set_splits/segmented_lines_per_image/data_24/line_0.png,vit c/ zinc,
-image_splits/training_set_splits/segmented_lines_per_image/data_24/line_1.png,(Civaz),
-image_splits/training_set_splits/segmented_lines_per_image/data_24/line_2.png,S: 1 tablet once,
-image_splits/training_set_splits/segmented_lines_per_image/data_24/line_3.png,a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_24/line_4.png,S:,
-image_splits/training_set_splits/segmented_lines_per_image/data_24/line_5.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_0.png,Amlodipine 500mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_1.png,(Provasc),
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_2.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_3.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_4.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_5.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_6.png,(Atenurix) 40mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_7.png,#60,
-image_splits/training_set_splits/segmented_lines_per_image/data_25/line_8.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_26/line_0.png,DUO,
-image_splits/training_set_splits/segmented_lines_per_image/data_26/line_1.png,EMPAGLIFLOZIN,
-image_splits/training_set_splits/segmented_lines_per_image/data_26/line_2.png,METFORMIN,
-image_splits/training_set_splits/segmented_lines_per_image/data_26/line_3.png,12.5,
-image_splits/training_set_splits/segmented_lines_per_image/data_26/line_4.png,500,
-image_splits/training_set_splits/segmented_lines_per_image/data_26/line_5.png,Jardiance,
-image_splits/training_set_splits/segmented_lines_per_image/data_26/line_6.png,#200,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_0.png,5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_1.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_2.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_3.png,(Neomet) 500mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_4.png,#200,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_5.png,Amlodipine,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_6.png,(Provasc),
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_7.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_8.png,S: 1 tablet 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_9.png,S:,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_10.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_11.png,Lozartan 50mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_27/line_12.png,(Kenzar) 	#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_0.png,(Provasc)   #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_1.png,S: 1 tablet 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_2.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_3.png,lozartan 50mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_4.png,7AM,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_5.png,(Kenzar) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_6.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_7.png,(glitab) 30mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_9.png,#200,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_10.png,Metformin 500mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_11.png,(Neomet) #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_12.png,S: 1 tablet,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_13.png,once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_14.png,Amlodipine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_15.png,Rx 7pm,
-image_splits/training_set_splits/segmented_lines_per_image/data_28/line_16.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_0.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_1.png,5mg/5ml,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_2.png,7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_3.png,10mg/5ml,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_4.png,2. Prednisone syrup,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_5.png,#5,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_6.png,Sig: Give 3.2ml 2x/day,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_7.png,for 5 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_8.png,Syrup,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_9.png,1.Cetirizine,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_10.png,#1,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_11.png,2x/day for,
-image_splits/training_set_splits/segmented_lines_per_image/data_30/line_12.png,Sig: Give 2.5ml ,
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_0.png,2. Etoxib ,
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_1.png,60mg #10,
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_2.png,stomach for 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_3.png,S: 1tab 2x/day ,
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_4.png,For 3-6days,
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_5.png,(7am-3pm-11pm),
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_6.png,1. Clindamycin (Peldacyn),
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_7.png,300 g # 21 or (Dalacin-C),
-image_splits/training_set_splits/segmented_lines_per_image/data_38/line_8.png,S: 1cap every 8hrs on full,
-image_splits/training_set_splits/segmented_lines_per_image/data_39/line_0.png,1 vial,
-image_splits/training_set_splits/segmented_lines_per_image/data_39/line_1.png,2x/day,
-image_splits/training_set_splits/segmented_lines_per_image/data_39/line_2.png,mix,
-image_splits/training_set_splits/segmented_lines_per_image/data_39/line_3.png,in water (½ glass will do),
-image_splits/training_set_splits/segmented_lines_per_image/data_39/line_4.png,Take,
-image_splits/training_set_splits/segmented_lines_per_image/data_39/line_5.png,Bacillus ,
-image_splits/training_set_splits/segmented_lines_per_image/data_39/line_6.png,(Erceflora) # 10,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_0.png,5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_1.png,(Provasc),
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_2.png,"S: 1-2 tablets as needed for insomnia",
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_3.png,Amlopidine,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_4.png,S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_5.png,S: 1 tablet as needed,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_6.png,for dizziness,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_7.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_8.png,Betahistine,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_9.png,16mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_10.png,(Nuvert),
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_11.png,#30,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_12.png,Melatonin 3mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_13.png,#30,
-image_splits/training_set_splits/segmented_lines_per_image/data_40/line_14.png,for insomnia,
-image_splits/training_set_splits/segmented_lines_per_image/data_49/line_0.png,Dynatussin – # 30 tabs,
-image_splits/training_set_splits/segmented_lines_per_image/data_49/line_1.png,Sig: 1 tablet 3x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_49/line_2.png,"Co-Amoxiclav 625 mg – 14 tabs",
-image_splits/training_set_splits/segmented_lines_per_image/data_49/line_3.png,"Sig: 1 tablet 2x daily for 7 days",
-image_splits/training_set_splits/segmented_lines_per_image/data_49/line_4.png,Azithromycin 500mg – #3 tabs,
-image_splits/training_set_splits/segmented_lines_per_image/data_49/line_5.png,Sig: 1 tablet once a day for 3 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_0.png,Spironolactone 25 mg – # 8,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_1.png,Sig 1 tab 2x a week (Tuesday & Saturday),
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_2.png,"after breakfast",
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_3.png,Tamsulosin 400 mcg – #30,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_4.png,Sig 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_5.png,Sodium Bicarbonate 650mg – #60,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_6.png,Sig 1 tablet 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_7.png,"Citicoline 500 mcg – #30",
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_8.png,Sig 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_9.png,"Memantine 10mg – #60",
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_10.png,Sig 1 tablet 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_11.png,Tiotropium/Olodaterol (Spiolto Respimat),
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_12.png,Sig 2 puffs once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_13.png,Rosuvastatin 10mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_14.png,– #30,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_15.png,Sig 1 tablet at bedtime,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_16.png,Quetiapine 100 mcg – #30,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_17.png,"Sig ½ tablet 2x a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_18.png,Escitalopram 10 mg – #30,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_19.png,Sig 1 tablet once day,
-image_splits/training_set_splits/segmented_lines_per_image/data_52/line_20.png,at bedtime,
-image_splits/training_set_splits/segmented_lines_per_image/data_54/line_0.png,Clindamycin 300mg/cap – 28,
-image_splits/training_set_splits/segmented_lines_per_image/data_54/line_1.png,"(6am -12pm - 6pm - 12am)",
-image_splits/training_set_splits/segmented_lines_per_image/data_54/line_2.png,"This is skin infection",
-image_splits/training_set_splits/segmented_lines_per_image/data_54/line_3.png,Co-Amoxiclav 625 mg – 21 tabs,
-image_splits/training_set_splits/segmented_lines_per_image/data_54/line_4.png,Sig 1 tablet 3x daily for 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_54/line_5.png,"Sig 1 cal every 6 hours for 7 days",
-image_splits/training_set_splits/segmented_lines_per_image/data_56/line_0.png,Clindamycin 75mg/5ml,
-image_splits/training_set_splits/segmented_lines_per_image/data_56/line_1.png,Sig take 20ml via,
-image_splits/training_set_splits/segmented_lines_per_image/data_56/line_2.png,#4,
-image_splits/training_set_splits/segmented_lines_per_image/data_56/line_3.png,mouth three times a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_56/line_4.png,with strict aspiration precaution,
-image_splits/training_set_splits/segmented_lines_per_image/data_56/line_5.png,for 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_0.png,Sig take 1 tablet once a ,
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_1.png,day at breakfast,
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_2.png,1. Biotene Spray,
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_3.png,Sig Spray on oral mucosa #3,
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_4.png,3x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_5.png,2. Carbocisteine 100 mg/5 mL ,
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_6.png,(Loviscol) (120ml) #3,
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_7.png,"Sig Give 5ml three times a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_57/line_8.png,3. Omeprazole 40mg # 14,
-image_splits/training_set_splits/segmented_lines_per_image/data_60/line_0.png,at bedtime,
-image_splits/training_set_splits/segmented_lines_per_image/data_60/line_1.png,"Paracetamol 250ml/5ml",
-image_splits/training_set_splits/segmented_lines_per_image/data_60/line_2.png,(Calpol),
-image_splits/training_set_splits/segmented_lines_per_image/data_60/line_3.png,#3,
-image_splits/training_set_splits/segmented_lines_per_image/data_60/line_4.png,Sig take 10ml every,
-image_splits/training_set_splits/segmented_lines_per_image/data_60/line_5.png,4 hours for fever,
-image_splits/training_set_splits/segmented_lines_per_image/data_60/line_6.png,"> 37.3 C",
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_0.png,"Essentiale # 20",
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_1.png,Once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_2.png,Heparin 30g OD #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_3.png,Inhaled,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_4.png,Corolan 7.5g # 200,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_5.png,Facial,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_6.png,Lasix 40g # 100,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_7.png,Espididol,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_8.png,Inspra 25g # 100,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_9.png,Daily,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_10.png,"Coversyl 5g # 100",
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_11.png,Esd bc,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_12.png,Jardiance 25g # 100,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_13.png,Trimag 200g # 100,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_14.png,Cardiomax # 200,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_15.png,Nebilet 5g #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_16.png,Candid V 200mg #300,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_17.png,Plosul 75g # 100,
-image_splits/training_set_splits/segmented_lines_per_image/data_62/line_18.png,Roswin 10g # 100,
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_0.png,"S: 1 tablet once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_1.png,7pm,
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_2.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_3.png,Amlodipine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_4.png,"(Provasc) # 100",
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_5.png,7am (Atenurix) 40mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_6.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_7.png,"S: 1 tablet once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_8.png,(Rosuvastatin) 10mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_65/line_9.png,7pm S: 1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_0.png,10mg # 100,
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_1.png,Amlodipine 5mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_2.png,"(Provasc) # 100",
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_3.png,Losartan 50mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_4.png,(Kenzar) # 100,
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_5.png,(Lustatin / Rosuvast),
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_6.png,"S: 1 tablet once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_7.png,"S: 1 tablet once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_69/line_8.png,"S: 1 tablet once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_0.png,Losartan 50mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_1.png,(Kenzar),
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_2.png,1 tablet once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_3.png,(Omnivox) 500mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_4.png,#7,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_5.png,"S: 1 tablet once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_6.png,Lunch,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_7.png,Morning,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_8.png,(Lustatin) 10mg #100,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_9.png,Rosuvast,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_10.png,Before,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_11.png,Bedtime,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_12.png,"S: 1 tablet once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_13.png,"(Provasc) 5mg #100",
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_14.png,Bedtime,
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_15.png,"S: 1 tablet once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_70/line_16.png,#100,
-image_splits/training_set_splits/segmented_lines_per_image/data_71/line_0.png,Flutiform Inhaler 125 # 2,
-image_splits/training_set_splits/segmented_lines_per_image/data_71/line_1.png,Flutiform Inhaler 125 # 2,
-image_splits/training_set_splits/segmented_lines_per_image/data_71/line_2.png,gargle after use,
-image_splits/training_set_splits/segmented_lines_per_image/data_71/line_3.png,(1 - 0 - 1),
-image_splits/training_set_splits/segmented_lines_per_image/data_73/line_0.png,at bedtime,
-image_splits/training_set_splits/segmented_lines_per_image/data_73/line_1.png,S: apply on forehead/hairline,
-image_splits/training_set_splits/segmented_lines_per_image/data_73/line_2.png,Daivobet ointment,
-image_splits/training_set_splits/segmented_lines_per_image/data_73/line_3.png,Hydrocortisone 1% cream,
-image_splits/training_set_splits/segmented_lines_per_image/data_73/line_4.png,S: apply 2x/day on side,
-image_splits/training_set_splits/segmented_lines_per_image/data_73/line_5.png,of nose,
-image_splits/training_set_splits/segmented_lines_per_image/data_73/line_6.png,Halovate ointment,
-image_splits/training_set_splits/segmented_lines_per_image/data_73/line_7.png,S: apply on legs 2x/day,
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_1.png,Itraconazole 100mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_2.png,10 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_3.png,#7,
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_4.png,(Inox),
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_5.png,0 - 1 - 0,
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_6.png,S: 1 tab a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_7.png,Clotrimazole eardrops,
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_8.png,(Candiva otic),
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_9.png,2 drops in right ear,
-image_splits/training_set_splits/segmented_lines_per_image/data_74/line_10.png,2x/day for,
-image_splits/training_set_splits/segmented_lines_per_image/data_78/line_0.png,Ciprofloxacin,
-image_splits/training_set_splits/segmented_lines_per_image/data_78/line_1.png,500 mg/tab × 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_78/line_2.png,AM LUNCH PM BED TIME NO. OF,
-image_splits/training_set_splits/segmented_lines_per_image/data_78/line_3.png,PIECES,
-image_splits/training_set_splits/segmented_lines_per_image/data_78/line_4.png,8A,
-image_splits/training_set_splits/segmented_lines_per_image/data_78/line_5.png,8P,
-image_splits/training_set_splits/segmented_lines_per_image/data_78/line_6.png,#14,
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_0.png,1. Cefuroxime,
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_1.png,???,
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_2.png,(Cemex),
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_3.png,× 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_4.png,AM LUNCH PM BED TIME NO. OF,
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_5.png,PIECES,
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_6.png,8A,
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_7.png,8P,
-image_splits/training_set_splits/segmented_lines_per_image/data_81/line_8.png,#14,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_0.png,1. Co-Amoxiclav,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_1.png,(Augmentin) 625mg / tab,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_2.png,Fluimucil,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_3.png,600 mg/tab × 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_4.png,AM LUNCH PM BED TIME NO. OF,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_5.png,PIECES,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_6.png,#14,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_7.png,#7,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_8.png,8A,
-image_splits/training_set_splits/segmented_lines_per_image/data_88/line_9.png,8P,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_0.png,Sinecod,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_1.png,Forte,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_2.png,625 mg/tab × 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_3.png,AM LUNCH PM BED TIME NO. OF,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_4.png,#21,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_5.png,#5,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_6.png,#14,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_7.png,PIECES,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_8.png,Cetirizine,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_9.png,5 days ,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_10.png,1 tab x,
-image_splits/training_set_splits/segmented_lines_per_image/data_91/line_11.png,Co-Amoxiclav,
-image_splits/training_set_splits/segmented_lines_per_image/data_95/line_0.png,Deolsin capsule #20,
-image_splits/training_set_splits/segmented_lines_per_image/data_95/line_1.png,2 sprays/nostril,
-image_splits/training_set_splits/segmented_lines_per_image/data_95/line_2.png,Nasofree/Clariderm,
-image_splits/training_set_splits/segmented_lines_per_image/data_95/line_3.png,Every 12 hrs,
-image_splits/training_set_splits/segmented_lines_per_image/data_95/line_4.png,if needed,
-image_splits/training_set_splits/segmented_lines_per_image/data_95/line_5.png,Do not exceed 5 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_95/line_6.png,of regular use ,
-image_splits/training_set_splits/segmented_lines_per_image/data_95/line_10.png,Oxymetazoline,
-image_splits/training_set_splits/segmented_lines_per_image/data_96/line_0.png,RX,
-image_splits/training_set_splits/segmented_lines_per_image/data_96/line_1.png,Mucosaliv,
-image_splits/training_set_splits/segmented_lines_per_image/data_96/line_2.png,30g,
-image_splits/training_set_splits/segmented_lines_per_image/data_96/line_4.png,2x,
-image_splits/training_set_splits/segmented_lines_per_image/data_97/line_0.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_97/line_1.png,July,
-image_splits/training_set_splits/segmented_lines_per_image/data_97/line_2.png,Ultrasound of whole abdomen,
-image_splits/training_set_splits/segmented_lines_per_image/data_97/line_3.png,U/S of H breast & axilla,
-image_splits/training_set_splits/segmented_lines_per_image/data_98/line_0.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_98/line_1.png,(Tobracare),
-image_splits/training_set_splits/segmented_lines_per_image/data_98/line_2.png,1g,
-image_splits/training_set_splits/segmented_lines_per_image/data_98/line_3.png,Oint,
-image_splits/training_set_splits/segmented_lines_per_image/data_100/line_0.png,1 cap 2x a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_100/line_1.png,2. Glumet XR 500mg/tab #2,
-image_splits/training_set_splits/segmented_lines_per_image/data_100/line_2.png,1 tab once a day,
-image_splits/training_set_splits/segmented_lines_per_image/data_100/line_3.png,#13,
-image_splits/training_set_splits/segmented_lines_per_image/data_100/line_4.png,Silgram 750mg/cap,
-image_splits/training_set_splits/segmented_lines_per_image/data_100/line_5.png,Rx,
-image_splits/training_set_splits/segmented_lines_per_image/data_101/line_0.png,Amoxicillin Trihydrate 500 mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_101/line_1.png,(Amoxcillin) #15,
-image_splits/training_set_splits/segmented_lines_per_image/data_101/line_2.png,Sig: 1 tab 3x a day x 5 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_101/line_3.png,Mefenamic Acid 500 mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_101/line_4.png,(Dolfenal) #6,
-image_splits/training_set_splits/segmented_lines_per_image/data_101/line_5.png,Sig: 1 tab every 4 hours,
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_0.png,1. at bedtime ,
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_1.png,8:00 PM,
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_2.png,(Stelix) (10/5),
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_3.png,1. Nac (Pneumotyl) 600 - 7,
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_4.png,1. tablet dissolve in 1 glass of,
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_5.png,"water, once a day",
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_6.png,(12nn),
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_7.png,2. Levofloxacin (Levoflox) 500 #7,
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_8.png,12 noon,
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_9.png,S:,
-image_splits/training_set_splits/segmented_lines_per_image/data_102/line_10.png,3. Montelukast + Cetirizine,
-image_splits/training_set_splits/segmented_lines_per_image/data_103/line_0.png,1. Montelukast + Cetirizine,
-image_splits/training_set_splits/segmented_lines_per_image/data_103/line_1.png,(Stelix) 10/5,
-image_splits/training_set_splits/segmented_lines_per_image/data_103/line_2.png,-15,
-image_splits/training_set_splits/segmented_lines_per_image/data_103/line_3.png,S: 2. at bedtime,
-image_splits/training_set_splits/segmented_lines_per_image/data_104/line_0.png,S: 1. oday,
-image_splits/training_set_splits/segmented_lines_per_image/data_104/line_1.png,x 2 weeks,
-image_splits/training_set_splits/segmented_lines_per_image/data_104/line_2.png,1. Pantoprazole + Domperidone  ,
-image_splits/training_set_splits/segmented_lines_per_image/data_104/line_3.png,#15,
-image_splits/training_set_splits/segmented_lines_per_image/data_104/line_4.png,(Pantec) 40/30,
-image_splits/training_set_splits/segmented_lines_per_image/data_105/line_0.png,RX,
-image_splits/training_set_splits/segmented_lines_per_image/data_105/line_1.png,co-amoxiclav 625 mg / capsule,
-image_splits/training_set_splits/segmented_lines_per_image/data_105/line_2.png,Sig: 1 capsule every 8 hours x 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_105/line_3.png,Arcoxia 90 mg / capsule,
-image_splits/training_set_splits/segmented_lines_per_image/data_105/line_4.png,Sig: 1 capsule OD / once a day or as,
-image_splits/training_set_splits/segmented_lines_per_image/data_105/line_5.png,needed for pain,
-image_splits/training_set_splits/segmented_lines_per_image/data_106/line_0.png,RX,
-image_splits/training_set_splits/segmented_lines_per_image/data_106/line_1.png,cefalexin 500mg/capsule,
-image_splits/training_set_splits/segmented_lines_per_image/data_106/line_2.png,1: capsule every 8 hours x 7 days,
-image_splits/training_set_splits/segmented_lines_per_image/data_106/line_3.png,Sig:,
-image_splits/training_set_splits/segmented_lines_per_image/data_106/line_4.png,mefenamic acid 500mg/capsule,
-image_splits/training_set_splits/segmented_lines_per_image/data_106/line_5.png,Sig: 1 capsule every 8 hours as needed,
-image_splits/training_set_splits/segmented_lines_per_image/data_106/line_6.png,for pain,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_0.png,amlodipine 10 g,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_1.png,Atorvastatin 40 mg,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_2.png,S: 1 l od (7pm),
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_3.png,50g,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_4.png,100,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_5.png,(Lifezar),
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_6.png,S: 1 l od (7am),
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_7.png,100,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_8.png,(Lipitor) ,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_9.png,Febuxostat 40,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_10.png,100,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_11.png,(Atenurix),
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_12.png,RX,
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_13.png,(Norvasc),
-image_splits/training_set_splits/segmented_lines_per_image/data_107/line_14.png,100,
-image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_0.png,100 mg,
-image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_1.png,celecoxib,
-image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_2.png,#2 capsules,
-image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_3.png,Sig: take 1 cap every 12 hours,
-image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_4.png,"for moderate pain, as needed",
-image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_0.png,50mg,
-image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_1.png,Diclofenac k 50mg,
-image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_2.png,#9 tabs,
-image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_3.png,Sig: take 1 tab every 8 hours,
-image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_4.png,for moderate pain as,
-image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_5.png,needed,
-image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_0.png,??mg,
-image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_1.png,Ibuprofen,
-image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_2.png,#6 caps,
-image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_3.png,Sig: take 1 cap every 8 hrs,
-image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_4.png,as needed,
-image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_5.png,"(3x a day) for mild pain,",
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_0.png,Prednisone ,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_1.png,10mg,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_2.png,#10 tabs,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_3.png,Sig:  - take 1 tab every 6 hrs on,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_4.png,the first day,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_5.png,- take 1 tab every 8 hours on,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_6.png,the second day,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_7.png,- take 1 tab every 12 hours on,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_8.png,the third day,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_9.png,- take 1 tab once on the,
-image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_10.png,"fourth day, ??",
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_1.png,1. Ibuprofen 400 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_2.png,#10,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_3.png,2. Celecoxib 200 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_4.png,Sig: 1 capsule once a day,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_5.png,3. Clonidine 0.17 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_6.png,Sig: 1 tablet at bedtime,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_7.png,4. Metoclopramide 10 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_8.png,Sig: 1 tablet OD 30 minutes,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_9.png,before meals & at bedtime,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_10.png,5. Naproxen 500 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_11.png,#5,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_12.png,S: 1 tablet daily,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_13.png,S: 1 tablet q 4 hours as needed,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_14.png,6. Omaprazole 40 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_15.png,#20,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_16.png,S: 1 capsule 30-60 min before breakfast,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_17.png,7. Atenolol 50 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_18.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_19.png,S: 1 tablet daily,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_0.png,8. Clopidogrel 70 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_1.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_2.png,S: 1 tablet once a day,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_3.png,9. Paracetamol 500 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_4.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_5.png,S: 1 tablet for 4 hrs pain,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_6.png,10. Amlodipine 5 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_7.png,S: 1 tablet once a day,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_8.png,11. Aspirin 80 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_9.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_10.png,S: 1 tablet od 4 to 6 hours as needed,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_11.png,12 Risedronate 35 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_12.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_13.png,S: 1 tablet per orem once a week,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_14.png,13. Colchicine 500 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_15.png,#10,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_16.png,S: 1 table for hour x 8 hours,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_17.png,14 Losartan 50 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_18.png,S: 1 tablet once a day,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_19.png,15. Prednisone 10 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_20.png,#15,
-image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_21.png,S: 1 tablet 3x a day,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_1.png,16. Metoprolol 15 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_2.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_3.png,S: 1 tablet daily,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_4.png,17. cholecalciferol (vitamin D3),
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_5.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_6.png,S: 1 gtt once a day,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_7.png,18. Diclofenac 50 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_8.png,#10,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_9.png,S: 1 tablet 3x day p.c,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_10.png,19. Alendronate 10 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_11.png,#21,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_12.png,S: 1 tablet once a week in the morning,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_13.png,20. Simvastatin 40 mg,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_14.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_15.png,S: 1 tablet once a day in evening ,
-image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_1.png,Tramadol 50 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_2.png,One table orally every 4-6 hours.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_3.png,Celecoxib 200 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_4.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_1.png,Paracetamol 500 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_2.png,One tablet orally every 6 hours,
-image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_3.png,4,
-image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_4.png,Famotidine 20 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_5.png,One tablet orally every 6 hours.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_1.png,Atorvastatin 20 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_2.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_3.png,Metformin 500 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_4.png,One tablet 2x/day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_1.png,Losartan 50 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_2.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_3.png,Amlodipine 5 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_4.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_1.png,Losartan 100 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_2.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_3.png,Amlodipine 10 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_4.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_1.png,Finasteride 5 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_2.png,One tablet orally once daily.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_3.png,(same time each day),
-image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_4.png,Methimazole 40 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_5.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_1.png,Enalapril 5 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_2.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_3.png,Sucralfate 1 gram/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_4.png,One tablet 4x/day for 4-8 wks.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_1.png,Methimazole 30 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_2.png,One tablet orally per day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_3.png,Oxybutynin 5 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_4.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_1.png,17. Oxybutynin 10 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_2.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_3.png,18. Codeine 30 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_4.png,One tablet orally every 4-6 hrs.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_1.png,19. Enalapril 5 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_2.png,One tablet 2x/day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_3.png,Memantine 5 mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_4.png,One tablet once a day for 7 days.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_5.png,then 2x/day for 10 days.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_1.png,ISOSORBIDE MONONITRATE 30mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_2.png,One tablet once a day (in the morning).,
-image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_3.png,CALCIUM CARBONATE 500mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_4.png,One tablet every 4 hours.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_1.png,GLICLAZIDE 60mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_2.png,One tablet once a day,
-image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_3.png,(after breakfast).,
-image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_4.png,TIOTROPIUM 18mcg/dose,
-image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_6.png,One puff via inhaler once daily.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_1.png,INSULIN GLARGINE 100iu/mL prefilled,
-image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_2.png,syringe,
-image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_3.png,One mL subcutaneously once daily.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_4.png,BISOPROLOL FUMARATE 5mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_5.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_1.png,METFORMIN 850mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_2.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_3.png,SERTRALINE 50mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_4.png,One tablet once a day (evening).,
-image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_1.png,ATORVASTATIN 40mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_2.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_3.png,TAMSULOSIN 200mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_4.png,One tablet once a day (after meal).,
-image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_1.png,PREDNISONE 10mg/5mL suspension,
-image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_2.png,5mL once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_3.png,CELECOXIB 100mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_4.png,One tablet 2x/day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_1.png,ALLOPURINOL 100mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_2.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_3.png,LEVOTHYROXINE 50mcg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_4.png,One tablet once a day (on empty stomach).,
-image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_1.png,ALLOPURINOL 300mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_2.png,½ tablet 2x/day (AM - PM).,
-image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_3.png,NAPROXEN 500mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_4.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_1.png,SPIRONOLACTONE 100mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_2.png,One tablet once daily.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_3.png,PREDNISONE10mg /tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_4.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_1.png,TAMSULOSIN 400mcg/fc tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_2.png,One tablet orally once a day.,
-image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_3.png,ATROVASTATIN 80mg/tab,
-image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_4.png,One tablet once a day.,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_0.png,1. Ibuprofen 40mg,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_1.png,"S: 4mg every 4-6 hrs,",
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_2.png,as needed,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_3.png,2 Celecoxib 200mg,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_4.png,"S: one tablet 2x, as",
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_5.png,needed,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_6.png,3. Tramadol 50 mg,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_7.png,S: one tablet 3x day,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_8.png,4. Alendronate 10 mg,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_9.png,S: one tablet once,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_10.png,weekly first thing in the,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_11.png,morning,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_12.png,5. Omeprazole 40mg,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_13.png,S: one tablet once a day,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_14.png,before breakfast,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_15.png,6. Amlodipine 5 mg,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_16.png,S: one tablet 1 x day,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_17.png,S: one tablet 1 x day,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_18.png,7. Cholecalciferol (Vitamin D3),
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_19.png,1 tab / day,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_20.png,S: use drop orally once,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_21.png,a day,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_22.png,8. Aspirin 80 mg,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_23.png,S: one tablet every 4-6 hrs,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_24.png,as needed,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_25.png,9. Paracetamol ?mg,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_26.png,S: one tablet every,
-image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_27.png,4 hrs,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_0.png,1. Paracetamol 500 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_1.png,#20,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_2.png,S: 1 tablet every 6 hours as needed for 5 >= 37.8,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_4.png,2. Amlodipine 10 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_5.png,#100,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_6.png,S: 1 tablet once a day,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_7.png,3. Metoclopramide 10 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_8.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_9.png,1 tablet 4x a day 30 minutes before meals and at bedtime for 7 days,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_10.png,4. Ondansetron 8 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_11.png,#7,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_12.png,S: 1 tablet once a day for 7 days,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_13.png,5. Simvastatin 20 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_14.png,#100,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_15.png,S: 1 tablet once a day in the evening,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_16.png,6. Tramadol 50 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_17.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_18.png,S: 1 tablet every 6 hours as needed for pain,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_19.png,7. Aspirin 80 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_20.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_21.png,S: 1 tablet every 6 hours as needed ,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_0.png,8. Carvedilol 6.25 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_1.png,#60,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_2.png,S: 1 tablet 2x a day for 1 month,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_3.png,9. Clopidogrel 75 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_4.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_5.png,S: 1 tablet once a day for 1 month,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_6.png,10. Ibuprofen 400 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_7.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_8.png,S: 1 tablet every 4 hours as needed,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_9.png,11. Losartan 50 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_10.png,#100,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_11.png,S: 1 tablet once a day,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_12.png,12. Celecoxib 200 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_13.png,#14,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_14.png,S: 1 tablet once a day as needed for pain,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_15.png,13. Colchicine tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_16.png,#60,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_17.png,S: 1 tablet 2x a day for 1 month,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_18.png,14. Alendronate 70 mg tablet,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_19.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_20.png,S: 1 tablet once every week first thing in the morning,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_0.png,1. Ibuprofen 400 mg,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_1.png,Sig: once a day x 5 days,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_2.png,2. Celecoxib 200 mg,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_3.png,Sig: 1 tab 2x a day x 7 days,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_4.png,3. Tramadol 50 mg,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_5.png,Sig: once a day as needed,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_6.png,4. Metoclopramide 10 mg,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_7.png,Sig (10mg) 3x a day as needed,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_8.png,5. Omeprazole 40 mg,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_9.png,Sig: once a day x 7 days,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_10.png,6. Aspirin 100 mg,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_11.png,Sig: 1 tab once a day,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_12.png,7. Amlodipine 5 mg,
-image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_13.png,Sig: 1 tab once a day,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_0.png,1) Ibuprofen #20,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_1.png,400mg every 6 hours as needed,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_2.png,2) Celecoxib #14,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_3.png,200mg once d or 100g 2x d,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_4.png,3) Tramadol #10,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_5.png,50mg orally every 6 hours,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_6.png,4) Metoclopramide #10,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_7.png,10 mg up to 4 times a day 30 minutes before meals and at bedtime,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_8.png,5) Diclofenac #5,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_9.png,Inj.: 50 mg enteric coated tablet or MR tablet 2–3×/day with meals,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_10.png,6) Colchicine #30,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_11.png,1 tablet (500 micrograms) taken 2-4x d,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_12.png,7) Naproxen #14,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_13.png,500mg every 6 hours,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_14.png,8) Prednisone #3,
-image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_15.png,Oral: 10mg/ml - 3x a d,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_0.png,9) Omeprazole #30 14,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_1.png,S: 40mL/mg take 1 capsule once d ,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_2.png,10.) Cholecalciferol (Vit D3) #7,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_3.png,One drop containing 25.000 iu once a month,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_4.png,11) Metoprolol #100,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_5.png,50mg/100mg once a day,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_6.png,12) Atenolol,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_7.png,#30,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_8.png,50-100mg once a day, 
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_9.png,13) Paracetamol #20,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_10.png,Oral: 500mg tablet evy 4 hours,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_11.png,14) Clopidogrel #100,
-image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_12.png,Oral: 75mg 1 tablet once a d,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_0.png,1. Atenolol 50mg #30,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_1.png,Sig: 1 tablet once a day,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_2.png,2. Omeprazole 40mg #20,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_3.png,Sig: 1 capsule 30-60mins before breakfast,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_4.png,3) Naproxen tab 500mg #5,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_5.png,Sig: 1 tablet daily,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_6.png,4. Metoclopramide 10mg #10,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_7.png,Sig: 1 tab 4x a dy 30 mins before meals and,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_8.png,at bedtime,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_9.png,5) Clonidine 0.17mg #5,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_10.png,S: 1 tab at bedtime,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_11.png,6) Celecoxib 200mg #20,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_12.png,S: 1 cap once a day,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_13.png,7) Ibuprofen tab #10,
-image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_14.png,S: 1 tab every 4 hours as needed,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_0.png,8. Clopidogrel 75mg #30,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_1.png,S: 1tab once a day,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_2.png,9. Paracetamol tab 500mg #30,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_3.png,Sig: 1 tab every 4 hours for fever,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_4.png,10. Amlodipine 5mg #30,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_5.png,S: 1 tab once a day,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_6.png,11. Aspirin tab 80mg #30,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_7.png,S: 1 tab every 4 -6 hours as needed,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_8.png,12. Risedronate 35mg  #30,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_9.png,S: take 1 tablet  once per week ,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_10.png,13. Colchicine 500mg #10,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_11.png,S: 1 tab every 4 hours for 8 days,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_12.png,14. Losartan 150mg #50,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_13.png,S: 1 tab once a day,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_14.png,15. Prednisone tab 10mg #15,
-image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_15.png,1 tab 3x a day,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_0.png,16. Metoprolol tab 25mg #30,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_2.png,S: 1 tab daily,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_3.png,17. Cholecalciferol (Vit D3) #30,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_4.png,S: 1 drop once a day,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_5.png,18. Diclofenac 500 mg # 10,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_6.png,Sig: 1 tab 3x a day p.c,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_7.png,19. Alendronate tab 10 mg #20,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_8.png,Sig: 1 tab once a week in the morning,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_9.png,20. Simvastatin 40 mg ,
-image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_10.png,Sig: 1 tab once a day in the morning,
+image_path,transcription
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_0.png,1. Loratadine 10mg/tab #5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_1.png,Sig: 1 tab once a morning for itch
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_2.png,4. Mupirocin ointment #1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_3.png,Sig: Ipahid 2x a day for wks
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_4.png,#5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_5.png,Dove Sensitive Soap
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_6.png,#5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_7.png,2. Cetirizine 10mg/tab #5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_8.png,Sig: 1 tab once a night for itch
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_9.png,3. Clobetasol Propionate 0.05% cream #1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_10.png,Sig: Ipahid nang manipis sa mga apektadong bahagi
+data/image_splits/training_set_splits/segmented_lines_per_image/data_1/line_11.png,2x/day for 2 weeks
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_0.png,(Norvasc) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_1.png,#30 -> Vit C/zinc (Civaz) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_2.png,#30
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_3.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_4.png,#30 -> Vit B (Beetab) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_5.png,#30 -> (ATC) Omega gold #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_6.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_7.png,Amlodipine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_8.png,Genacot #200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_9.png,#30 ->
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_10.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_11.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_2/line_12.png,S: 1 tablet 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_4/line_0.png,(Biogesic) #6
+data/image_splits/training_set_splits/segmented_lines_per_image/data_4/line_1.png,Label: 1 tablet every 4 hours for
+data/image_splits/training_set_splits/segmented_lines_per_image/data_4/line_2.png,fever and headache
+data/image_splits/training_set_splits/segmented_lines_per_image/data_4/line_3.png,Paracetamol 500mg/tablet
+data/image_splits/training_set_splits/segmented_lines_per_image/data_4/line_4.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_4/line_5.png,Sodium Ascorbate + Zinc tab
+data/image_splits/training_set_splits/segmented_lines_per_image/data_4/line_6.png,(Immunpro) #10
+data/image_splits/training_set_splits/segmented_lines_per_image/data_4/line_7.png,Label: 1 tablet after breakfast
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_0.png,Sig: Ipahid sa lahat ng apektadong bahagi
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_1.png,3. Avene Cicalfate Cream / Zinc Oxide 10% Cream
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_2.png,"Sig: Gamitin 3x/day sa katawan,"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_3.png,1. Muiprocin ointment #1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_4.png,2x/day until healed
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_5.png,2. Clobetasol Propionate 0.05% cream #1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_6.png,"Sig: Ipahid sa braso, legs, leeg 2x/day"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_7.png,until 14th day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_8.png,#1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_5/line_9.png,(2x/day sa genital area)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_0.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_1.png,Azithromycin 500mg/tab
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_2.png,PECOF tablet #14
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_3.png,(7AM - 7PM)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_4.png,(Azcotil)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_5.png,Sig: 1 tab Once a Day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_6.png, x 5 Days x 5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_7.png,(12 NOON)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_8.png,Bromhexine + Salbutamol +
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_9.png,Guaifenesin
+data/image_splits/training_set_splits/segmented_lines_per_image/data_6/line_10.png,Sig: 1 tab 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_7/line_0.png,2
+data/image_splits/training_set_splits/segmented_lines_per_image/data_7/line_1.png,Cetirizine tablet 10mg #14
+data/image_splits/training_set_splits/segmented_lines_per_image/data_7/line_2.png,Sig: 1 tablet once a day 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_7/line_3.png,At bedtime for 16 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_0.png,Rosuvastatin 10mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_1.png,(Rosustat / Lustatin) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_2.png,1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_3.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_4.png,Amlopdipine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_5.png,(Provasc / )
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_6.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_7.png,Lozartan 50mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_8.png,(Kenzar)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_9.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_10.png,REQUEST FOR DIAGNOSTIC TEST
+data/image_splits/training_set_splits/segmented_lines_per_image/data_8/line_11.png,S:
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_0.png,Sig: Ipahid sa makapal na butlig
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_1.png,1. Clobetasol Propionate 0.05% cream #1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_2.png,2x/day hanggang numipis
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_3.png,2. Avene Cicalfate Cream
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_4.png,Sig: Ipahid 3x.day sa katawan (2x/day sa genital area)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_5.png,#1 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_6.png,3. Niacinamide Cream
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_7.png,Sig: Ipahid sa mga maitim na sugat
+data/image_splits/training_set_splits/segmented_lines_per_image/data_9/line_8.png,2x/day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_0.png,Levofloxacin 500mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_1.png,(Omnivox) #7
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_2.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_3.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_4.png,Rosuvastatin 10mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_5.png,(Rosustat) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_6.png,S: 1 tablet every other day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_7.png,Amlodipine 5mg #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_8.png,(Bezam) (Provasc)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_10/line_9.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_12/line_0.png,Amlopidine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_12/line_1.png,(Provasc) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_12/line_2.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_12/line_3.png,1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_12/line_4.png,S: 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_0.png,Amlodipine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_1.png,(Provasc) #200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_2.png,(Provasc) #200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_3.png,#200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_4.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_5.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_6.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_7.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_8.png,Febuxostat 40mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_9.png,(Urica / Uxenta) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_10.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_11.png,Multivitamin 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_12.png,(Centrum gold)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_13.png,#200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_14/line_14.png,Amlodipine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_15/line_0.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_15/line_1.png,Amlodipine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_15/line_2.png,(Provasc) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_15/line_3.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_15/line_5.png,(Urica) 40mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_15/line_6.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_15/line_7.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_0.png,1. GLICLAZIDE
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_1.png,(ZELTINE MR)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_2.png,80mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_3.png,#400 370
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_4.png,SIG: 1 TABLET 2X A DAY
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_5.png,BEFORE MEALS
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_6.png,2. PIOGLITAZONE
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_7.png,30mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_8.png,(PIOZONE)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_9.png, #200 170
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_10.png,SIG: 1 TABLET 2X A DAY
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_11.png,BEFORE LUNCH
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_12.png,ATORVASTATIN 10MG
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_13.png,Atormax
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_14.png, #200 170
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_15.png,RITEMED
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_16.png,1 TABLET ONCE A DAY
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_17.png,AT NIGHT
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_18.png,4. VITAMIN B COMPLEX
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_19.png,(PHAREX) 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_20.png, #200 170
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_21.png,S: 1 TABLET ONCE A DAY
+data/image_splits/training_set_splits/segmented_lines_per_image/data_16/line_22.png,IN THE MORNING
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_0.png,Label: 1 tablet every 8 hours for
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_1.png,7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_2.png,colds
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_3.png,Hexitidine oral antiseptic
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_4.png,(Bactidol) #1 bottle
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_5.png,9pm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_6.png,Label: 1 tablet at night
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_7.png,Co-amixoclav 625mg/tablet
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_8.png,6pm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_9.png,Sinupret Forte #15
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_10.png,Label: gargle 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_11.png,Bilastine 20mg/tablet #5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_12.png,# 21
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_13.png,2pm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_14.png,10pm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_16.png,7am
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_17.png,1pm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_18.png,7pm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_18/line_19.png,Label: 1 tablet 3x a day for
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_0.png,2. Paracetamol 500mg/tab #16
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_1.png,Sig. take 1 tablet
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_2.png,1. Co amoxiclav 625mg / tab #25
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_3.png,Sig. take 1 tablet
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_4.png,P5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_5.png,Every 8 hours for
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_6.png,7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_7.png,Every 6 hours as needed
+data/image_splits/training_set_splits/segmented_lines_per_image/data_19/line_8.png,for fever
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_0.png,Amlodipine 10mg #200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_1.png,(Bezam)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_2.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_3.png,Rosuvastatin 10mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_4.png,(Lustatin) #200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_5.png,Rx Am
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_6.png,Telmisartan #200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_7.png,(Teldra) 50mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_8.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_20/line_9.png,PM S: 1 table once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_0.png,Accuflam spray
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_1.png,#1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_2.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_3.png,(Cataflam) 50mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_4.png,#5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_5.png,Diclofenac
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_6.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_7.png,or as needed for pain
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_8.png,#1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_21/line_9.png,S: AD
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_0.png,(zinof) #200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_1.png,Amlodipine 5mg #200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_2.png,fenofibrate 200mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_3.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_4.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_6.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_7.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_8.png,(Bezam/Provasc)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_9.png,Lozartan 50mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_10.png,(Kenzar / Bezartan)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_11.png,#200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_12.png,Metformin 500mg #400
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_13.png,(Normax)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_14.png,1 tablet 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_23/line_15.png,S:
+data/image_splits/training_set_splits/segmented_lines_per_image/data_24/line_0.png,vit c/ zinc
+data/image_splits/training_set_splits/segmented_lines_per_image/data_24/line_1.png,(Civaz)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_24/line_2.png,S: 1 tablet once
+data/image_splits/training_set_splits/segmented_lines_per_image/data_24/line_3.png,a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_24/line_4.png,S:
+data/image_splits/training_set_splits/segmented_lines_per_image/data_24/line_5.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_0.png,Amlodipine 500mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_1.png,(Provasc)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_2.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_3.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_4.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_5.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_6.png,(Atenurix) 40mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_7.png,#60
+data/image_splits/training_set_splits/segmented_lines_per_image/data_25/line_8.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_26/line_0.png,DUO
+data/image_splits/training_set_splits/segmented_lines_per_image/data_26/line_1.png,EMPAGLIFLOZIN
+data/image_splits/training_set_splits/segmented_lines_per_image/data_26/line_2.png,METFORMIN
+data/image_splits/training_set_splits/segmented_lines_per_image/data_26/line_3.png,12.5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_26/line_4.png,500
+data/image_splits/training_set_splits/segmented_lines_per_image/data_26/line_5.png,Jardiance
+data/image_splits/training_set_splits/segmented_lines_per_image/data_26/line_6.png,#200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_0.png,5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_1.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_2.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_3.png,(Neomet) 500mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_4.png,#200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_5.png,Amlodipine
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_6.png,(Provasc)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_7.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_8.png,S: 1 tablet 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_9.png,S:
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_10.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_11.png,Lozartan 50mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_27/line_12.png,(Kenzar) 	#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_0.png,(Provasc)   #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_1.png,S: 1 tablet 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_2.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_3.png,lozartan 50mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_4.png,7AM
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_5.png,(Kenzar) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_6.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_7.png,(glitab) 30mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_9.png,#200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_10.png,Metformin 500mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_11.png,(Neomet) #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_12.png,S: 1 tablet
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_13.png,once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_14.png,Amlodipine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_15.png,Rx 7pm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_28/line_16.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_0.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_1.png,5mg/5ml
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_2.png,7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_3.png,10mg/5ml
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_4.png,2. Prednisone syrup
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_5.png,#5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_6.png,Sig: Give 3.2ml 2x/day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_7.png,for 5 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_8.png,Syrup
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_9.png,1.Cetirizine
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_10.png,#1
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_11.png,2x/day for
+data/image_splits/training_set_splits/segmented_lines_per_image/data_30/line_12.png,Sig: Give 2.5ml 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_0.png,2. Etoxib 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_1.png,60mg #10
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_2.png,stomach for 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_3.png,S: 1tab 2x/day 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_4.png,For 3-6days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_5.png,(7am-3pm-11pm)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_6.png,1. Clindamycin (Peldacyn)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_7.png,300 g # 21 or (Dalacin-C)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_38/line_8.png,S: 1cap every 8hrs on full
+data/image_splits/training_set_splits/segmented_lines_per_image/data_39/line_0.png,1 vial
+data/image_splits/training_set_splits/segmented_lines_per_image/data_39/line_1.png,2x/day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_39/line_2.png,mix
+data/image_splits/training_set_splits/segmented_lines_per_image/data_39/line_3.png,in water (½ glass will do)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_39/line_4.png,Take
+data/image_splits/training_set_splits/segmented_lines_per_image/data_39/line_5.png,Bacillus 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_39/line_6.png,(Erceflora) # 10
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_0.png,5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_1.png,(Provasc)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_2.png,"S: 1-2 tablets as needed for insomnia
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_3.png,Amlopidine
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_4.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_5.png,S: 1 tablet as needed
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_6.png,for dizziness
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_7.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_8.png,Betahistine
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_9.png,16mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_10.png,(Nuvert)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_11.png,#30
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_12.png,Melatonin 3mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_13.png,#30
+data/image_splits/training_set_splits/segmented_lines_per_image/data_40/line_14.png,for insomnia
+data/image_splits/training_set_splits/segmented_lines_per_image/data_49/line_0.png,Dynatussin – # 30 tabs
+data/image_splits/training_set_splits/segmented_lines_per_image/data_49/line_1.png,Sig: 1 tablet 3x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_49/line_2.png,"Co-Amoxiclav 625 mg – 14 tabs
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_49/line_3.png,"Sig: 1 tablet 2x daily for 7 days
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_49/line_4.png,Azithromycin 500mg – #3 tabs
+data/image_splits/training_set_splits/segmented_lines_per_image/data_49/line_5.png,Sig: 1 tablet once a day for 3 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_0.png,Spironolactone 25 mg – # 8
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_1.png,Sig 1 tab 2x a week (Tuesday & Saturday)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_2.png,"after breakfast
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_3.png,Tamsulosin 400 mcg – #30
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_4.png,Sig 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_5.png,Sodium Bicarbonate 650mg – #60
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_6.png,Sig 1 tablet 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_7.png,"Citicoline 500 mcg – #30
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_8.png,Sig 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_9.png,"Memantine 10mg – #60
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_10.png,Sig 1 tablet 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_11.png,Tiotropium/Olodaterol (Spiolto Respimat)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_12.png,Sig 2 puffs once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_13.png,Rosuvastatin 10mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_14.png,– #30
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_15.png,Sig 1 tablet at bedtime
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_16.png,Quetiapine 100 mcg – #30
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_17.png,"Sig ½ tablet 2x a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_18.png,Escitalopram 10 mg – #30
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_19.png,Sig 1 tablet once day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_52/line_20.png,at bedtime
+data/image_splits/training_set_splits/segmented_lines_per_image/data_54/line_0.png,Clindamycin 300mg/cap – 28
+data/image_splits/training_set_splits/segmented_lines_per_image/data_54/line_1.png,"(6am -12pm - 6pm - 12am)
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_54/line_2.png,"This is skin infection
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_54/line_3.png,Co-Amoxiclav 625 mg – 21 tabs
+data/image_splits/training_set_splits/segmented_lines_per_image/data_54/line_4.png,Sig 1 tablet 3x daily for 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_54/line_5.png,"Sig 1 cal every 6 hours for 7 days
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_56/line_0.png,Clindamycin 75mg/5ml
+data/image_splits/training_set_splits/segmented_lines_per_image/data_56/line_1.png,Sig take 20ml via
+data/image_splits/training_set_splits/segmented_lines_per_image/data_56/line_2.png,#4
+data/image_splits/training_set_splits/segmented_lines_per_image/data_56/line_3.png,mouth three times a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_56/line_4.png,with strict aspiration precaution
+data/image_splits/training_set_splits/segmented_lines_per_image/data_56/line_5.png,for 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_0.png,Sig take 1 tablet once a 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_1.png,day at breakfast
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_2.png,1. Biotene Spray
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_3.png,Sig Spray on oral mucosa #3
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_4.png,3x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_5.png,2. Carbocisteine 100 mg/5 mL 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_6.png,(Loviscol) (120ml) #3
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_7.png,"Sig Give 5ml three times a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_57/line_8.png,3. Omeprazole 40mg # 14
+data/image_splits/training_set_splits/segmented_lines_per_image/data_60/line_0.png,at bedtime
+data/image_splits/training_set_splits/segmented_lines_per_image/data_60/line_1.png,"Paracetamol 250ml/5ml
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_60/line_2.png,(Calpol)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_60/line_3.png,#3
+data/image_splits/training_set_splits/segmented_lines_per_image/data_60/line_4.png,Sig take 10ml every
+data/image_splits/training_set_splits/segmented_lines_per_image/data_60/line_5.png,4 hours for fever
+data/image_splits/training_set_splits/segmented_lines_per_image/data_60/line_6.png,"> 37.3 C
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_0.png,"Essentiale # 20
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_1.png,Once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_2.png,Heparin 30g OD #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_3.png,Inhaled
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_4.png,Corolan 7.5g # 200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_5.png,Facial
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_6.png,Lasix 40g # 100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_7.png,Espididol
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_8.png,Inspra 25g # 100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_9.png,Daily
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_10.png,"Coversyl 5g # 100
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_11.png,Esd bc
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_12.png,Jardiance 25g # 100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_13.png,Trimag 200g # 100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_14.png,Cardiomax # 200
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_15.png,Nebilet 5g #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_16.png,Candid V 200mg #300
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_17.png,Plosul 75g # 100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_62/line_18.png,Roswin 10g # 100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_0.png,"S: 1 tablet once a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_1.png,7pm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_2.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_3.png,Amlodipine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_4.png,"(Provasc) # 100
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_5.png,7am (Atenurix) 40mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_6.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_7.png,"S: 1 tablet once a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_8.png,(Rosuvastatin) 10mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_65/line_9.png,7pm S: 1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_0.png,10mg # 100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_1.png,Amlodipine 5mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_2.png,"(Provasc) # 100
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_3.png,Losartan 50mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_4.png,(Kenzar) # 100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_5.png,(Lustatin / Rosuvast)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_6.png,"S: 1 tablet once a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_7.png,"S: 1 tablet once a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_69/line_8.png,"S: 1 tablet once a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_0.png,Losartan 50mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_1.png,(Kenzar)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_2.png,1 tablet once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_3.png,(Omnivox) 500mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_4.png,#7
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_5.png,"S: 1 tablet once a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_6.png,Lunch
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_7.png,Morning
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_8.png,(Lustatin) 10mg #100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_9.png,Rosuvast
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_10.png,Before
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_11.png,Bedtime
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_12.png,"S: 1 tablet once a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_13.png,"(Provasc) 5mg #100
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_14.png,Bedtime
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_15.png,"S: 1 tablet once a day
+"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_70/line_16.png,#100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_71/line_0.png,Flutiform Inhaler 125 # 2
+data/image_splits/training_set_splits/segmented_lines_per_image/data_71/line_1.png,Flutiform Inhaler 125 # 2
+data/image_splits/training_set_splits/segmented_lines_per_image/data_71/line_2.png,gargle after use
+data/image_splits/training_set_splits/segmented_lines_per_image/data_71/line_3.png,(1 - 0 - 1)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_73/line_0.png,at bedtime
+data/image_splits/training_set_splits/segmented_lines_per_image/data_73/line_1.png,S: apply on forehead/hairline
+data/image_splits/training_set_splits/segmented_lines_per_image/data_73/line_2.png,Daivobet ointment
+data/image_splits/training_set_splits/segmented_lines_per_image/data_73/line_3.png,Hydrocortisone 1% cream
+data/image_splits/training_set_splits/segmented_lines_per_image/data_73/line_4.png,S: apply 2x/day on side
+data/image_splits/training_set_splits/segmented_lines_per_image/data_73/line_5.png,of nose
+data/image_splits/training_set_splits/segmented_lines_per_image/data_73/line_6.png,Halovate ointment
+data/image_splits/training_set_splits/segmented_lines_per_image/data_73/line_7.png,S: apply on legs 2x/day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_1.png,Itraconazole 100mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_2.png,10 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_3.png,#7
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_4.png,(Inox)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_5.png,0 - 1 - 0
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_6.png,S: 1 tab a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_7.png,Clotrimazole eardrops
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_8.png,(Candiva otic)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_9.png,2 drops in right ear
+data/image_splits/training_set_splits/segmented_lines_per_image/data_74/line_10.png,2x/day for
+data/image_splits/training_set_splits/segmented_lines_per_image/data_78/line_0.png,Ciprofloxacin
+data/image_splits/training_set_splits/segmented_lines_per_image/data_78/line_1.png,500 mg/tab × 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_78/line_2.png,AM LUNCH PM BED TIME NO. OF
+data/image_splits/training_set_splits/segmented_lines_per_image/data_78/line_3.png,PIECES
+data/image_splits/training_set_splits/segmented_lines_per_image/data_78/line_4.png,8A
+data/image_splits/training_set_splits/segmented_lines_per_image/data_78/line_5.png,8P
+data/image_splits/training_set_splits/segmented_lines_per_image/data_78/line_6.png,#14
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_0.png,1. Cefuroxime
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_1.png,500mg/tab
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_2.png,(Cemex)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_3.png,× 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_4.png,AM LUNCH PM BED TIME NO. OF
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_5.png,PIECES
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_6.png,8A
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_7.png,8P
+data/image_splits/training_set_splits/segmented_lines_per_image/data_81/line_8.png,#14
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_0.png,1. Co-Amoxiclav
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_1.png,(Augmentin) 625mg / tab
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_2.png,Fluimucil
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_3.png,600 mg/tab × 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_4.png,AM LUNCH PM BED TIME NO. OF
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_5.png,PIECES
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_6.png,#14
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_7.png,#7
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_8.png,8A
+data/image_splits/training_set_splits/segmented_lines_per_image/data_88/line_9.png,8P
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_0.png,Sinecod
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_1.png,Forte
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_2.png,625 mg/tab × 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_3.png,AM LUNCH PM BED TIME NO. OF
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_4.png,#21
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_5.png,#5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_6.png,#14
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_7.png,PIECES
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_8.png,Cetirizine
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_9.png,5 days 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_10.png,1 tab x
+data/image_splits/training_set_splits/segmented_lines_per_image/data_91/line_11.png,Co-Amoxiclav
+data/image_splits/training_set_splits/segmented_lines_per_image/data_95/line_0.png,Deolsin capsule #20
+data/image_splits/training_set_splits/segmented_lines_per_image/data_95/line_1.png,2 sprays/nostril
+data/image_splits/training_set_splits/segmented_lines_per_image/data_95/line_2.png,Nasofree/Clariderm
+data/image_splits/training_set_splits/segmented_lines_per_image/data_95/line_3.png,Every 12 hrs
+data/image_splits/training_set_splits/segmented_lines_per_image/data_95/line_4.png,if needed
+data/image_splits/training_set_splits/segmented_lines_per_image/data_95/line_5.png,Do not exceed 5 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_95/line_6.png,of regular use 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_95/line_10.png,Oxymetazoline
+data/image_splits/training_set_splits/segmented_lines_per_image/data_96/line_0.png,RX
+data/image_splits/training_set_splits/segmented_lines_per_image/data_96/line_1.png,Mucosaliv
+data/image_splits/training_set_splits/segmented_lines_per_image/data_96/line_2.png,30g
+data/image_splits/training_set_splits/segmented_lines_per_image/data_96/line_4.png,2x
+data/image_splits/training_set_splits/segmented_lines_per_image/data_97/line_0.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_97/line_1.png,July
+data/image_splits/training_set_splits/segmented_lines_per_image/data_97/line_2.png,Ultrasound of whole abdomen
+data/image_splits/training_set_splits/segmented_lines_per_image/data_97/line_3.png,U/S of H breast & axilla
+data/image_splits/training_set_splits/segmented_lines_per_image/data_98/line_0.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_98/line_1.png,(Tobracare)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_98/line_2.png,1g
+data/image_splits/training_set_splits/segmented_lines_per_image/data_98/line_3.png,Oint
+data/image_splits/training_set_splits/segmented_lines_per_image/data_100/line_0.png,1 cap 2x a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_100/line_1.png,2. Glumet XR 500mg/tab #2
+data/image_splits/training_set_splits/segmented_lines_per_image/data_100/line_2.png,1 tab once a day
+data/image_splits/training_set_splits/segmented_lines_per_image/data_100/line_3.png,#13
+data/image_splits/training_set_splits/segmented_lines_per_image/data_100/line_4.png,Silgram 750mg/cap
+data/image_splits/training_set_splits/segmented_lines_per_image/data_100/line_5.png,Rx
+data/image_splits/training_set_splits/segmented_lines_per_image/data_101/line_0.png,Amoxicillin Trihydrate 500 mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_101/line_1.png,(Amoxcillin) #15
+data/image_splits/training_set_splits/segmented_lines_per_image/data_101/line_2.png,Sig: 1 tab 3x a day x 5 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_101/line_3.png,Mefenamic Acid 500 mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_101/line_4.png,(Dolfenal) #6
+data/image_splits/training_set_splits/segmented_lines_per_image/data_101/line_5.png,Sig: 1 tab every 4 hours
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_0.png,1. at bedtime 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_1.png,8:00 PM
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_2.png,(Stelix) (10/5)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_3.png,1. Nac (Pneumotyl) 600 - 7
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_4.png,1. tablet dissolve in 1 glass of
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_5.png,"water, once a day"
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_6.png,(12nn)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_7.png,2. Levofloxacin (Levoflox) 500 #7
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_8.png,12 noon
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_9.png,S:
+data/image_splits/training_set_splits/segmented_lines_per_image/data_102/line_10.png,3. Montelukast + Cetirizine
+data/image_splits/training_set_splits/segmented_lines_per_image/data_103/line_0.png,1. Montelukast + Cetirizine
+data/image_splits/training_set_splits/segmented_lines_per_image/data_103/line_1.png,(Stelix) 10/5
+data/image_splits/training_set_splits/segmented_lines_per_image/data_103/line_2.png,-15
+data/image_splits/training_set_splits/segmented_lines_per_image/data_103/line_3.png,S: 2. at bedtime
+data/image_splits/training_set_splits/segmented_lines_per_image/data_104/line_0.png,S: 1. oday
+data/image_splits/training_set_splits/segmented_lines_per_image/data_104/line_1.png,x 2 weeks
+data/image_splits/training_set_splits/segmented_lines_per_image/data_104/line_2.png,1. Pantoprazole + Domperidone  
+data/image_splits/training_set_splits/segmented_lines_per_image/data_104/line_3.png,#15
+data/image_splits/training_set_splits/segmented_lines_per_image/data_104/line_4.png,(Pantec) 40/30
+data/image_splits/training_set_splits/segmented_lines_per_image/data_105/line_0.png,RX
+data/image_splits/training_set_splits/segmented_lines_per_image/data_105/line_1.png,co-amoxiclav 625 mg / capsule
+data/image_splits/training_set_splits/segmented_lines_per_image/data_105/line_2.png,Sig: 1 capsule every 8 hours x 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_105/line_3.png,Arcoxia 90 mg / capsule
+data/image_splits/training_set_splits/segmented_lines_per_image/data_105/line_4.png,Sig: 1 capsule OD / once a day or as
+data/image_splits/training_set_splits/segmented_lines_per_image/data_105/line_5.png,needed for pain
+data/image_splits/training_set_splits/segmented_lines_per_image/data_106/line_0.png,RX
+data/image_splits/training_set_splits/segmented_lines_per_image/data_106/line_1.png,cefalexin 500mg/capsule
+data/image_splits/training_set_splits/segmented_lines_per_image/data_106/line_2.png,1: capsule every 8 hours x 7 days
+data/image_splits/training_set_splits/segmented_lines_per_image/data_106/line_3.png,Sig:
+data/image_splits/training_set_splits/segmented_lines_per_image/data_106/line_4.png,mefenamic acid 500mg/capsule
+data/image_splits/training_set_splits/segmented_lines_per_image/data_106/line_5.png,Sig: 1 capsule every 8 hours as needed
+data/image_splits/training_set_splits/segmented_lines_per_image/data_106/line_6.png,for pain
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_0.png,amlodipine 10 g
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_1.png,Atorvastatin 40 mg
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_2.png,S: 1 l od (7pm)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_3.png,50g
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_4.png,100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_5.png,(Lifezar)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_6.png,S: 1 l od (7am)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_7.png,100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_8.png,(Lipitor) 
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_9.png,Febuxostat 40
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_10.png,100
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_11.png,(Atenurix)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_12.png,RX
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_13.png,(Norvasc)
+data/image_splits/training_set_splits/segmented_lines_per_image/data_107/line_14.png,100
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_0.png,100 mg
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_1.png,celecoxib
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_2.png,#2 capsules
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_3.png,Sig: take 1 cap every 12 hours
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_4.png,"for moderate pain, as needed"
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_0.png,50mg
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_1.png,Diclofenac k 50mg
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_2.png,#9 tabs
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_3.png,Sig: take 1 tab every 8 hours
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_4.png,for moderate pain as
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_5.png,needed
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_0.png,100mg
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_1.png,Ibuprofen
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_2.png,#6 caps
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_3.png,Sig: take 1 cap every 8 hrs
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_4.png,as needed
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_5.png,"(3x a day) for mild pain,"
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_0.png,Prednisone 
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_1.png,10mg
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_2.png,#10 tabs
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_3.png,Sig:  - take 1 tab every 6 hrs on
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_4.png,the first day
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_5.png,- take 1 tab every 8 hours on
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_6.png,the second day
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_7.png,- take 1 tab every 12 hours on
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_8.png,the third day
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_9.png,- take 1 tab once on the
+data/image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_10.png,"fourth day, orally"
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_1.png,1. Ibuprofen 400 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_2.png,#10
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_3.png,2. Celecoxib 200 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_4.png,Sig: 1 capsule once a day
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_5.png,3. Clonidine 0.17 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_6.png,Sig: 1 tablet at bedtime
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_7.png,4. Metoclopramide 10 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_8.png,Sig: 1 tablet OD 30 minutes
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_9.png,before meals & at bedtime
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_10.png,5. Naproxen 500 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_11.png,#5
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_12.png,S: 1 tablet daily
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_13.png,S: 1 tablet q 4 hours as needed
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_14.png,6. Omaprazole 40 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_15.png,#20
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_16.png,S: 1 capsule 30-60 min before breakfast
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_17.png,7. Atenolol 50 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_18.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_19.png,S: 1 tablet daily
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_0.png,8. Clopidogrel 70 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_1.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_2.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_3.png,9. Paracetamol 500 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_4.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_5.png,S: 1 tablet for 4 hrs pain
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_6.png,10. Amlodipine 5 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_7.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_8.png,11. Aspirin 80 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_9.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_10.png,S: 1 tablet od 4 to 6 hours as needed
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_11.png,12 Risedronate 35 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_12.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_13.png,S: 1 tablet per orem once a week
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_14.png,13. Colchicine 500 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_15.png,#10
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_16.png,S: 1 table for hour x 8 hours
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_17.png,14 Losartan 50 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_18.png,S: 1 tablet once a day
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_19.png,15. Prednisone 10 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_20.png,#15
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_21.png,S: 1 tablet 3x a day
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_1.png,16. Metoprolol 15 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_2.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_3.png,S: 1 tablet daily
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_4.png,17. cholecalciferol (vitamin D3)
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_5.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_6.png,S: 1 gtt once a day
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_7.png,18. Diclofenac 50 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_8.png,#10
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_9.png,S: 1 tablet 3x day p.c
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_10.png,19. Alendronate 10 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_11.png,#21
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_12.png,S: 1 tablet once a week in the morning
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_13.png,20. Simvastatin 40 mg
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_14.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_15.png,S: 1 tablet once a day in evening 
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_1.png,Tramadol 50 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_2.png,One table orally every 4-6 hours.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_3.png,Celecoxib 200 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_4.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_1.png,Paracetamol 500 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_2.png,One tablet orally every 6 hours
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_3.png,4
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_4.png,Famotidine 20 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_5.png,One tablet orally every 6 hours.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_1.png,Atorvastatin 20 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_2.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_3.png,Metformin 500 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_4.png,One tablet 2x/day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_1.png,Losartan 50 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_2.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_3.png,Amlodipine 5 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_4.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_1.png,Losartan 100 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_2.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_3.png,Amlodipine 10 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_4.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_1.png,Finasteride 5 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_2.png,One tablet orally once daily.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_3.png,(same time each day)
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_4.png,Methimazole 40 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_5.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_1.png,Enalapril 5 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_2.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_3.png,Sucralfate 1 gram/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_4.png,One tablet 4x/day for 4-8 wks.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_1.png,Methimazole 30 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_2.png,One tablet orally per day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_3.png,Oxybutynin 5 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_4.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_1.png,17. Oxybutynin 10 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_2.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_3.png,18. Codeine 30 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_4.png,One tablet orally every 4-6 hrs.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_1.png,19. Enalapril 5 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_2.png,One tablet 2x/day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_3.png,Memantine 5 mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_4.png,One tablet once a day for 7 days.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_5.png,then 2x/day for 10 days.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_1.png,ISOSORBIDE MONONITRATE 30mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_2.png,One tablet once a day (in the morning).
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_3.png,CALCIUM CARBONATE 500mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_4.png,One tablet every 4 hours.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_1.png,GLICLAZIDE 60mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_2.png,One tablet once a day
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_3.png,(after breakfast).
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_4.png,TIOTROPIUM 18mcg/dose
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_6.png,One puff via inhaler once daily.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_1.png,INSULIN GLARGINE 100iu/mL prefilled
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_2.png,syringe
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_3.png,One mL subcutaneously once daily.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_4.png,BISOPROLOL FUMARATE 5mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_5.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_1.png,METFORMIN 850mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_2.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_3.png,SERTRALINE 50mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_4.png,One tablet once a day (evening).
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_1.png,ATORVASTATIN 40mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_2.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_3.png,TAMSULOSIN 200mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_4.png,One tablet once a day (after meal).
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_1.png,PREDNISONE 10mg/5mL suspension
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_2.png,5mL once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_3.png,CELECOXIB 100mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_4.png,One tablet 2x/day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_1.png,ALLOPURINOL 100mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_2.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_3.png,LEVOTHYROXINE 50mcg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_4.png,One tablet once a day (on empty stomach).
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_1.png,ALLOPURINOL 300mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_2.png,½ tablet 2x/day (AM - PM).
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_3.png,NAPROXEN 500mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_4.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_1.png,SPIRONOLACTONE 100mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_2.png,One tablet once daily.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_3.png,PREDNISONE10mg /tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_4.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_1.png,TAMSULOSIN 400mcg/fc tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_2.png,One tablet orally once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_3.png,ATROVASTATIN 80mg/tab
+data/image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_4.png,One tablet once a day.
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_0.png,1. Ibuprofen 40mg
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_1.png,"S: 4mg every 4-6 hrs,"
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_2.png,as needed
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_3.png,2 Celecoxib 200mg
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_4.png,"S: one tablet 2x, as"
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_5.png,needed
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_6.png,3. Tramadol 50 mg
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_7.png,S: one tablet 3x day
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_8.png,4. Alendronate 10 mg
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_9.png,S: one tablet once
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_10.png,weekly first thing in the
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_11.png,morning
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_12.png,5. Omeprazole 40mg
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_13.png,S: one tablet once a day
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_14.png,before breakfast
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_15.png,6. Amlodipine 5 mg
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_16.png,S: one tablet 1 x day
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_17.png,S: one tablet 1 x day
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_18.png,7. Cholecalciferol (Vitamin D3)
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_19.png,1 tab / day
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_20.png,S: use drop orally once
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_21.png,a day
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_22.png,8. Aspirin 80 mg
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_23.png,S: one tablet every 4-6 hrs
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_24.png,as needed
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_25.png,9. Paracetamol 500mg
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_26.png,S: one tablet every
+data/image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_27.png,4 hrs
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_0.png,1. Ibuprofen 400 mg
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_1.png,Sig: once a day x 5 days
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_2.png,2. Celecoxib 200 mg
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_3.png,Sig: 1 tab 2x a day x 7 days
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_4.png,3. Tramadol 50 mg
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_5.png,Sig: once a day as needed
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_6.png,4. Metoclopramide 10 mg
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_7.png,Sig (10mg) 3x a day as needed
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_8.png,5. Omeprazole 40 mg
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_9.png,Sig: once a day x 7 days
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_10.png,6. Aspirin 100 mg
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_11.png,Sig: 1 tab once a day
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_12.png,7. Amlodipine 5 mg
+data/image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_13.png,Sig: 1 tab once a day
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_0.png,1) Ibuprofen #20
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_1.png,400mg every 6 hours as needed
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_2.png,2) Celecoxib #14
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_3.png,200mg once d or 100g 2x d
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_4.png,3) Tramadol #10
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_5.png,50mg orally every 6 hours
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_6.png,4) Metoclopramide #10
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_7.png,10 mg up to 4 times a day 30 minutes before meals and at bedtime
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_8.png,5) Diclofenac #5
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_9.png,Inj.: 50 mg enteric coated tablet or MR tablet 2–3×/day with meals
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_10.png,6) Colchicine #30
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_11.png,1 tablet (500 micrograms) taken 2-4x d
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_12.png,7) Naproxen #14
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_13.png,500mg every 6 hours
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_14.png,8) Prednisone #3
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_15.png,Oral: 10mg/ml - 3x a d
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_0.png,9) Omeprazole #30 14
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_1.png,S: 40mL/mg take 1 capsule once d 
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_2.png,10.) Cholecalciferol (Vit D3) #7
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_3.png,One drop containing 25.000 iu once a month
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_4.png,11) Metoprolol #100
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_5.png,50mg/100mg once a day
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_6.png,12) Atenolol
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_7.png,#30
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_8.png,50-100mg once a day
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_9.png,13) Paracetamol #20
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_10.png,Oral: 500mg tablet evy 4 hours
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_11.png,14) Clopidogrel #100
+data/image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_12.png,Oral: 75mg 1 tablet once a d
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_0.png,1. Atenolol 50mg #30
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_1.png,Sig: 1 tablet once a day
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_2.png,2. Omeprazole 40mg #20
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_3.png,Sig: 1 capsule 30-60mins before breakfast
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_4.png,3) Naproxen tab 500mg #5
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_5.png,Sig: 1 tablet daily
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_6.png,4. Metoclopramide 10mg #10
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_7.png,Sig: 1 tab 4x a dy 30 mins before meals and
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_8.png,at bedtime
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_9.png,5) Clonidine 0.17mg #5
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_10.png,S: 1 tab at bedtime
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_11.png,6) Celecoxib 200mg #20
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_12.png,S: 1 cap once a day
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_13.png,7) Ibuprofen tab #10
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_14.png,S: 1 tab every 4 hours as needed
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_0.png,8. Clopidogrel 75mg #30
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_1.png,S: 1tab once a day
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_2.png,9. Paracetamol tab 500mg #30
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_3.png,Sig: 1 tab every 4 hours for fever
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_4.png,10. Amlodipine 5mg #30
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_5.png,S: 1 tab once a day
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_6.png,11. Aspirin tab 80mg #30
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_7.png,S: 1 tab every 4 -6 hours as needed
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_8.png,12. Risedronate 35mg  #30
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_9.png,S: take 1 tablet  once per week 
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_10.png,13. Colchicine 500mg #10
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_11.png,S: 1 tab every 4 hours for 8 days
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_12.png,14. Losartan 150mg #50
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_13.png,S: 1 tab once a day
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_14.png,15. Prednisone tab 10mg #15
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_15.png,1 tab 3x a day
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_0.png,16. Metoprolol tab 25mg #30
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_2.png,S: 1 tab daily
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_3.png,17. Cholecalciferol (Vit D3) #30
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_4.png,S: 1 drop once a day
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_5.png,18. Diclofenac 500 mg # 10
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_6.png,Sig: 1 tab 3x a day p.c
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_7.png,19. Alendronate tab 10 mg #20
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_8.png,Sig: 1 tab once a week in the morning
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_9.png,20. Simvastatin 40 mg 
+data/image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_10.png,Sig: 1 tab once a day in the morning

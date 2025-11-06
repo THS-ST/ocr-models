@@ -19,4 +19,8 @@ models/
 # Temp folders
 testing_folder/
 
+#data folders
+data/
+data_cleaning/
+
 
