@@ -1,0 +1,1 @@
+!cd PaddleOCR && python tools/export_model.py -c configs/rec/my_custom_config.yml -o Global.pretrained_model="{save_model_dir}/latest" Global.save_inference_dir=inference/rec
