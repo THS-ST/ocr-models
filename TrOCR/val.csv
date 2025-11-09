@@ -1,0 +1,37 @@
+image_path,transcription
+data/image_splits/validation_set_splits/V06/page_1/line_7.png,3. Metoclopramide 10 mg tablet
+data/image_splits/validation_set_splits/V06/page_1/line_8.png,#30
+data/image_splits/validation_set_splits/V06/page_1/line_9.png,1 tablet 4x a day 30 minutes before meals and at bedtime for 7 days
+data/image_splits/validation_set_splits/V06/page_1/line_10.png,4. Ondansetron 8 mg tablet
+data/image_splits/validation_set_splits/V06/page_1/line_11.png,#7
+data/image_splits/validation_set_splits/V06/page_1/line_12.png,S: 1 tablet once a day for 7 days
+data/image_splits/validation_set_splits/V06/page_1/line_13.png,5. Simvastatin 20 mg tablet
+data/image_splits/validation_set_splits/V06/page_1/line_14.png,#100
+data/image_splits/validation_set_splits/V06/page_1/line_15.png,S: 1 tablet once a day in the evening
+data/image_splits/validation_set_splits/V06/page_1/line_16.png,6. Tramadol 50 mg tablet
+data/image_splits/validation_set_splits/V06/page_1/line_17.png,#30
+data/image_splits/validation_set_splits/V06/page_1/line_18.png,S: 1 tablet every 6 hours as needed for pain
+data/image_splits/validation_set_splits/V06/page_1/line_19.png,7. Aspirin 80 mg tablet
+data/image_splits/validation_set_splits/V06/page_1/line_20.png,#30
+data/image_splits/validation_set_splits/V06/page_1/line_21.png,S: 1 tablet every 6 hours as needed
+data/image_splits/validation_set_splits/V06/page_2/line_0.png,8. Carvedilol 6.25 mg tablet
+data/image_splits/validation_set_splits/V06/page_2/line_1.png,#60
+data/image_splits/validation_set_splits/V06/page_2/line_2.png,S: 1 tablet 2x a day for 1 month
+data/image_splits/validation_set_splits/V06/page_2/line_3.png,9. Clopidogrel 75 mg tablet
+data/image_splits/validation_set_splits/V06/page_2/line_4.png,#30
+data/image_splits/validation_set_splits/V06/page_2/line_5.png,S: 1 tablet once a day for 1 month
+data/image_splits/validation_set_splits/V06/page_2/line_6.png,10. Ibuprofen 400 mg tablet
+data/image_splits/validation_set_splits/V06/page_2/line_7.png,#30
+data/image_splits/validation_set_splits/V06/page_2/line_8.png,S: 1 tablet every 4 hours as needed
+data/image_splits/validation_set_splits/V06/page_2/line_9.png,11. Losartan 50 mg tablet
+data/image_splits/validation_set_splits/V06/page_2/line_10.png,#100
+data/image_splits/validation_set_splits/V06/page_2/line_11.png,S: 1 tablet once a day
+data/image_splits/validation_set_splits/V06/page_2/line_12.png,12. Celecoxib 200 mg tablet
+data/image_splits/validation_set_splits/V06/page_2/line_13.png,#14
+data/image_splits/validation_set_splits/V06/page_2/line_14.png,S: 1 tablet once a day as needed for pain
+data/image_splits/validation_set_splits/V06/page_2/line_15.png,13. Colchicine tablet
+data/image_splits/validation_set_splits/V06/page_2/line_16.png,#60
+data/image_splits/validation_set_splits/V06/page_2/line_17.png,S: 1 tablet 2x a day for 1 month
+data/image_splits/validation_set_splits/V06/page_2/line_18.png,14. Alendronate 70 mg tablet
+data/image_splits/validation_set_splits/V06/page_2/line_19.png,#30
+data/image_splits/validation_set_splits/V06/page_2/line_20.png,S: 1 tablet once every week first thing in the morning

@@ -52,18 +52,23 @@ def binarize_image(img):
 # ==========================
 # Full pool of all possible augmentations (p=1.0 as the random selection controls probability)
 AUGMENTATION_POOL = [
-    A.HorizontalFlip(p=1.0),
-    A.GaussianBlur(blur_limit=(3, 5), p=1.0),
-    A.MotionBlur(blur_limit=5, p=1.0),
-    A.RandomBrightnessContrast(brightness_limit=0.2, contrast_limit=0.2, p=1.0),
-    A.GaussNoise(var_limit=(10.0, 30.0), p=1.0),
-    A.Perspective(scale=(0.02, 0.05), p=1.0),
-    A.Affine(translate_percent=(0.0625,0.0625), scale=(0.9,1.1), rotate=(-15,15), p=1.0)
+    A.Affine(scale=(0.95, 1.05), rotate=(-5, 5), translate_percent=(0.02, 0.02), p=1.0),
+    A.MotionBlur(blur_limit=3, p=1.0),
+    A.GaussianBlur(blur_limit=(3, 3), p=1.0),
+    A.RandomBrightnessContrast(brightness_limit=0.1, contrast_limit=0.1, p=1.0),
+    A.GaussNoise(var_limit=(5.0, 15.0), p=1.0),
+    A.ElasticTransform(alpha=1.0, sigma=20.0, alpha_affine=2.0, p=1.0),
+    # DO NOT USE HorizontalFlip for text
+    # Keep Perspective very mild, or omit at first:
+    # A.Perspective(scale=(0.01, 0.02), p=1.0),
 ]
 
 # Define a safe pool to exclude harsh transforms for the lowest quality tier
 SAFE_AUG_TYPES = (A.GaussianBlur, A.MotionBlur, A.GaussNoise)
-SAFE_AUG_POOL = [aug for aug in AUGMENTATION_POOL if not isinstance(aug, SAFE_AUG_TYPES)]
+SAFE_AUG_POOL = [
+    A.Affine(scale=(0.98, 1.02), rotate=(-3, 3), translate_percent=(0.01, 0.01), p=1.0),
+    A.RandomBrightnessContrast(brightness_limit=0.05, contrast_limit=0.05, p=1.0),
+]
 
 
 # ==========================

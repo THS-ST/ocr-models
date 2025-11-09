@@ -23,4 +23,5 @@ testing_folder/
 data/
 data_cleaning/
 
+ocr_augmentation.py
 
