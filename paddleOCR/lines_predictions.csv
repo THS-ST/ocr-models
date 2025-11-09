@@ -1,0 +1,871 @@
+image_path,gt,pred,confidence,wer,cer
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_0.png,1. Loratadine 10mg/tab #5,10mg/tob Loratodine,"[0.7753366231918335, 0.9688801765441895]",1.0,0.8
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_1.png,Sig: 1 tab once a morning for itch,one in the momng,"[0.9041396975517273, 0.9150639176368713]",1.0,0.7647058823529411
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_2.png,4. Mupirocin ointment #1,# tnyo uod,"[0.9369524121284485, 0.4576045274734497]",1.0,0.875
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_3.png,Sig: Ipahid 2x a day for wks,Ty Ipulnia Idoy for 2,"[0.3505074977874756, 0.40483298897743225, 0.7399573922157288]",0.8571428571428571,0.6071428571428571
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_4.png,#5,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_5.png,Dove Sensitive Soap,DomE Semsiffine soa,"[0.642333984375, 0.790560781955719, 0.7764207720756531]",1.0,0.42105263157894735
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_6.png,#5,9#,[0.44380414485931396],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_7.png,2. Cetirizine 10mg/tab #5,Cetinizine 10ma Tae 2,"[0.9100192189216614, 0.6659598350524902, 0.9976887702941895]",1.0,0.4
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_8.png,Sig: 1 tab once a night for itch,"sg,  tao one of night for",[0.7277815937995911],0.75,0.40625
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_9.png,3. Clobetasol Propionate 0.05% cream #1,3. Cobetast propionote 0.05). cream,"[0.9953534603118896, 0.8124158382415771, 0.8532395362854004, 0.953494668006897]",0.6666666666666666,0.2564102564102564
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_10.png,Sig: Ipahid nang manipis sa mga apektadong bahagi,Cuspprao dow ns sdwow Sowos Oa pinD,"[0.5637221336364746, 0.6146376729011536, 0.5718302726745605, 0.2619054615497589]",1.0,0.7959183673469388
+image_splits/training_set_splits/segmented_lines_per_image/data_1/line_11.png,2x/day for 2 weeks,2 doy for 2 n,[0.7535315752029419],0.75,0.4444444444444444
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_0.png,(Norvasc) #100,#,[0.9680286645889282],1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_1.png,#30 -> Vit C/zinc (Civaz) #100,o7c/m (civaz#,"[0.4674995541572571, 0.7500670552253723]",1.0,0.7333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_2.png,#30,#30,[0.8941921591758728],0.0,0.0
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_3.png,S: 1 tablet once a day,tbeil nce,"[0.6881699562072754, 0.6923539638519287]",1.0,0.7272727272727273
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_4.png,#30 -> Vit B (Beetab) #100,1(Rtab#,[0.5519666075706482],1.0,0.8076923076923077
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_5.png,#30 -> (ATC) Omega gold #100,KTC omegn 8o2g,"[0.9139875769615173, 0.8873274922370911, 0.5480631589889526]",1.0,0.7142857142857143
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_6.png,S: 1 tablet once a day,. I tabt ace,[0.7402796149253845],1.0,0.5909090909090909
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_7.png,Amlodipine 5mg,sus Reuns,"[0.6940514445304871, 0.6515296101570129]",1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_8.png,Genacot #200,#,[0.9783000349998474],1.0,0.9166666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_9.png,#30 ->,OEK,[0.9007379412651062],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_10.png,#100,I,[0.21130864322185516],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_11.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_2/line_12.png,S: 1 tablet 2x a day,te tabe,"[0.8150926828384399, 0.789979100227356]",1.0,0.75
+image_splits/training_set_splits/segmented_lines_per_image/data_4/line_0.png,(Biogesic) #6,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_4/line_1.png,Label: 1 tablet every 4 hours for,mm mortm,[0.5990700721740723],1.0,0.9090909090909091
+image_splits/training_set_splits/segmented_lines_per_image/data_4/line_2.png,fever and headache,everord read ail,[0.6305372714996338],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_4/line_3.png,Paracetamol 500mg/tablet,arcb,[0.7672879695892334],1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_4/line_4.png,Rx,Rx,[0.9427262544631958],0.0,0.0
+image_splits/training_set_splits/segmented_lines_per_image/data_4/line_5.png,Sodium Ascorbate + Zinc tab,dum,[0.8780040144920349],1.0,0.8888888888888888
+image_splits/training_set_splits/segmented_lines_per_image/data_4/line_6.png,(Immunpro) #10,Duiny,[0.7663583755493164],1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_4/line_7.png,Label: 1 tablet after breakfast,Pabel I faflet afte tuaky,"[0.8862501382827759, 0.6287725567817688]",1.0,0.41935483870967744
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_0.png,Sig: Ipahid sa lahat ng apektadong bahagi,Ipanid sa lanat ng apentadona,"[0.9170224666595459, 0.9956888556480408, 0.833331286907196, 0.9993659257888794, 0.9016868472099304]",0.7142857142857143,0.36585365853658536
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_1.png,3. Avene Cicalfate Cream / Zinc Oxide 10% Cream,Avene Gicalfate Cream zinc oxide 101 W,"[0.9221898317337036, 0.8156591057777405, 0.979056715965271, 0.9862793684005737, 0.9465582370758057, 0.6315439343452454]",0.7777777777777778,0.2978723404255319
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_2.png,"Sig: Gamitin 3x/day sa katawan,",", Gamitin 3x/ day sa haton","[0.2682289183139801, 0.9479822516441345, 0.7851181030273438]",0.8,0.3225806451612903
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_3.png,1. Muiprocin ointment #1,mupiroam ontmunt,"[0.8036381006240845, 0.9309644103050232]",1.0,0.5833333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_4.png,2x/day until healed,healed. lyun 2x)daw,"[0.8774877190589905, 0.493245929479599, 0.7199699282646179]",1.0,0.9473684210526315
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_5.png,2. Clobetasol Propionate 0.05% cream #1,Clobctasol prpionate 0.05)- cream,"[0.8066482543945312, 0.8478246927261353]",0.8333333333333334,0.28205128205128205
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_6.png,"Sig: Ipahid sa braso, legs, leeg 2x/day","9' pathnd sa braso , legs. leeg 2x1c",[0.8176357746124268],0.8571428571428571,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_7.png,until 14th day,(mop Whi Iyun,"[0.7736253142356873, 0.9032478332519531, 0.6273437738418579]",1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_8.png,#1,$fra$,[0.8029120564460754],1.0,2.5
+image_splits/training_set_splits/segmented_lines_per_image/data_5/line_9.png,(2x/day sa genital area),(2X) day sa genital drea,[0.7904481887817383],0.75,0.20833333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_0.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_1.png,Azithromycin 500mg/tab,qenbwmnc nAn,[0.40039291977882385],1.0,0.8636363636363636
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_2.png,PECOF tablet #14,tbetH DCOR,"[0.7366758584976196, 0.7885944247245789]",1.0,0.8125
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_3.png,(7AM - 7PM),40L 44,"[0.6000110507011414, 0.7923905849456787]",1.0,0.9090909090909091
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_4.png,(Azcotil),0h0,[0.15890252590179443],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_5.png,Sig: 1 tab Once a Day,Sig: 1 tab Once a Ja,[0.9352009892463684],0.16666666666666666,0.09523809523809523
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_6.png, x 5 Days x 5,Cx SSeas,"[0.6332708597183228, 0.4809745252132416]",1.0,0.75
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_7.png,(12 NOON),12 NOGH,"[0.95143723487854, 0.8602299690246582]",1.0,0.4444444444444444
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_8.png,Bromhexine + Salbutamol +,Bromhexine+Salbutamd,[0.9704791903495789],1.0,0.24
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_9.png,Guaifenesin,uualenes!n,[0.8008241653442383],1.0,0.36363636363636365
+image_splits/training_set_splits/segmented_lines_per_image/data_6/line_10.png,Sig: 1 tab 2x a day,Sig: 1 tab 2x a day,[0.9555160999298096],0.0,0.0
+image_splits/training_set_splits/segmented_lines_per_image/data_7/line_0.png,2,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_7/line_1.png,Cetirizine tablet 10mg #14,let 10mg #1Y,[0.9246826171875],0.75,0.5769230769230769
+image_splits/training_set_splits/segmented_lines_per_image/data_7/line_2.png,Sig: 1 tablet once a day ,y. 1 tablet once a o,[0.752050518989563],0.3333333333333333,0.2916666666666667
+image_splits/training_set_splits/segmented_lines_per_image/data_7/line_3.png,At bedtime for 16 days,at bedtime for ledaw,"[0.9508159756660461, 0.7588424682617188]",0.6,0.2727272727272727
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_0.png,Rosuvastatin 10mg,Ims wat,"[0.6136062145233154, 0.6568124294281006]",1.0,0.8235294117647058
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_1.png,(Rosustat / Lustatin) #100,Lustatin Rreutht a,"[0.818769097328186, 0.6219282150268555, 0.3233039677143097]",1.0,0.6923076923076923
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_2.png,1 tablet once a day,tahel ance,"[0.7387545704841614, 0.9860659241676331]",1.0,0.631578947368421
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_3.png,S: 1 tablet once a day,taleet a daw - mce,"[0.6784847378730774, 0.8997307419776917, 0.5681762099266052, 0.2377176284790039, 0.6772212982177734]",1.0,0.7272727272727273
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_4.png,Amlopdipine 5mg,ao dpei,[0.6841648817062378],1.0,0.7333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_5.png,(Provasc / ),-C,[0.6524702906608582],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_6.png,#100,#10,[0.8294377326965332],1.0,0.25
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_7.png,Lozartan 50mg,oantan gono,"[0.747481107711792, 0.7019128799438477]",1.0,0.5384615384615384
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_8.png,(Kenzar),kevzan,[0.8032541275024414],1.0,0.625
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_9.png,#100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_10.png,REQUEST FOR DIAGNOSTIC TEST,REQUEST FOA DAGNOSTC TE,[0.9032386541366577],0.75,0.18518518518518517
+image_splits/training_set_splits/segmented_lines_per_image/data_8/line_11.png,S:,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_0.png,Sig: Ipahid sa makapal na butlig,ung v podoyaw DS piuodi,"[0.5388745069503784, 0.6051554083824158, 0.7250285744667053]",1.0,0.78125
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_1.png,1. Clobetasol Propionate 0.05% cream #1,Uodtoson propionote 0.05% wons,"[0.7989904880523682, 0.7243863344192505]",0.8333333333333334,0.48717948717948717
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_2.png,2x/day hanggang numipis,sidunu Fro nomagang,"[0.7558720707893372, 0.6005063652992249]",1.0,0.8260869565217391
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_3.png,2. Avene Cicalfate Cream,Avere CiconFafe Crearn,"[0.8942694664001465, 0.724172830581665, 0.7169659733772278]",1.0,0.4166666666666667
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_4.png,Sig: Ipahid 3x.day sa katawan (2x/day sa genital area),)painid 3x/day sa hotawom (2xlday sa genitoal,"[0.8562300801277161, 0.743399977684021, 0.7643563151359558]",0.7777777777777778,0.3888888888888889
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_5.png,#1 ,≠,[0.7437439560890198],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_6.png,3. Niacinamide Cream,LOLND Upoun,"[0.27362826466560364, 0.24257385730743408]",1.0,0.9
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_7.png,Sig: Ipahid sa mga maitim na sugat,myu matino,"[0.653477132320404, 0.7201972007751465]",1.0,0.7941176470588235
+image_splits/training_set_splits/segmented_lines_per_image/data_9/line_8.png,2x/day,2X daw,"[0.74790358543396, 0.6771613955497742]",2.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_0.png,Levofloxacin 500mg,moxm mees,"[0.2797183394432068, 0.8545607328414917]",1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_1.png,(Omnivox) #7,Omnivox),[0.835056483745575],1.0,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_2.png,Rx,R,[0.9977201819419861],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_3.png,S: 1 tablet once a day,< takeel uuce,"[0.9884634613990784, 0.8526818752288818, 0.8424797058105469]",1.0,0.6818181818181818
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_4.png,Rosuvastatin 10mg,wo e mor,"[0.8765993118286133, 0.6190969944000244, 0.5621271729469299]",1.5,0.8823529411764706
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_5.png,(Rosustat) #100,#10P Kentat ,"[0.8653151988983154, 0.774249792098999, 0.0]",1.0,0.9333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_6.png,S: 1 tablet every other day,1 tchel enecu otner,"[0.5399900674819946, 0.6894468665122986, 0.5440818071365356]",0.8333333333333334,0.5555555555555556
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_7.png,Amlodipine 5mg #100,#f emlodpen,"[0.46780526638031006, 0.714938759803772]",1.0,0.8421052631578947
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_8.png,(Bezam) (Provasc),Bsezam )(Peovacc,[0.7825289964675903],1.0,0.4117647058823529
+image_splits/training_set_splits/segmented_lines_per_image/data_10/line_9.png,S: 1 tablet once a day,( taheil m,"[0.9928539395332336, 0.8050839900970459, 0.20009027421474457]",1.0,0.7727272727272727
+image_splits/training_set_splits/segmented_lines_per_image/data_12/line_0.png,Amlopidine 5mg,sodefeo,[0.693071186542511],1.0,0.7857142857142857
+image_splits/training_set_splits/segmented_lines_per_image/data_12/line_1.png,(Provasc) #100,Proraic),[0.7664890289306641],1.0,0.5714285714285714
+image_splits/training_set_splits/segmented_lines_per_image/data_12/line_2.png,Rx,Ry,[0.6741666793823242],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_12/line_3.png,1 tablet once a day,Lheil aneaa,"[0.7791745066642761, 0.8608255386352539]",1.0,0.6842105263157895
+image_splits/training_set_splits/segmented_lines_per_image/data_12/line_4.png,S: ,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_0.png,Amlodipine 5mg,Unlodjin su,"[0.7872492671012878, 0.8666701912879944]",1.0,0.5714285714285714
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_1.png,(Provasc) #200,#202 ProaC),"[0.7919492721557617, 0.7310709357261658]",1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_2.png,(Provasc) #200,Pnor #,"[0.6370931267738342, 0.6633017659187317]",1.0,0.7142857142857143
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_3.png,#200,#202,[0.8747842907905579],1.0,0.25
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_4.png,S: 1 tablet once a day,d theel ace,"[0.12519754469394684, 0.8844621777534485, 0.9942095875740051]",1.0,0.7272727272727273
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_5.png,S: 1 tablet once a day,ance Itabeit A P,"[0.9222914576530457, 0.6000221967697144, 0.6014461517333984, 0.417959600687027]",1.0,0.7272727272727273
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_6.png,S: 1 tablet once a day,:/ takel ace,"[0.8601381182670593, 0.8042975664138794, 0.9970853924751282]",1.0,0.6363636363636364
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_7.png,S: 1 tablet once a day,- 1 theel ace ,"[0.9446927309036255, 0.7860811948776245, 0.9882926344871521, 0.0]",0.8333333333333334,0.6363636363636364
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_8.png,Febuxostat 40mg,ebutotnt 4om,"[0.7845112085342407, 0.5085106492042542]",1.0,0.4
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_9.png,(Urica / Uxenta) #100,Unica/uenta),[0.6780238747596741],1.0,0.5238095238095238
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_10.png,S: 1 tablet once a day,ace a da tabeit,"[0.8658789396286011, 0.7548578381538391]",1.0,0.8181818181818182
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_11.png,Multivitamin ,metntame,[0.651679277420044],1.0,0.6666666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_12.png,(Centrum gold),Centum 8eb,"[0.8216243386268616, 0.549782931804657]",1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_13.png,#200,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_14/line_14.png,Amlodipine 5mg,m5,[0.8379813432693481],1.0,0.8571428571428571
+image_splits/training_set_splits/segmented_lines_per_image/data_15/line_0.png,Rx,RX,[0.7446088790893555],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_15/line_1.png,Amlodipine 5mg,Ta,[0.5566616654396057],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_15/line_2.png,(Provasc) #100,pMoracc) t 1W,"[0.5849930644035339, 0.44430989027023315, 0.6479531526565552]",1.5,0.6428571428571429
+image_splits/training_set_splits/segmented_lines_per_image/data_15/line_3.png,S: 1 tablet once a day,thed M,"[0.5147128105163574, 0.2798168957233429]",1.0,0.8636363636363636
+image_splits/training_set_splits/segmented_lines_per_image/data_15/line_5.png,(Urica) 40mg,Urica) 40me,"[0.8701160550117493, 0.6741857528686523]",1.0,0.16666666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_15/line_6.png,#100,S #,"[0.46545809507369995, 0.7984236478805542]",2.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_15/line_7.png,S: 1 tablet once a day,tacbeit ace,"[0.7013882398605347, 0.9755415916442871]",1.0,0.7272727272727273
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_0.png,1. GLICLAZIDE,eLiatDe,[0.46940019726753235],1.0,0.8461538461538461
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_1.png,(ZELTINE MR),IEVEH,[0.6195429563522339],1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_2.png,80mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_3.png,#400 370,370,[0.9527038931846619],0.5,0.625
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_4.png,SIG: 1 TABLET 2X A DAY,2t,[0.5518984794616699],1.0,0.9545454545454546
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_5.png,BEFORE MEALS,EeHn SyOr,"[0.3727615773677826, 0.5215491056442261]",1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_6.png,2. PIOGLITAZONE,PsGUrz,[0.26303520798683167],1.0,0.8666666666666667
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_7.png,30mg,3,[0.9996330738067627],1.0,0.75
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_8.png,(PIOZONE),meC,[0.2542555034160614],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_9.png, #200 170,7,[0.48318785429000854],1.0,0.875
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_10.png,SIG: 1 TABLET 2X A DAY,3R enedD.,"[0.3945247530937195, 0.4996938705444336]",1.0,0.9090909090909091
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_11.png,BEFORE LUNCH,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_12.png,ATORVASTATIN 10MG,TOWVesDTK,[0.41250503063201904],1.0,0.7647058823529411
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_13.png,Atormax,D DY,"[0.2905719578266144, 0.3866528272628784]",2.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_14.png, #200 170,170,[0.9888105988502502],0.5,0.625
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_15.png,RITEMED,OWS y,"[0.15819711983203888, 0.4080224335193634]",2.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_16.png,1 TABLET ONCE A DAY,X,[0.698871374130249],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_17.png,AT NIGHT,HLSAS,[0.6067992448806763],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_18.png,4. VITAMIN B COMPLEX,VKTOHN 3 Cwr,"[0.6771251559257507, 0.995366096496582, 0.4903092384338379]",1.0,0.7
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_19.png,(PHAREX) ,danord,[0.5608970522880554],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_20.png, #200 170,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_21.png,S: 1 TABLET ONCE A DAY,ers,[0.4894392788410187],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_16/line_22.png,IN THE MORNING,guracw 2,"[0.552937924861908, 0.25933197140693665]",1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_0.png,Label: 1 tablet every 8 hours for,( Itablet Wely khas,"[0.3168703615665436, 0.7251863479614258, 0.7758089900016785, 0.3435131907463074]",1.0,0.6060606060606061
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_1.png,7 days,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_2.png,colds,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_3.png,Hexitidine oral antiseptic,Lexticene oual ,"[0.6905795931816101, 0.794744610786438, 0.0]",1.0,0.6153846153846154
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_4.png,(Bactidol) #1 bottle,Paelclol) #1 balt,"[0.9020804166793823, 0.7923851013183594]",0.6666666666666666,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_5.png,9pm,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_6.png,Label: 1 tablet at night,abel I tablet cet migh,"[0.8963449597358704, 0.7509325742721558]",0.8,0.2916666666666667
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_7.png,Co-amixoclav 625mg/tablet,amoxela le VIng)t,"[0.7723364233970642, 0.6995273232460022]",1.5,0.72
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_8.png,6pm,l0n,[0.6108614802360535],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_9.png,Sinupret Forte #15,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_10.png,Label: gargle 2x a day,Safel Gagl 3x a day,"[0.9344205856323242, 0.8392639756202698]",0.6,0.3181818181818182
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_11.png,Bilastine 20mg/tablet #5,hantine Zong Itablit,[0.7380502820014954],1.0,0.5416666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_12.png,# 21,#Q1,[0.6836134791374207],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_13.png,2pm,MA,[0.2116742730140686],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_14.png,10pm,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_16.png,7am,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_17.png,1pm,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_18.png,7pm,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_18/line_19.png,Label: 1 tablet 3x a day for,hel tablt day,"[0.9057673811912537, 0.71392422914505, 0.9977455139160156]",0.8571428571428571,0.5714285714285714
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_0.png,2. Paracetamol 500mg/tab #16,Parace tan 5my Abs #,[0.6991486549377441],1.25,0.5714285714285714
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_1.png,Sig. take 1 tablet,tebu Tllo 1,"[0.6753249168395996, 0.7977604866027832, 0.5539054274559021]",0.75,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_2.png,1. Co amoxiclav 625mg / tab #25,① Co amoxillun Cog ts t,"[0.6361236572265625, 0.09274023771286011]",0.8571428571428571,0.5161290322580645
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_3.png,Sig. take 1 tablet,wnt 2t,"[0.6789905428886414, 0.5974822044372559]",1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_4.png,P5,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_5.png,Every 8 hours for,Ema mony8,"[0.566168487071991, 0.5065867900848389]",1.0,0.8235294117647058
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_6.png,7 days,Sept,[0.6570598483085632],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_7.png,Every 6 hours as needed,any 6 hens a nod,"[0.8576772212982178, 0.8073875904083252]",0.8,0.5217391304347826
+image_splits/training_set_splits/segmented_lines_per_image/data_19/line_8.png,for fever,e u,[0.5478641986846924],1.0,0.8888888888888888
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_0.png,Amlodipine 10mg #200,ulodpine onkt,"[0.79737389087677, 0.91746586561203]",1.0,0.6
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_1.png,(Bezam),(Bezam,[0.8859650492668152],1.0,0.14285714285714285
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_2.png,S: 1 tablet once a day,mco,[0.6145754456520081],1.0,0.9545454545454546
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_3.png,Rosuvastatin 10mg,8 10,"[0.2503894567489624, 0.9771723747253418]",1.0,0.8235294117647058
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_4.png,(Lustatin) #200,ustatn,[0.804507315158844],1.0,0.6
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_5.png,Rx Am,R Am,"[0.9260039925575256, 0.9821255207061768]",0.5,0.2
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_6.png,Telmisartan #200,202 # emisarto,"[0.6711536049842834, 0.951643705368042, 0.7699772119522095]",1.5,0.875
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_7.png,(Teldra) 50mg,(Teldia),[0.9595606327056885],1.0,0.46153846153846156
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_8.png,S: 1 tablet once a day,(tkeel ance a do,"[0.7341091632843018, 0.736656904220581]",0.8333333333333334,0.5454545454545454
+image_splits/training_set_splits/segmented_lines_per_image/data_20/line_9.png,PM S: 1 table once a day,o mSW a dd,"[0.3768046498298645, 0.7549156546592712]",0.8571428571428571,0.7916666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_0.png,Accuflam spray,ms Eufeam,"[0.6647853851318359, 0.6650732755661011]",1.0,0.7857142857142857
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_1.png,#1,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_2.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_3.png,(Cataflam) 50mg,(Cutafeam ) sony,"[0.7569755911827087, 0.7817385196685791]",1.5,0.4666666666666667
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_4.png,#5,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_5.png,Diclofenac,Dicloferac,[0.8611119985580444],1.0,0.1
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_6.png,S: 1 tablet once a day,tabeep Ow,"[0.8471845984458923, 0.4541579484939575]",1.0,0.7272727272727273
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_7.png,or as needed for pain,as needed,[0.8333574533462524],0.6,0.5714285714285714
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_8.png,#1,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_21/line_9.png,S: AD,AD,[0.7628431916236877],0.5,0.6
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_0.png,(zinof) #200,#20 2no7,"[0.814372718334198, 0.43387460708618164]",1.0,0.9166666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_1.png,Amlodipine 5mg #200,nlodipno,[0.6070405840873718],1.0,0.6842105263157895
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_2.png,fenofibrate 200mg,duofioale 20w,"[0.7623526453971863, 0.5185248851776123]",1.0,0.5294117647058824
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_3.png,Rx,R,[0.9821718335151672],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_4.png,S: 1 tablet once a day,Fabet &a ance a,"[0.5771984457969666, 0.605014443397522, 0.7825846672058105]",0.8333333333333334,0.6818181818181818
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_6.png,S: 1 tablet once a day,8 anc thi,"[0.49805718660354614, 0.7938182950019836, 0.4620828926563263]",1.0,0.7727272727272727
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_7.png,S: 1 tablet once a day,theil ace ad,"[0.8261522054672241, 0.9965730309486389, 0.7677922248840332]",1.0,0.6818181818181818
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_8.png,(Bezam/Provasc),ars,[0.38993799686431885],1.0,0.8
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_9.png,Lozartan 50mg,MeD nex,"[0.580420196056366, 0.3670100271701813]",1.0,0.9230769230769231
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_10.png,(Kenzar / Bezartan),coanzan/sezanton,[0.737399697303772],1.0,0.5263157894736842
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_11.png,#200,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_12.png,Metformin 500mg #400,Tro 5umg #,"[0.4639892578125, 0.5406846404075623, 0.8492050766944885]",1.0,0.65
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_13.png,(Normax),hommat,[0.8983430862426758],1.0,0.625
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_14.png,1 tablet 2x a day,2X ada thel,"[0.8861774802207947, 0.9662103652954102, 0.6680779457092285]",1.0,0.8823529411764706
+image_splits/training_set_splits/segmented_lines_per_image/data_23/line_15.png,S:,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_24/line_0.png,vit c/ zinc,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_24/line_1.png,(Civaz),21s,[0.6032378673553467],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_24/line_2.png,S: 1 tablet once,tabeip an,"[0.7416089177131653, 0.7377214431762695]",1.0,0.6875
+image_splits/training_set_splits/segmented_lines_per_image/data_24/line_3.png,a day,Bar,[0.6357433199882507],1.0,0.8
+image_splits/training_set_splits/segmented_lines_per_image/data_24/line_4.png,S:,:3,[0.7144256234169006],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_24/line_5.png,#100,# 10),"[0.9576398134231567, 0.8080990314483643]",2.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_0.png,Amlodipine 500mg,ms,[0.7846890091896057],1.0,0.9375
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_1.png,(Provasc),uC,[0.4422002136707306],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_2.png,#100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_3.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_4.png,#100,T100,[0.9310792684555054],1.0,0.25
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_5.png,S: 1 tablet once a day,takeel mceada T,"[0.8287767767906189, 0.4254997670650482]",1.0,0.6363636363636364
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_6.png,(Atenurix) 40mg,aten,[0.68207848072052],1.0,0.8
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_7.png,#60,#10,[0.8550726771354675],1.0,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_25/line_8.png,S: 1 tablet once a day,iceada (trbeil,"[0.7779674530029297, 0.5778981447219849]",1.0,0.8636363636363636
+image_splits/training_set_splits/segmented_lines_per_image/data_26/line_0.png,DUO,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_26/line_1.png,EMPAGLIFLOZIN,o6u,[0.29898765683174133],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_26/line_2.png,METFORMIN,u2 U,"[0.45307958126068115, 0.4906380772590637]",2.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_26/line_3.png,12.5,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_26/line_4.png,500,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_26/line_5.png,Jardiance,me,[0.879461407661438],1.0,0.8888888888888888
+image_splits/training_set_splits/segmented_lines_per_image/data_26/line_6.png,#200,20,[0.8755976557731628],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_0.png,5mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_1.png,#100,,[0.0],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_2.png,S: 1 tablet once a day,yo auce thes,"[0.5464322566986084, 0.9166130423545837, 0.7242118716239929]",1.0,0.7727272727272727
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_3.png,(Neomet) 500mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_4.png,#200,# 2a,[0.6350157260894775],2.0,0.75
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_5.png,Amlodipine,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_6.png,(Provasc),,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_7.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_8.png,S: 1 tablet 2x a day,2E a dae the,"[0.7381973266601562, 0.9029269218444824]",1.0,0.75
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_9.png,S:,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_10.png,S: 1 tablet once a day,I pbeil auce- day,"[0.5533633232116699, 0.6588020324707031]",0.8333333333333334,0.5909090909090909
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_11.png,Lozartan 50mg,vosuitar rms,"[0.6900273561477661, 0.5447689294815063]",1.0,0.6153846153846154
+image_splits/training_set_splits/segmented_lines_per_image/data_27/line_12.png,(Kenzar) 	#100,f weia,"[0.27782589197158813, 0.4528120160102844]",1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_0.png,(Provasc)   #100,d,[0.23635388910770416],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_1.png,S: 1 tablet 2x a day,de,[0.7000626921653748],1.0,0.95
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_2.png,S: 1 tablet once a day,nw tahit,"[0.5581661462783813, 0.5872853398323059]",1.0,0.8181818181818182
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_3.png,lozartan 50mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_4.png,7AM,wyt,[0.9190633893013],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_5.png,(Kenzar) #100,kenzan),[0.7236731648445129],1.0,0.6153846153846154
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_6.png,S: 1 tablet once a day,thet uce a dw (,"[0.4017164707183838, 0.8691414594650269, 0.8397840261459351, 0.19533255696296692]",1.0,0.5909090909090909
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_7.png,(glitab) 30mg,flitub 39,"[0.7324472069740295, 0.6795834302902222]",1.0,0.5384615384615384
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_9.png,#200,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_10.png,Metformin 500mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_11.png,(Neomet) #100,Neont) If,"[0.6283726692199707, 0.5716155171394348]",1.0,0.5384615384615384
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_12.png,S: 1 tablet,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_13.png,once a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_14.png,Amlodipine 5mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_15.png,Rx 7pm,wet X,"[0.853485107421875, 0.8696757555007935]",1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_28/line_16.png,#100,# r,[0.8263875842094421],2.0,0.75
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_0.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_1.png,5mg/5ml,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_2.png,7 days,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_3.png,10mg/5ml,on Ju1,"[0.5529801249504089, 0.3456385135650635]",2.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_4.png,2. Prednisone syrup,Predrime mr,"[0.770435094833374, 0.3154166340827942]",1.0,0.5789473684210527
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_5.png,#5,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_6.png,Sig: Give 3.2ml 2x/day,"G,rc3.2m) 20/d","[0.5844851732254028, 0.7272918820381165]",1.0,0.5909090909090909
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_7.png,for 5 days,,[0.0],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_8.png,Syrup,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_9.png,1.Cetirizine,①letinijie,[0.7592809796333313],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_10.png,#1,H1,[0.5033336877822876],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_11.png,2x/day for,2o1dy Fx,"[0.748242974281311, 0.4747784733772278]",1.0,0.6
+image_splits/training_set_splits/segmented_lines_per_image/data_30/line_12.png,Sig: Give 2.5ml ,hik,[0.9045529365539551],1.0,0.9333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_0.png,2. Etoxib ,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_1.png,60mg #10,20,[0.5769520998001099],1.0,0.875
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_2.png,stomach for 7 days,e y yu,"[0.5305306911468506, 0.47812220454216003, 0.23727601766586304]",1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_3.png,S: 1tab 2x/day ,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_4.png,For 3-6days,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_5.png,(7am-3pm-11pm),2u -30 -(,"[0.5153108835220337, 0.8782656192779541, 0.7476793527603149]",3.0,0.7857142857142857
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_6.png,1. Clindamycin (Peldacyn),(eldacn Clendanyern,"[0.653974175453186, 0.5699629187583923]",1.0,0.64
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_7.png,300 g # 21 or (Dalacin-C),30s98 Dalon-,"[0.6767881512641907, 0.8409952521324158]",1.0,0.68
+image_splits/training_set_splits/segmented_lines_per_image/data_38/line_8.png,S: 1cap every 8hrs on full,y lne or,[0.495211660861969],1.0,0.8461538461538461
+image_splits/training_set_splits/segmented_lines_per_image/data_39/line_0.png,1 vial,nat,[0.6844156384468079],1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_39/line_1.png,2x/day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_39/line_2.png,mix,n,[0.6767932772636414],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_39/line_3.png,in water (½ glass will do),sles will do,[0.8499944806098938],0.8333333333333334,0.6153846153846154
+image_splits/training_set_splits/segmented_lines_per_image/data_39/line_4.png,Take,Take,[0.9510298371315002],0.0,0.0
+image_splits/training_set_splits/segmented_lines_per_image/data_39/line_5.png,Bacillus ,paallns,[0.5948713421821594],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_39/line_6.png,(Erceflora) # 10,ERCEFURA,[0.9512922763824463],1.0,0.9375
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_0.png,5mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_1.png,(Provasc),CPoVOS,[0.6379380822181702],1.0,0.7777777777777778
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_2.png,S: 1-2 tablets as needed for insomnia,tabets 1-2 a2 ree,"[0.6528242230415344, 0.8187301754951477, 0.7357743382453918, 0.9492433071136475]",0.8571428571428571,0.7567567567567568
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_3.png,Amlopidine,UiCo depon,"[0.616442859172821, 0.7615625858306885]",2.0,0.9
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_4.png,S: 1 tablet once a day,talee,[0.6457421183586121],1.0,0.7727272727272727
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_5.png,S: 1 tablet as needed,or hede tabeet,"[0.8248056173324585, 0.8613976836204529]",1.0,0.7619047619047619
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_6.png,for dizziness,fu dirtuen,"[0.7226071357727051, 0.64702308177948]",1.0,0.6153846153846154
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_7.png,#100,#(00,[0.7320838570594788],1.0,0.25
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_8.png,Betahistine,Refakt,[0.6486543416976929],1.0,0.7272727272727273
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_9.png,16mg,Keens,[0.7429148554801941],1.0,1.25
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_10.png,(Nuvert),nmeil,[0.8938018083572388],1.0,0.875
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_11.png,#30,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_12.png,Melatonin 3mg,mmefog Y,"[0.6074963212013245, 0.9867812991142273]",1.0,0.8461538461538461
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_13.png,#30,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_40/line_14.png,for insomnia,mmesn,[0.7009652256965637],1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_49/line_0.png,Dynatussin – # 30 tabs,yna tuesoin H3D,"[0.9756529927253723, 0.8644965291023254, 0.49031171202659607]",1.0,0.6363636363636364
+image_splits/training_set_splits/segmented_lines_per_image/data_49/line_1.png,Sig: 1 tablet 3x a day,tablet 3x,[0.9836447238922119],0.6666666666666666,0.5909090909090909
+image_splits/training_set_splits/segmented_lines_per_image/data_49/line_2.png,Co-Amoxiclav 625 mg – 14 tabs,-Amoxidav 425 my,"[0.8090481162071228, 0.8543464541435242, 0.8724174499511719]",1.0,0.5517241379310345
+image_splits/training_set_splits/segmented_lines_per_image/data_49/line_3.png,Sig: 1 tablet 2x daily for 7 days,1 tablet 2x daily for7,[0.8225807547569275],0.5,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_49/line_4.png,Azithromycin 500mg – #3 tabs,hkonyt,[0.5530661940574646],1.0,0.8571428571428571
+image_splits/training_set_splits/segmented_lines_per_image/data_49/line_5.png,Sig: 1 tablet once a day for 3 days,1 tablet once a dag for 3,[0.8662039041519165],0.3333333333333333,0.3142857142857143
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_0.png,Spironolactone 25 mg – # 8,25m7,[0.7923736572265625],1.0,0.8846153846153846
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_1.png,Sig 1 tab 2x a week (Tuesday & Saturday),fab 2x awoeklTu,"[0.8718133568763733, 0.841269314289093]",0.8888888888888888,0.7
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_2.png,after breakfast,etu beeakpas,"[0.5180965662002563, 0.8421328067779541]",1.0,0.4666666666666667
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_3.png,Tamsulosin 400 mcg – #30,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_4.png,Sig 1 tablet once a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_5.png,Sodium Bicarbonate 650mg – #60,G um Bicar bonate 650mg,"[0.8986272811889648, 0.8277131915092468]",1.0,0.36666666666666664
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_6.png,Sig 1 tablet 2x a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_7.png,Citicoline 500 mcg – #30,hi co li 5 Do,"[0.8127532005310059, 0.8291916847229004]",1.0,0.7083333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_8.png,Sig 1 tablet once a day,fallet,[0.7952280044555664],1.0,0.8260869565217391
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_9.png,Memantine 10mg – #60,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_10.png,Sig 1 tablet 2x a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_11.png,Tiotropium/Olodaterol (Spiolto Respimat),,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_12.png,Sig 2 puffs once a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_13.png,Rosuvastatin 10mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_14.png,– #30,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_15.png,Sig 1 tablet at bedtime,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_16.png,Quetiapine 100 mcg – #30,lom001,[0.7322821617126465],1.0,0.9166666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_17.png,Sig ½ tablet 2x a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_18.png,Escitalopram 10 mg – #30,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_19.png,Sig 1 tablet once day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_52/line_20.png,at bedtime,2t,[0.5757032632827759],1.0,0.9
+image_splits/training_set_splits/segmented_lines_per_image/data_54/line_0.png,Clindamycin 300mg/cap – 28,indamycin 3oomglcap,[0.9455379843711853],1.0,0.38461538461538464
+image_splits/training_set_splits/segmented_lines_per_image/data_54/line_1.png,(6am -12pm - 6pm - 12am),,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_54/line_2.png,This is skin infection,Kin,[0.8104310035705566],1.0,0.9090909090909091
+image_splits/training_set_splits/segmented_lines_per_image/data_54/line_3.png,Co-Amoxiclav 625 mg – 21 tabs,-Amokidev 625 2(,"[0.8441137671470642, 0.6700447797775269]",0.8333333333333334,0.5862068965517241
+image_splits/training_set_splits/segmented_lines_per_image/data_54/line_4.png,Sig 1 tablet 3x daily for 7 days,davilg,[0.6737363934516907],1.0,0.90625
+image_splits/training_set_splits/segmented_lines_per_image/data_54/line_5.png,Sig 1 cal every 6 hours for 7 days,wes PuG,"[0.6129457354545593, 0.390886515378952]",1.0,0.9117647058823529
+image_splits/training_set_splits/segmented_lines_per_image/data_56/line_0.png,Clindamycin 75mg/5ml,Iindamycin 75my/5m,"[0.8808814287185669, 0.7473424673080444]",1.0,0.2
+image_splits/training_set_splits/segmented_lines_per_image/data_56/line_1.png,Sig take 20ml via,take 20ml u9,[0.8290061354637146],0.5,0.4117647058823529
+image_splits/training_set_splits/segmented_lines_per_image/data_56/line_2.png,#4,#,[0.9050835967063904],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_56/line_3.png,mouth three times a day,24 ynow,"[0.48065149784088135, 0.5346927642822266]",1.0,0.9565217391304348
+image_splits/training_set_splits/segmented_lines_per_image/data_56/line_4.png,with strict aspiration precaution,preanthen yenso 24,"[0.8157469630241394, 0.8311821818351746, 0.576655387878418]",1.0,0.8181818181818182
+image_splits/training_set_splits/segmented_lines_per_image/data_56/line_5.png,for 7 days,Fr Idays,"[0.5221566557884216, 0.9169937372207642]",1.0,0.4
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_0.png,Sig take 1 tablet once a ,1foh,[0.4884285628795624],1.0,0.9166666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_1.png,day at breakfast,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_2.png,1. Biotene Spray,4 Biotene Spran,"[0.5978222489356995, 0.9340980648994446, 0.9069754481315613]",0.6666666666666666,0.1875
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_3.png,Sig Spray on oral mucosa #3,ne pao uo crarls itg 1,"[0.490985631942749, 0.530967116355896]",1.0,0.7037037037037037
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_4.png,3x a day,mp,[0.7536966800689697],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_5.png,2. Carbocisteine 100 mg/5 mL ,7UShUaO1 Cabocistere,"[0.27354103326797485, 0.8789875507354736]",1.0,0.8214285714285714
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_6.png,(Loviscol) (120ml) #3,(LOO1) C120mC,"[0.6453576683998108, 0.9186781048774719]",1.0,0.6190476190476191
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_7.png,Sig Give 5ml three times a day,M. Gire Ful Torce frs ad,[0.7712236046791077],1.0,0.5333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_57/line_8.png,3. Omeprazole 40mg # 14,Ovepronle 40y n #,"[0.8029729127883911, 0.6977525353431702, 0.6553008556365967]",0.8,0.5217391304347826
+image_splits/training_set_splits/segmented_lines_per_image/data_60/line_0.png,at bedtime,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_60/line_1.png,Paracetamol 250ml/5ml,aracetamo 250mL,"[0.9182777404785156, 0.9326518177986145]",1.0,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_60/line_2.png,(Calpol),,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_60/line_3.png,#3,#,[0.9818944334983826],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_60/line_4.png,Sig take 10ml every, ymo1 3b,"[0.39027976989746094, 0.2486134171485901]",1.0,0.8947368421052632
+image_splits/training_set_splits/segmented_lines_per_image/data_60/line_5.png,4 hours for fever,4 hours For peu,"[0.8424330353736877, 0.9165248274803162, 0.9218120574951172]",0.5,0.29411764705882354
+image_splits/training_set_splits/segmented_lines_per_image/data_60/line_6.png,> 37.3 C,373,[0.9167847633361816],1.0,0.625
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_0.png,Essentiale # 20,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_1.png,Once a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_2.png,Heparin 30g OD #100,ep,[0.7284499406814575],1.0,0.8947368421052632
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_3.png,Inhaled,T,[0.5055779218673706],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_4.png,Corolan 7.5g # 200,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_5.png,Facial,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_6.png,Lasix 40g # 100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_7.png,Espididol,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_8.png,Inspra 25g # 100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_9.png,Daily,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_10.png,Coversyl 5g # 100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_11.png,Esd bc,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_12.png,Jardiance 25g # 100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_13.png,Trimag 200g # 100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_14.png,Cardiomax # 200,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_15.png,Nebilet 5g #100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_16.png,Candid V 200mg #300,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_17.png,Plosul 75g # 100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_62/line_18.png,Roswin 10g # 100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_0.png,S: 1 tablet once a day,thhei a,"[0.7583726644515991, 0.33777567744255066]",0.8333333333333334,0.8181818181818182
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_1.png,7pm,7m,[0.8018293380737305],1.0,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_2.png,#100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_3.png,Amlodipine 5mg,amlodipne th,"[0.8188211917877197, 0.47068172693252563]",1.0,0.35714285714285715
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_4.png,(Provasc) # 100,(22,[0.6047371029853821],1.0,0.9333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_5.png,7am (Atenurix) 40mg,afen,[0.7583915591239929],1.0,0.8421052631578947
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_6.png,#100,α1#,[0.713209867477417],1.0,0.75
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_7.png,S: 1 tablet once a day,thhet mceadde,"[0.6075828671455383, 0.6678313612937927]",1.0,0.6363636363636364
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_8.png,(Rosuvastatin) 10mg,S Routa,[0.6463257670402527],1.0,0.7894736842105263
+image_splits/training_set_splits/segmented_lines_per_image/data_65/line_9.png,7pm S: 1 tablet once a day,am S taet ace a dce,"[0.5903277397155762, 0.6009783744812012]",0.8571428571428571,0.4230769230769231
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_0.png,10mg # 100,ong,[0.698756217956543],1.0,0.9
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_1.png,Amlodipine 5mg,5,[0.354458212852478],1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_2.png,(Provasc) # 100,,[0.0],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_3.png,Losartan 50mg,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_4.png,(Kenzar) # 100,# Kenan,"[0.6648842692375183, 0.754305362701416]",0.6666666666666666,0.7857142857142857
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_5.png,(Lustatin / Rosuvast),,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_6.png,S: 1 tablet once a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_7.png,S: 1 tablet once a day,S tkeel aucead,"[0.9093762636184692, 0.8161654472351074, 0.8263022303581238]",1.0,0.5909090909090909
+image_splits/training_set_splits/segmented_lines_per_image/data_69/line_8.png,S: 1 tablet once a day,-  takeil ace,"[0.96914142370224, 0.7126114964485168, 0.9852796196937561]",1.0,0.6818181818181818
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_0.png,Losartan 50mg,sme,[0.5904104709625244],1.0,0.8461538461538461
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_1.png,(Kenzar),eenza,[0.7995440363883972],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_2.png,1 tablet once a day,Lheil ace,"[0.7779324054718018, 0.9748947024345398]",1.0,0.7894736842105263
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_3.png,(Omnivox) 500mg,x,[0.5021048784255981],1.0,0.9333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_4.png,#7,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_5.png,S: 1 tablet once a day,tabel C mcead,"[0.7596811652183533, 0.5518702864646912, 0.867597222328186]",1.0,0.6363636363636364
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_6.png,Lunch,lum,[0.5488578677177429],1.0,0.8
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_7.png,Morning,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_8.png,(Lustatin) 10mg #100,lomg # (2tsm,"[0.8510696291923523, 0.5734148025512695]",1.0,0.95
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_9.png,Rosuvast,fne,[0.37488117814064026],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_10.png,Before,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_11.png,Bedtime,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_12.png,S: 1 tablet once a day,tabel mce,"[0.6890907287597656, 0.8648247718811035]",1.0,0.6818181818181818
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_13.png,(Provasc) 5mg #100,/8m(,[0.5508646965026855],1.0,0.9444444444444444
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_14.png,Bedtime,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_15.png,S: 1 tablet once a day,theit mcead,"[0.7628118991851807, 0.9617988467216492]",1.0,0.6818181818181818
+image_splits/training_set_splits/segmented_lines_per_image/data_70/line_16.png,#100,#10,[0.9706578850746155],1.0,0.25
+image_splits/training_set_splits/segmented_lines_per_image/data_71/line_0.png,Flutiform Inhaler 125 # 2,whfor nheer 125 of,"[0.8075461387634277, 0.6651527285575867, 0.8110159635543823]",0.8,0.48
+image_splits/training_set_splits/segmented_lines_per_image/data_71/line_1.png,Flutiform Inhaler 125 # 2,a iparf 2x,"[0.5986143946647644, 0.9653236865997314]",1.0,0.84
+image_splits/training_set_splits/segmented_lines_per_image/data_71/line_2.png,gargle after use,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_71/line_3.png,(1 - 0 - 1),,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_73/line_0.png,at bedtime,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_73/line_1.png,S: apply on forehead/hairline,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_73/line_2.png,Daivobet ointment,Daiwt ount ment,"[0.5998727083206177, 0.7692579627037048, 0.891108512878418]",1.5,0.35294117647058826
+image_splits/training_set_splits/segmented_lines_per_image/data_73/line_3.png,Hydrocortisone 1% cream,'usy,[0.5279734134674072],1.0,0.9565217391304348
+image_splits/training_set_splits/segmented_lines_per_image/data_73/line_4.png,S: apply 2x/day on side,aune M,"[0.49843209981918335, 0.8027019500732422]",1.0,0.9130434782608695
+image_splits/training_set_splits/segmented_lines_per_image/data_73/line_5.png,of nose,mM,[0.6509333252906799],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_73/line_6.png,Halovate ointment,C AT unt mont,"[0.40986737608909607, 0.519750714302063, 0.6950989365577698, 0.8476366996765137]",2.0,0.7058823529411765
+image_splits/training_set_splits/segmented_lines_per_image/data_73/line_7.png,S: apply on legs 2x/day,. ag on ligs 2x/0,"[0.42945772409439087, 0.7162511944770813, 0.9952654838562012, 0.752655029296875]",0.8,0.43478260869565216
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_1.png,Itraconazole 100mg,1,[0.26619455218315125],1.0,0.9444444444444444
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_2.png,10 days,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_3.png,#7,t,[0.6590612530708313],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_4.png,(Inox),INOK,[0.7484650611877441],1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_5.png,0 - 1 - 0,--,[0.6814779043197632],1.0,0.7777777777777778
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_6.png,S: 1 tab a day,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_7.png,Clotrimazole eardrops,Dnimmm,[0.4357386827468872],1.0,0.9047619047619048
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_8.png,(Candiva otic),2120 CMNMIA,"[0.8166035413742065, 0.5864689946174622]",1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_9.png,2 drops in right ear,my u wae,[0.5049054622650146],1.0,0.85
+image_splits/training_set_splits/segmented_lines_per_image/data_74/line_10.png,2x/day for,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_78/line_0.png,Ciprofloxacin,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_78/line_1.png,500 mg/tab × 7 days,wal X,"[0.6299252510070801, 0.4048256278038025]",1.0,0.8947368421052632
+image_splits/training_set_splits/segmented_lines_per_image/data_78/line_2.png,AM LUNCH PM BED TIME NO. OF,VCH PM BE,"[0.9686409831047058, 0.8940972089767456]",0.8571428571428571,0.7037037037037037
+image_splits/training_set_splits/segmented_lines_per_image/data_78/line_3.png,PIECES,PTEEES,[0.6472365260124207],1.0,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_78/line_4.png,8A,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_78/line_5.png,8P,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_78/line_6.png,#14,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_0.png,1. Cefuroxime,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_1.png,???,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_2.png,(Cemex),UMEX,[0.6958768367767334],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_3.png,× 7 days,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_4.png,AM LUNCH PM BED TIME NO. OF,LIACHPM BEOTIME,[0.8570297956466675],1.0,0.5555555555555556
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_5.png,PIECES,I,[0.935245931148529],1.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_6.png,8A,8,[0.6834122538566589],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_7.png,8P,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_81/line_8.png,#14,l,[0.5010876655578613],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_0.png,1. Co-Amoxiclav,Co-Mmox,[0.6548088192939758],1.0,0.6
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_1.png,(Augmentin) 625mg / tab,627 MUCMENN,"[0.6032854914665222, 0.8434567451477051]",1.0,0.9130434782608695
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_2.png,Fluimucil,UlMuce,[0.4021371603012085],1.0,0.6666666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_3.png,600 mg/tab × 7 days,t X AN,"[0.8691261410713196, 0.9659920334815979, 0.7712058424949646]",1.0,0.8421052631578947
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_4.png,AM LUNCH PM BED TIME NO. OF,BED TIME,[0.9496657848358154],0.7142857142857143,0.7037037037037037
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_5.png,PIECES,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_6.png,#14,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_7.png,#7,7,[0.9993981122970581],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_8.png,8A,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_88/line_9.png,8P,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_0.png,Sinecod,ae,[0.661890983581543],1.0,0.8571428571428571
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_1.png,Forte,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_2.png,625 mg/tab × 7 days,Ky n,"[0.22985658049583435, 0.44294390082359314]",1.0,0.9473684210526315
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_3.png,AM LUNCH PM BED TIME NO. OF,'ON LUNCH PM BED TIME M,"[0.8445228934288025, 0.9501447081565857, 0.3476221561431885]",0.42857142857142855,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_4.png,#21,1,[0.561768114566803],1.0,0.6666666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_5.png,#5,$5,[0.9919251203536987],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_6.png,#14,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_7.png,PIECES,PEEEES,[0.6602798104286194],1.0,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_8.png,Cetirizine,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_9.png,5 days ,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_10.png,1 tab x,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_91/line_11.png,Co-Amoxiclav,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_95/line_0.png,Deolsin capsule #20,R015,[0.5673668384552002],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_95/line_1.png,2 sprays/nostril,S ie rhord,"[0.40996894240379333, 0.2162741869688034, 0.6092775464057922]",1.5,0.8125
+image_splits/training_set_splits/segmented_lines_per_image/data_95/line_2.png,Nasofree/Clariderm,Caridee 02f050,"[0.7691851258277893, 0.6559218764305115]",2.0,0.8333333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_95/line_3.png,Every 12 hrs,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_95/line_4.png,if needed,needed,[0.8272797465324402],0.5,0.3333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_95/line_5.png,Do not exceed 5 days,NOt xee SOk,"[0.7292627692222595, 0.48600754141807556, 0.7313453555107117]",1.0,0.7
+image_splits/training_set_splits/segmented_lines_per_image/data_95/line_6.png,of regular use ,of regrler wee,[0.8010746240615845],0.6666666666666666,0.2857142857142857
+image_splits/training_set_splits/segmented_lines_per_image/data_95/line_10.png,Oxymetazoline,Kymetazolme,[0.8106174468994141],1.0,0.3076923076923077
+image_splits/training_set_splits/segmented_lines_per_image/data_96/line_0.png,RX,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_96/line_1.png,Mucosaliv,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_96/line_2.png,30g,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_96/line_4.png,2x,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_97/line_0.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_97/line_1.png,July,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_97/line_2.png,Ultrasound of whole abdomen,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_97/line_3.png,U/S of H breast & axilla,l d,[0.5209465622901917],1.0,0.9583333333333334
+image_splits/training_set_splits/segmented_lines_per_image/data_98/line_0.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_98/line_1.png,(Tobracare),obrecape,[0.8317180871963501],1.0,0.45454545454545453
+image_splits/training_set_splits/segmented_lines_per_image/data_98/line_2.png,1g,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_98/line_3.png,Oint,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_100/line_0.png,1 cap 2x a day,λt 5,"[0.5773484706878662, 0.8349863886833191]",1.0,0.9285714285714286
+image_splits/training_set_splits/segmented_lines_per_image/data_100/line_1.png,2. Glumet XR 500mg/tab #2,Koometab ClumetxR,"[0.6043651700019836, 0.739902138710022]",1.0,0.76
+image_splits/training_set_splits/segmented_lines_per_image/data_100/line_2.png,1 tab once a day,,[0.0],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_100/line_3.png,#13,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_100/line_4.png,Silgram 750mg/cap,ilgram 750m9,"[0.9226976037025452, 0.89788818359375]",1.0,0.35294117647058826
+image_splits/training_set_splits/segmented_lines_per_image/data_100/line_5.png,Rx,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_101/line_0.png,Amoxicillin Trihydrate 500 mg,m,[0.739936888217926],1.0,0.9655172413793104
+image_splits/training_set_splits/segmented_lines_per_image/data_101/line_1.png,(Amoxcillin) #15,illi )tk tmoxi,"[0.873313307762146, 0.6855989098548889, 0.9093148112297058]",1.5,0.875
+image_splits/training_set_splits/segmented_lines_per_image/data_101/line_2.png,Sig: 1 tab 3x a day x 5 days,3xlg J m2,"[0.7665027976036072, 0.3430789113044739]",1.0,0.8571428571428571
+image_splits/training_set_splits/segmented_lines_per_image/data_101/line_3.png,Mefenamic Acid 500 mg,filh mie Aid,"[0.6241452693939209, 0.7376659512519836]",1.0,0.7142857142857143
+image_splits/training_set_splits/segmented_lines_per_image/data_101/line_4.png,(Dolfenal) #6,Dulful,[0.7101827263832092],1.0,0.6923076923076923
+image_splits/training_set_splits/segmented_lines_per_image/data_101/line_5.png,Sig: 1 tab every 4 hours,(hie in,"[0.4146600663661957, 0.3265243470668793]",1.0,0.9166666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_0.png,1. at bedtime ,3A halty,"[0.34113407135009766, 0.6724538803100586]",1.0,0.8461538461538461
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_1.png,8:00 PM,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_2.png,(Stelix) (10/5),(1015,[0.756022036075592],1.0,0.7333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_3.png,1. Nac (Pneumotyl) 600 - 7,LD NHC Cpremotl,[0.538455605506897],1.0,0.6923076923076923
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_4.png,1. tablet dissolve in 1 glass of,fabent anirlue n to,"[0.8217692971229553, 0.5944353342056274, 0.47384288907051086]",1.0,0.6875
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_5.png,"water, once a day","water, hce orae",[0.7275998592376709],0.75,0.35294117647058826
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_6.png,(12nn),(ann,[0.45567038655281067],1.0,0.5
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_7.png,2. Levofloxacin (Levoflox) 500 #7,Lenhuroan Chenfures f kes,"[0.6431264281272888, 0.38387930393218994, 0.8332664966583252]",1.0,0.7272727272727273
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_8.png,12 noon,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_9.png,S:,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_102/line_10.png,3. Montelukast + Cetirizine,Montelubat tn,"[0.8030428886413574, 0.33181232213974]",1.0,0.5555555555555556
+image_splits/training_set_splits/segmented_lines_per_image/data_103/line_0.png,1. Montelukast + Cetirizine,Mouselw Celin 2,"[0.7228005528450012, 0.8443248867988586, 0.48356422781944275]",1.0,0.7037037037037037
+image_splits/training_set_splits/segmented_lines_per_image/data_103/line_1.png,(Stelix) 10/5,Aelix 10,[0.501548171043396],1.0,0.46153846153846156
+image_splits/training_set_splits/segmented_lines_per_image/data_103/line_2.png,-15,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_103/line_3.png,S: 2. at bedtime,Aedtme,[0.70651775598526],1.0,0.6875
+image_splits/training_set_splits/segmented_lines_per_image/data_104/line_0.png,S: 1. oday,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_104/line_1.png,x 2 weeks,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_104/line_2.png,1. Pantoprazole + Domperidone  ,Pawtoparole+,[0.7917546629905701],1.0,0.6551724137931034
+image_splits/training_set_splits/segmented_lines_per_image/data_104/line_3.png,#15,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_104/line_4.png,(Pantec) 40/30,(Pontec) 0 30,"[0.8225520253181458, 0.13738618791103363, 0.9645713567733765]",1.5,0.21428571428571427
+image_splits/training_set_splits/segmented_lines_per_image/data_105/line_0.png,RX,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_105/line_1.png,co-amoxiclav 625 mg / capsule,LD.amDniclaV 625 mg  COp&u)t,"[0.7070842385292053, 0.9826673865318298, 0.9948166608810425, 0.0, 0.6339204907417297]",0.6,0.41379310344827586
+image_splits/training_set_splits/segmented_lines_per_image/data_105/line_2.png,Sig: 1 capsule every 8 hours x 7 days,2 X Smou 8 Cen ccue ( 6,"[0.45086702704429626, 0.5745368599891663, 0.5845444202423096, 0.9075121879577637, 0.27557846903800964, 0.2319623827934265, 0.8744875192642212, 0.9775170087814331]",0.8888888888888888,0.7567567567567568
+image_splits/training_set_splits/segmented_lines_per_image/data_105/line_3.png,Arcoxia 90 mg / capsule,Arcakia 90mg,"[0.8884830474853516, 0.6791712641716003]",1.0,0.5652173913043478
+image_splits/training_set_splits/segmented_lines_per_image/data_105/line_4.png,Sig: 1 capsule OD / once a day or as,1 capsulc DD OnEE C D,"[0.27085015177726746, 0.8678160309791565, 0.9782981872558594, 0.6034858226776123, 0.18754221498966217, 0.11715903878211975]",0.9,0.6111111111111112
+image_splits/training_set_splits/segmented_lines_per_image/data_105/line_5.png,needed for pain,needed For pas.,"[0.6222582459449768, 0.9432711005210876, 0.9057292938232422]",0.6666666666666666,0.2
+image_splits/training_set_splits/segmented_lines_per_image/data_106/line_0.png,RX,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_106/line_1.png,cefalexin 500mg/capsule,talexin 5001 ma caps,"[0.9585038423538208, 0.9382492303848267, 0.9519743919372559, 0.9986629486083984]",2.0,0.43478260869565216
+image_splits/training_set_splits/segmented_lines_per_image/data_106/line_2.png,1: capsule every 8 hours x 7 days,capsule every 8 hours X 70,"[0.9286478161811829, 0.9373455047607422]",0.5,0.2727272727272727
+image_splits/training_set_splits/segmented_lines_per_image/data_106/line_3.png,Sig:,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_106/line_4.png,mefenamic acid 500mg/capsule,500 my cape ppb,"[0.8208450078964233, 0.4863128960132599]",1.3333333333333333,0.8214285714285714
+image_splits/training_set_splits/segmented_lines_per_image/data_106/line_5.png,Sig: 1 capsule every 8 hours as needed,capsule every 8 houks as necded,"[0.9074630737304688, 0.9996048212051392, 0.8624210357666016, 0.9158898591995239, 0.8416997194290161]",0.5,0.23684210526315788
+image_splits/training_set_splits/segmented_lines_per_image/data_106/line_6.png,for pain,for parn,[0.882682204246521],0.5,0.125
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_0.png,amlodipine 10 g,amlotr 107,"[0.47990405559539795, 0.9789908528327942]",1.0,0.5333333333333333
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_1.png,Atorvastatin 40 mg,fomautah 40,"[0.752750039100647, 0.9835444092750549]",0.6666666666666666,0.6111111111111112
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_2.png,S: 1 l od (7pm),(7,[0.6037222146987915],1.0,0.8666666666666667
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_3.png,50g,Q9 wyLnr,"[0.5423737168312073, 0.35391765832901]",2.0,2.6666666666666665
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_4.png,100,U,[0.18318761885166168],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_5.png,(Lifezar),Lifge],[0.8919517397880554],1.0,0.6666666666666666
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_6.png,S: 1 l od (7am),(7om L D,"[0.7302173376083374, 0.7702149748802185, 0.48193949460983276]",1.0,0.8666666666666667
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_7.png,100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_8.png,(Lipitor) ,Ady,[0.5570753216743469],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_9.png,Febuxostat 40,40 tluxets,"[0.6883095502853394, 0.5987367630004883]",1.0,0.9230769230769231
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_10.png,100,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_11.png,(Atenurix),Mrmenk,[0.5001320838928223],1.0,0.8
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_12.png,RX,,[],1.0,1.0
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_13.png,(Norvasc),eva,[0.7306877970695496],1.0,0.7777777777777778
+image_splits/training_set_splits/segmented_lines_per_image/data_107/line_14.png,100,n,[0.5010814666748047],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_0.png,100 mg,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_1.png,celecoxib,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_2.png,#2 capsules,* cm,"[0.2687302529811859, 0.2867302894592285]",1.0,0.8181818181818182
+image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_3.png,Sig: take 1 cap every 12 hours,cap,[0.9250200390815735],0.8571428571428571,0.9
+image_splits/training_set_splits/synthetic_segmented/V00/page_1/line_4.png,"for moderate pain, as needed","mo dmt youn, T","[0.7124144434928894, 0.8492522239685059, 0.40860095620155334]",1.0,0.7142857142857143
+image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_0.png,50mg,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_1.png,Diclofenac k 50mg,Didofun,[0.7634333968162537],1.0,0.7058823529411765
+image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_2.png,#9 tabs,tit,[0.7578635811805725],1.0,0.8571428571428571
+image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_3.png,Sig: take 1 tab every 8 hours,tn / t m n,"[0.2219557762145996, 0.265662282705307, 0.14269453287124634, 0.8431159257888794, 0.8540016412734985]",1.0,0.7931034482758621
+image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_4.png,for moderate pain as,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_2/line_5.png,needed,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_0.png,??mg,L,[0.16042394936084747],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_1.png,Ibuprofen,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_2.png,#6 caps,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_3.png,Sig: take 1 cap every 8 hrs,J cap m trhe,"[0.7805019617080688, 0.9258232116699219, 0.8876290917396545, 0.7041856646537781]",0.8571428571428571,0.7407407407407407
+image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_4.png,as needed,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_3/line_5.png,"(3x a day) for mild pain,",3X,[0.8387272357940674],1.0,0.96
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_0.png,Prednisone ,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_1.png,10mg,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_2.png,#10 tabs,4 0 tabs,"[0.5607569217681885, 0.9000879526138306]",1.0,0.25
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_3.png,Sig:  - take 1 tab every 6 hrs on,L 141 mt-,"[0.2669893503189087, 0.6052781939506531, 0.5685678124427795]",1.0,0.9090909090909091
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_4.png,the first day,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_5.png,- take 1 tab every 8 hours on,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_6.png,the second day,yars,[0.34126365184783936],1.0,0.9285714285714286
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_7.png,- take 1 tab every 12 hours on,y4 mak 405,"[0.7031373977661133, 0.8353433012962341, 0.41489866375923157]",1.0,0.9
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_8.png,the third day,the tird,"[0.5496827960014343, 0.5136547088623047]",0.6666666666666666,0.38461538461538464
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_9.png,- take 1 tab once on the,,[0.0],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V00/page_4/line_10.png,"fourth day, ??",ps,[0.5224323868751526],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_1.png,1. Ibuprofen 400 mg,T JbuproAn 400 0o,"[0.35405468940734863, 0.7502591609954834, 0.9092257022857666, 0.27829986810684204]",0.75,0.3684210526315789
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_2.png,#10,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_3.png,2. Celecoxib 200 mg,NT Detecoxib,"[0.7034329175949097, 0.9754159450531006]",1.0,0.5789473684210527
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_4.png,Sig: 1 capsule once a day,o 6 nwe Rpend,"[0.3455671966075897, 0.9975872039794922, 0.5492871403694153, 0.42868345975875854]",1.0,0.76
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_5.png,3. Clonidine 0.17 mg,U0 dup mD,"[0.7341558933258057, 0.38297757506370544]",1.0,0.8
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_6.png,Sig: 1 tablet at bedtime,i fabtt of bedta,"[0.7970935106277466, 0.6695402264595032, 0.9605604410171509, 0.8722475171089172]",1.0,0.5416666666666666
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_7.png,4. Metoclopramide 10 mg,Mefo copmidt U,"[0.6652941703796387, 0.5666572451591492]",1.0,0.6086956521739131
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_8.png,Sig: 1 tablet OD 30 minutes,a(8 14924 . 0f,"[0.7211775183677673, 0.8125961422920227, 0.9077658653259277, 0.4925219714641571]",1.0,0.8148148148148148
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_9.png,before meals & at bedtime,at m,"[0.9557360410690308, 0.9778764843940735]",0.8,0.84
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_10.png,5. Naproxen 500 mg,Nogpmaen 5,"[0.68683260679245, 0.37649106979370117]",1.0,0.7222222222222222
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_11.png,#5,7 5,"[0.7620747089385986, 0.9988743662834167]",2.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_12.png,S: 1 tablet daily,no I tabh,"[0.7045697569847107, 0.8774941563606262, 0.7351688146591187]",1.0,0.7058823529411765
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_13.png,S: 1 tablet q 4 hours as needed,aney s 6 1494 G 3Y no,"[0.5913021564483643, 0.7844150066375732, 0.6551859378814697, 0.2439318746328354, 0.41211771965026855]",1.0,0.7741935483870968
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_14.png,6. Omaprazole 40 mg,Omprzofe 4s,"[0.7212544083595276, 0.9679948091506958]",1.0,0.5263157894736842
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_15.png,#20,#,[0.5277369618415833],1.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_16.png,S: 1 capsule 30-60 min before breakfast,1 capru/e 30.co mun betire,"[0.8230230212211609, 0.7944796681404114, 0.7734920978546143]",0.8571428571428571,0.5384615384615384
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_17.png,7. Atenolol 50 mg,Afem (ol,[0.8728100657463074],1.0,0.7647058823529411
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_18.png,#30,2E #,[0.5957683324813843],2.0,1.3333333333333333
+image_splits/training_set_splits/synthetic_segmented/V02/page_1/line_19.png,S: 1 tablet daily,11 tablec,"[0.4469297230243683, 0.8916890025138855]",1.0,0.5882352941176471
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_0.png,8. Clopidogrel 70 mg,l Chopidrprel,"[0.6148905754089355, 0.7797765731811523]",1.0,0.55
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_1.png,#30,es ,[0.7481409907341003],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_2.png,S: 1 tablet once a day,i tabtct onie 6 da,"[0.7790876626968384, 0.7367430925369263]",1.0,0.4090909090909091
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_3.png,9. Paracetamol 500 mg,panutamet 57,"[0.7020418643951416, 0.5293541550636292]",1.0,0.7142857142857143
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_4.png,#30,2 ,[0.491132915019989],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_5.png,S: 1 tablet for 4 hrs pain,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_6.png,10. Amlodipine 5 mg,bs sut ,[0.3567673861980438],1.0,0.9473684210526315
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_7.png,S: 1 tablet once a day,i tabtest tie a da,"[0.842437207698822, 0.7833913564682007]",0.8333333333333334,0.45454545454545453
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_8.png,11. Aspirin 80 mg,Aspinn 08,"[0.9233735203742981, 0.9975022673606873]",1.0,0.5882352941176471
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_9.png,#30,#30,[0.982264518737793],0.0,0.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_10.png,S: 1 tablet od 4 to 6 hours as needed,hom as 9 4  6 \ fibtct,"[0.7475305199623108, 0.9163879156112671, 0.7859328389167786, 0.5761300325393677, 0.6054605841636658]",0.8,0.7297297297297297
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_11.png,12 Risedronate 35 mg,De Risedronate,"[0.5016305446624756, 0.9145656824111938]",0.75,0.4
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_12.png,#30,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_13.png,S: 1 tablet per orem once a week,194 1 n o se cs sd,"[0.8350159525871277, 0.5936307311058044, 0.653201162815094]",0.875,0.75
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_14.png,13. Colchicine 500 mg,500 Colchicnt C,"[0.9761798977851868, 0.8924230933189392, 0.21898837387561798]",1.0,0.5238095238095238
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_15.png,#10,# 0,[0.6258145570755005],2.0,0.3333333333333333
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_16.png,S: 1 table for hour x 8 hours,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_17.png,14 Losartan 50 mg,L es ULNA,"[0.36898553371429443, 0.2811324894428253]",1.0,0.8235294117647058
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_18.png,S: 1 tablet once a day,tabket onu 3 j,"[0.7150943279266357, 0.965980052947998, 0.883348822593689, 0.30674347281455994]",1.0,0.5454545454545454
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_19.png,15. Prednisone 10 mg, Prednivme,"[0.0, 0.8881787061691284]",1.0,0.65
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_20.png,#15,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_2/line_21.png,S: 1 tablet 3x a day,7 :4 Rp V x8 A194,"[0.08554663509130478, 0.4532493054866791, 0.5925998091697693, 0.8947165012359619, 0.6842951774597168, 0.6569870114326477]",1.0,0.85
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_1.png,16. Metoprolol 15 mg,Metoprofit 2,"[0.8368237614631653, 0.8952827453613281]",1.0,0.6
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_2.png,#30,30,[0.9957282543182373],1.0,0.3333333333333333
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_3.png,S: 1 tablet daily,i tab}et gp,"[0.6869407296180725, 0.9465053081512451, 0.27347618341445923]",1.0,0.5882352941176471
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_4.png,17. cholecalciferol (vitamin D3),Anoteca iton vitinn,[0.5842957496643066],1.0,0.625
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_5.png,#30,#30,[0.9967839121818542],0.0,0.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_6.png,S: 1 gtt once a day,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_7.png,18. Diclofenac 50 mg,Dichtnae 50,[0.7967483997344971],0.75,0.6
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_8.png,#10,c1 ,[0.7715420722961426],1.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_9.png,S: 1 tablet 3x day p.c,tabtd 3x day,[0.7489307522773743],0.6666666666666666,0.5454545454545454
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_10.png,19. Alendronate 10 mg,Ahendonate,[0.6057001352310181],1.0,0.5714285714285714
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_11.png,#21,#21,[0.8162879943847656],0.0,0.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_12.png,S: 1 tablet once a week in the morning,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_13.png,20. Simvastatin 40 mg,Smxttn,[0.512938380241394],1.0,0.7619047619047619
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_14.png,#30,3,[0.9912158250808716],1.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V02/page_3/line_15.png,S: 1 tablet once a day in evening ,pbt ona a dg 9,"[0.8257901072502136, 0.24588607251644135]",0.875,0.696969696969697
+image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_1.png,Tramadol 50 mg/tab,41n0 vaAn,"[0.5748311281204224, 0.23163779079914093]",1.0,0.8888888888888888
+image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_2.png,One table orally every 4-6 hours.,my3-h  5,"[0.691635251045227, 0.39765676856040955]",1.0,0.9090909090909091
+image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_3.png,Celecoxib 200 mg/tab,,[0.0],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_1/line_4.png,One tablet orally once a day.,tefe al,"[0.8364095091819763, 0.6622962951660156]",1.0,0.8275862068965517
+image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_1.png,Paracetamol 500 mg/tab,E PAACETAUN,"[0.24753709137439728, 0.6483600735664368]",1.0,0.9545454545454546
+image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_2.png,One tablet orally every 6 hours,tabt ondle ery 6 bnnd,[0.6813871264457703],0.8333333333333334,0.5483870967741935
+image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_3.png,4,4.,[0.9985158443450928],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_4.png,Famotidine 20 mg/tab,FAMOTIDINE 20 my 41,"[0.9328075647354126, 0.6264958381652832, 0.6470789313316345]",1.0,0.7
+image_splits/training_set_splits/synthetic_segmented/V04/page_2/line_5.png,One tablet orally every 6 hours.,tobe ae b,[0.45665714144706726],1.0,0.78125
+image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_1.png,Atorvastatin 20 mg/tab,KTORVASTATN,[0.7339751720428467],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_2.png,One tablet orally once a day.,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_3.png,Metformin 500 mg/tab,METFOMMIN,[0.8979817628860474],1.0,0.95
+image_splits/training_set_splits/synthetic_segmented/V04/page_3/line_4.png,One tablet 2x/day.,+&,[0.6255147457122803],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_1.png,Losartan 50 mg/tab,COS ARTAN 50n,"[0.6618709564208984, 0.9026550054550171, 0.8689842224121094]",1.0,0.8888888888888888
+image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_2.png,One tablet orally once a day.,m rry,[0.5802339911460876],1.0,0.896551724137931
+image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_3.png,Amlodipine 5 mg/tab,AMLODIPINE,[0.9245100021362305],1.0,0.9473684210526315
+image_splits/training_set_splits/synthetic_segmented/V04/page_4/line_4.png,One tablet orally once a day.,1 toset anols dhue,"[0.1633375883102417, 0.750622570514679, 0.7740358114242554, 0.6475514769554138]",1.0,0.6896551724137931
+image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_1.png,Losartan 100 mg/tab,r) a OSARTHN,"[0.5879616737365723, 0.4840124249458313, 0.7417483925819397]",1.0,0.8947368421052632
+image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_2.png,One tablet orally once a day.,tost oally onee a d,"[0.609072208404541, 0.7939151525497437]",0.8333333333333334,0.4482758620689655
+image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_3.png,Amlodipine 10 mg/tab,AMLOOIPIME,[0.8241223096847534],1.0,0.95
+image_splits/training_set_splits/synthetic_segmented/V04/page_5/line_4.png,One tablet orally once a day.,toubt aref,"[0.5562688708305359, 0.777141273021698]",1.0,0.8275862068965517
+image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_1.png,Finasteride 5 mg/tab,FNASTERUIDE,[0.8222784399986267],1.0,0.95
+image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_2.png,One tablet orally once daily., tole noll,"[0.6163592338562012, 0.6886137127876282]",1.0,0.7931034482758621
+image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_3.png,(same time each day),som time soh is,"[0.8287978768348694, 0.8204285502433777, 0.5252389311790466, 0.5502510070800781]",0.75,0.5
+image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_4.png,Methimazole 40 mg/tab,408 METHIMABNE,"[0.5096169114112854, 0.8685382008552551]",1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_6/line_5.png,One tablet orally once a day.,fht nk m,"[0.593300998210907, 0.5280742645263672]",1.0,0.8620689655172413
+image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_1.png,Enalapril 5 mg/tab,ENALAPRIC,[0.9310067296028137],1.0,0.9444444444444444
+image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_2.png,One tablet once a day.,ne trh,"[0.3847343921661377, 0.6469898223876953]",1.0,0.8181818181818182
+image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_3.png,Sucralfate 1 gram/tab,1gu/tb SUCRALFATE,"[0.7412877678871155, 0.9555988311767578]",1.0,0.9047619047619048
+image_splits/training_set_splits/synthetic_segmented/V04/page_7/line_4.png,One tablet 4x/day for 4-8 wks.,4rday fr 4-8wks,[0.6752206683158875],1.0,0.5333333333333333
+image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_1.png,Methimazole 30 mg/tab,37RVWIR,[0.5351928472518921],1.0,0.9523809523809523
+image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_2.png,One tablet orally per day.,mo tahh,"[0.5794835090637207, 0.3924998939037323]",1.0,0.8846153846153846
+image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_3.png,Oxybutynin 5 mg/tab,OKYBNTYMN,[0.7487009167671204],1.0,0.9473684210526315
+image_splits/training_set_splits/synthetic_segmented/V04/page_8/line_4.png,One tablet once a day.,t mu 9,"[0.8532824516296387, 0.569305419921875, 0.5438997745513916]",1.0,0.8636363636363636
+image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_1.png,17. Oxybutynin 10 mg/tab,OXYRTYNIN,[0.7531124353408813],1.0,0.9583333333333334
+image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_2.png,One tablet once a day.,r~ th 7,"[0.4012855589389801, 0.6420533657073975, 0.42243948578834534]",1.0,0.8636363636363636
+image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_3.png,18. Codeine 30 mg/tab,WIDOD 30,"[0.36850497126579285, 0.8061344623565674]",0.75,0.8571428571428571
+image_splits/training_set_splits/synthetic_segmented/V04/page_9/line_4.png,One tablet orally every 4-6 hrs.,anly ry,[0.7170224785804749],1.0,0.8125
+image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_1.png,19. Enalapril 5 mg/tab,- ENALAPIL 5n,"[0.7071051597595215, 0.8292512893676758, 0.9560325145721436]",1.0,0.8181818181818182
+image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_2.png,One tablet 2x/day.,thee,[0.6933516263961792],1.0,0.8888888888888888
+image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_3.png,Memantine 5 mg/tab,5n7 Lw KVTNE,"[0.7101218104362488, 0.3088861107826233, 0.8031128644943237]",1.0,0.8888888888888888
+image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_4.png,One tablet once a day for 7 days.,0 mw tbe,"[0.5626016855239868, 0.5199570655822754, 0.5328851342201233]",1.0,0.9090909090909091
+image_splits/training_set_splits/synthetic_segmented/V04/page_10/line_5.png,then 2x/day for 10 days.,M,[0.34010687470436096],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_1.png,ISOSORBIDE MONONITRATE 30mg/tab,MOWOMTMATE SOT ONBIYE,"[0.8295416831970215, 0.7483041882514954]",1.0,0.8064516129032258
+image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_2.png,One tablet once a day (in the morning).,tut wu,"[0.7418200373649597, 0.5495575666427612]",1.0,0.9230769230769231
+image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_3.png,CALCIUM CARBONATE 500mg/tab,CARBTNATE 50 E2 CuM,"[0.8445169925689697, 0.5178349018096924, 0.47645968198776245, 0.6289088726043701]",1.3333333333333333,0.5925925925925926
+image_splits/training_set_splits/synthetic_segmented/V04/page_11/line_4.png,One tablet every 4 hours.,fosct e,"[0.6453119516372681, 0.18466505408287048]",1.0,0.88
+image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_1.png,GLICLAZIDE 60mg/tab,09 ,"[0.9853333234786987, 0.0]",1.0,0.9473684210526315
+image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_2.png,One tablet once a day,fsht au,"[0.6340718865394592, 0.9218751192092896]",1.0,0.8571428571428571
+image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_3.png,(after breakfast).,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_4.png,TIOTROPIUM 18mcg/dose,SI TotRPUM,"[0.566811203956604, 0.6232427358627319]",1.0,0.8095238095238095
+image_splits/training_set_splits/synthetic_segmented/V04/page_12/line_6.png,One puff via inhaler once daily.,~ e,"[0.6418212652206421, 0.5125120878219604]",1.0,0.9375
+image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_1.png,INSULIN GLARGINE 100iu/mL prefilled,r/ml gngMIngA,"[0.48766088485717773, 0.5410553216934204]",1.0,0.9142857142857143
+image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_2.png,syringe,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_3.png,One mL subcutaneously once daily.,once da,"[0.903020977973938, 0.873936116695404]",0.8,0.7878787878787878
+image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_4.png,BISOPROLOL FUMARATE 5mg/tab,51t FUMAMATE BISOPMv,"[0.6982690691947937, 0.8540295362472534, 0.5861228704452515]",1.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V04/page_13/line_5.png,One tablet orally once a day.,tt onk ane,[0.7437423467636108],1.0,0.7586206896551724
+image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_1.png,METFORMIN 850mg/tab,METFONMIN,[0.8254504799842834],1.0,0.5789473684210527
+image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_2.png,One tablet once a day.,30 twt 2,"[0.5614814162254333, 0.7321872711181641, 0.2523529827594757]",1.0,0.8181818181818182
+image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_3.png,SERTRALINE 50mg/tab,2as TAWNE,"[0.6801841259002686, 0.6055605411529541]",1.0,0.8421052631578947
+image_splits/training_set_splits/synthetic_segmented/V04/page_14/line_4.png,One tablet once a day (evening).,edening he n te,"[0.6809913516044617, 0.823627769947052, 0.18793509900569916, 0.6961137056350708]",1.0,0.8125
+image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_1.png,ATORVASTATIN 40mg/tab,40mg1t NUKIHMOH,"[0.6737415194511414, 0.5044217109680176]",1.0,0.9523809523809523
+image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_2.png,One tablet once a day.,m tt,"[0.8290594816207886, 0.6892592906951904]",1.0,0.8636363636363636
+image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_3.png,TAMSULOSIN 200mg/tab,r+1b TAMSUCSIN,"[0.42672765254974365, 0.6943336725234985]",1.0,0.85
+image_splits/training_set_splits/synthetic_segmented/V04/page_15/line_4.png,One tablet once a day (after meal).,ha  m t,[0.5945107340812683],1.0,0.8571428571428571
+image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_1.png,PREDNISONE 10mg/5mL suspension,srus)h0 ain,"[0.49753472208976746, 0.40476498007774353]",1.0,0.8666666666666667
+image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_2.png,5mL once a day.,9 he one 8,"[0.6357461214065552, 0.573743462562561, 0.7273032069206238, 0.5918638110160828]",1.0,0.7333333333333333
+image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_3.png,CELECOXIB 100mg/tab,100 CELECOXIB,"[0.7822234034538269, 0.8744970560073853]",1.0,0.7368421052631579
+image_splits/training_set_splits/synthetic_segmented/V04/page_16/line_4.png,One tablet 2x/day.,xr 2x,"[0.47613248229026794, 0.6847468614578247]",1.0,0.8333333333333334
+image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_1.png,ALLOPURINOL 100mg/tab,as NhmMT,"[0.6804466843605042, 0.3129000961780548]",1.0,0.9047619047619048
+image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_2.png,One tablet once a day.,me rrrt,"[0.3813449442386627, 0.6705743074417114]",1.0,0.8636363636363636
+image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_3.png,LEVOTHYROXINE 50mcg/tab,VOTHYnOKINE 50 mcg,"[0.7699060440063477, 0.6346625089645386]",1.5,0.391304347826087
+image_splits/training_set_splits/synthetic_segmented/V04/page_17/line_4.png,One tablet once a day (on empty stomach).,doy n pty otah r~e t,"[0.5207546949386597, 0.45606252551078796, 0.7994400858879089]",1.0,0.7804878048780488
+image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_1.png,ALLOPURINOL 300mg/tab,ACLOYUUNN,[0.7353379726409912],1.0,0.7619047619047619
+image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_2.png,½ tablet 2x/day (AM - PM).,PM 1 CAm 2x/doy tebet,"[0.9448151588439941, 0.6512203812599182, 0.7876834869384766, 0.7786622047424316, 0.7691448330879211]",1.0,0.7307692307692307
+image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_3.png,NAPROXEN 500mg/tab,os NN,"[0.7762690186500549, 0.6256478428840637]",1.0,0.9444444444444444
+image_splits/training_set_splits/synthetic_segmented/V04/page_18/line_4.png,One tablet once a day.,2r ,"[0.5292079448699951, 0.0]",1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_1.png,SPIRONOLACTONE 100mg/tab,CTONE 1o0,"[0.9601802825927734, 0.7292318344116211]",1.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_2.png,One tablet once daily.,hm  ,"[0.5838737487792969, 0.0, 0.0]",1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_3.png,PREDNISONE10mg /tab,luoj PRFONISONE,"[0.3419593870639801, 0.9619330167770386]",1.0,0.8421052631578947
+image_splits/training_set_splits/synthetic_segmented/V04/page_19/line_4.png,One tablet once a day.,+,[0.5000405311584473],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_1.png,TAMSULOSIN 400mcg/fc tab,TAMSUVOSIN 400mcx/Fc,"[0.9344226717948914, 0.7026107311248779]",1.0,0.2916666666666667
+image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_2.png,One tablet orally once a day.,tubht onnlf nce a da,[0.6523544788360596],0.8333333333333334,0.4827586206896552
+image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_3.png,ATROVASTATIN 80mg/tab,ATTIVASTATIN,[0.7470211386680603],1.0,0.5238095238095238
+image_splits/training_set_splits/synthetic_segmented/V04/page_20/line_4.png,One tablet once a day.,8m onu,"[0.31104668974876404, 0.7893292903900146]",1.0,0.8636363636363636
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_0.png,1. Ibuprofen 40mg,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_1.png,"S: 4mg every 4-6 hrs,",: 4r at a-h,"[0.556714653968811, 0.5198789238929749]",1.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_2.png,as needed,W,[0.25757265090942383],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_3.png,2 Celecoxib 200mg,Wlvel 2,"[0.40948206186294556, 0.9505133032798767]",1.0,0.7647058823529411
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_4.png,"S: one tablet 2x, as",: me Nut 26,[0.7190877199172974],1.0,0.65
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_5.png,needed,nuln,[0.6160261631011963],1.0,0.8333333333333334
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_6.png,3. Tramadol 50 mg,Tummalre,[0.7164875268936157],1.0,0.7647058823529411
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_7.png,S: one tablet 3x day,Me teut,[0.6055492758750916],1.0,0.8
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_8.png,4. Alendronate 10 mg,Alrkmke,[0.6118513941764832],1.0,0.8
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_9.png,S: one tablet once,Ne tullet M,[0.6519193649291992],1.0,0.6111111111111112
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_10.png,weekly first thing in the,n wul pht they,"[0.24896152317523956, 0.770774781703949]",1.0,0.76
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_11.png,morning,Mm,[0.5801248550415039],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_12.png,5. Omeprazole 40mg,mepraple,[0.7820079326629639],1.0,0.6111111111111112
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_13.png,S: one tablet once a day,We telt Me.,[0.6359670162200928],1.0,0.7083333333333334
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_14.png,before breakfast,noma mu,"[0.6468140482902527, 0.5036911964416504]",1.0,0.875
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_15.png,6. Amlodipine 5 mg,Amerlipui,[0.8074046969413757],1.0,0.7777777777777778
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_16.png,S: one tablet 1 x day,Mee (rect 10),[0.6510512232780457],1.0,0.7619047619047619
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_17.png,S: one tablet 1 x day,Mee preet lil,[0.6656373143196106],1.0,0.7619047619047619
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_18.png,7. Cholecalciferol (Vitamin D3),Cbeelecaeupel Chnit,[0.5509588122367859],1.0,0.7419354838709677
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_19.png,1 tab / day,01 M,"[0.8176755905151367, 0.9389520287513733]",1.0,0.9090909090909091
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_20.png,S: use drop orally once,Ne dip tral,[0.7443649768829346],1.0,0.6521739130434783
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_21.png,a day,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_22.png,8. Aspirin 80 mg,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_23.png,S: one tablet every 4-6 hrs,the tret be,[0.7394346594810486],1.0,0.7407407407407407
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_24.png,as needed,nider 1,"[0.7101332545280457, 0.385380357503891]",1.0,0.8888888888888888
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_25.png,9. Paracetamol ?mg,lanutrel,[0.5385030508041382],1.0,0.8333333333333334
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_26.png,S: one tablet every, hee paut,[0.6315860748291016],1.0,0.7894736842105263
+image_splits/training_set_splits/synthetic_segmented/V05/page_1/line_27.png,4 hrs,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_0.png,1. Paracetamol 500 mg tablet,tahtes 7  ,"[0.6722926497459412, 0.617070198059082, 0.0, 0.0]",1.0,0.8928571428571429
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_1.png,#20,20,[0.9986923933029175],1.0,0.3333333333333333
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_2.png,S: 1 tablet every 6 hours as needed for 5 >= 37.8,trolef every 6 hous os needed For <1,"[0.5686715841293335, 0.957716166973114, 0.9938031435012817, 0.8895595669746399, 0.951201319694519, 0.9118140339851379, 0.7931585907936096, 0.5082230567932129]",0.75,0.40816326530612246
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_4.png,2. Amlodipine 10 mg tablet, P e Amlodimire Y,"[0.0, 0.35689935088157654, 0.5601977109909058, 0.7733014822006226, 0.39214128255844116]",1.0,0.6538461538461539
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_5.png,#100,≠ 100,"[0.45391780138015747, 0.9976563453674316]",2.0,0.5
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_6.png,S: 1 tablet once a day,sow fbr4 4,"[0.6055805683135986, 0.45270365476608276, 0.6604424118995667]",1.0,0.8636363636363636
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_7.png,3. Metoclopramide 10 mg tablet,T Meto do pramide o 8 0n4,"[0.6248034834861755, 0.7871679663658142, 0.23419588804244995, 0.7107342481613159, 0.5432918071746826]",1.4,0.5
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_8.png,#30, 30,[0.8556930422782898],1.0,0.3333333333333333
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_9.png,1 tablet 4x a day 30 minutes before meals and at bedtime for 7 days,tabret d$ 4x 30 Muts beore meas and at bettome a,"[0.8301250338554382, 0.8072992563247681, 0.9834529161453247, 0.9995864629745483, 0.4709903299808502, 0.8334784507751465, 0.9949945211410522]",0.7333333333333333,0.40298507462686567
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_10.png,4. Ondansetron 8 mg tablet,R Endansetom ∞ 2 orf,"[0.19503740966320038, 0.7797734141349792, 0.9918590188026428, 0.4346330761909485, 0.30367639660835266]",1.0,0.5384615384615384
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_11.png,#7,# 7,[0.8450645804405212],2.0,0.5
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_12.png,S: 1 tablet once a day for 7 days,tasret 1 log mue Fr 7 a,"[0.6741755604743958, 0.8449889421463013, 0.7342715859413147, 0.9735706448554993, 0.6281241774559021, 0.9988201260566711, 0.9673155546188354]",0.7777777777777778,0.6363636363636364
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_13.png,5. Simvastatin 20 mg tablet,7 Simpastatià b 6r4,"[0.4209337532520294, 0.6427935361862183, 0.1112121045589447, 0.5088406801223755]",1.0,0.5555555555555556
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_14.png,#100,# 100,"[0.9889974594116211, 0.9705284237861633]",2.0,0.25
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_15.png,S: 1 tablet once a day in the evening, pbn4 oee 3 lo 7 ,"[0.0, 0.45736587047576904, 0.6614205241203308, 0.3391043245792389, 0.6969676613807678, 0.6634228825569153, 0.0]",1.0,0.8108108108108109
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_16.png,6. Tramadol 50 mg tablet,l Dramad 50 8 t,"[0.3266163468360901, 0.8624947667121887, 0.8642416596412659, 0.9337831139564514, 0.7268202304840088]",0.8,0.5
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_17.png,#30,RR 30,"[0.5110552310943604, 0.9546210169792175]",2.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_18.png,S: 1 tablet every 6 hours as needed for pain,~ tasst 3 homs as reated,"[0.6695438623428345, 0.59291672706604, 0.6764125227928162, 0.43925678730010986, 0.8380495309829712, 0.8327276110649109]",0.9,0.6363636363636364
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_19.png,7. Aspirin 80 mg tablet,\ Apinin   8 8 rrt,"[0.48777976632118225, 0.6733591556549072, 0.581057071685791, 0.5126175284385681, 0.46356430649757385, 0.634118378162384]",1.0,0.5652173913043478
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_20.png,#30,# 30,[0.887342095375061],2.0,0.3333333333333333
+image_splits/training_set_splits/synthetic_segmented/V06/page_1/line_21.png,S: 1 tablet every 6 hours as needed ,56 hors Ls C foref,"[0.6344296932220459, 0.6138063073158264, 0.7857810258865356, 0.5863070487976074, 0.5363622903823853]",1.0,0.7428571428571429
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_0.png,8. Carvedilol 6.25 mg tablet,78 f 6.25 Carnedilo X,"[0.7238850593566895, 0.6713223457336426, 0.9780552983283997, 0.7146562933921814, 0.5191572308540344]",0.8,0.7857142857142857
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_1.png,#60,o #,"[0.41642114520072937, 0.3978305160999298]",2.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_2.png,S: 1 tablet 2x a day for 1 month,taket X 80 x F,"[0.665730893611908, 0.27264177799224854, 0.5734217166900635, 0.41354382038116455, 0.8961582779884338]",1.0,0.75
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_3.png,9. Clopidogrel 75 mg tablet,2 Clopi do goet * t,"[0.3836348056793213, 0.742728590965271, 0.543780505657196, 0.3415902554988861]",1.2,0.5925925925925926
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_4.png,#30,# 30,"[0.7456189393997192, 0.8965836763381958]",2.0,0.3333333333333333
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_5.png,S: 1 tablet once a day for 1 month, tahct moe 6 g 2,"[0.0, 0.5961510539054871, 0.7571938037872314, 0.5883851647377014, 0.7391136884689331, 0.5566065907478333]",1.0,0.7647058823529411
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_6.png,10. Ibuprofen 400 mg tablet,< Jpoper 400 8,"[0.8189352750778198, 0.5469403862953186, 0.7812972068786621, 0.5140827298164368]",0.8,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_7.png,#30,* 30,"[0.2992595434188843, 0.8811519742012024]",2.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_8.png,S: 1 tablet every 4 hours as needed,takre 4 1s ON - hs,"[0.719398021697998, 0.999981164932251, 0.22437268495559692, 0.9782633185386658, 0.9387867450714111, 0.731481671333313]",1.0,0.7428571428571429
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_9.png,11. Losartan 50 mg tablet,2 a Losarton ,"[0.4482036530971527, 0.41663315892219543, 0.8752679824829102, 0.0]",1.0,0.68
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_10.png,#100,21 #,"[0.6404868364334106, 0.8937433362007141]",2.0,0.75
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_11.png,S: 1 tablet once a day, t0r4 mee a,"[0.0, 0.5227109789848328, 0.927967369556427, 0.6703647971153259]",0.8333333333333334,0.7727272727272727
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_12.png,12. Celecoxib 200 mg tablet,x Ccte crib 2n 8,"[0.2306884229183197, 0.8225437998771667, 0.7102944254875183, 0.438741534948349]",1.0,0.7037037037037037
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_13.png,#14,7 14,"[0.4416539967060089, 0.9992251396179199]",2.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_14.png,S: 1 tablet once a day as needed for pain,taet do / as needed For asue,"[0.6420775055885315, 0.5797891616821289, 0.8664760589599609, 0.9346028566360474, 0.8990443348884583, 0.464682012796402, 0.660333514213562]",0.8,0.5121951219512195
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_15.png,13. Colchicine tablet,1 Colchiuie,"[0.5285158157348633, 0.6838930249214172]",1.0,0.5238095238095238
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_16.png,#60,ed,[0.5803995132446289],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_17.png,S: 1 tablet 2x a day for 1 month,pur 2x D α 2,"[0.3706132173538208, 0.8897955417633057, 0.7102389335632324, 0.35789212584495544, 0.16929355263710022]",0.8888888888888888,0.8125
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_18.png,14. Alendronate 70 mg tablet,4 7  Aton drmate,"[0.8387326598167419, 0.8213539719581604, 0.0, 0.8399101495742798]",1.0,0.7142857142857143
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_19.png,#30,R 7,"[0.9844207167625427, 0.7570903897285461]",2.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V06/page_2/line_20.png,S: 1 tablet once every week first thing in the morning,takret mee erery Noch firet this i the,"[0.802665650844574, 0.7457630634307861, 0.6901481747627258, 0.3850648105144501, 0.8360713124275208, 0.8266873359680176]",0.9090909090909091,0.5
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_0.png,1. Ibuprofen 400 mg,Sa fo ,[0.48125696182250977],1.0,0.8947368421052632
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_1.png,Sig: once a day x 5 days,. on a  Te,[0.5496653914451599],0.8571428571428571,0.7083333333333334
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_2.png,2. Celecoxib 200 mg,Cur 2,[0.4948634207248688],1.0,0.8421052631578947
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_3.png,Sig: 1 tab 2x a day x 7 days,Gy llap 2xa47d,[0.5247422456741333],1.0,0.7142857142857143
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_4.png,3. Tramadol 50 mg,Re a m,[0.4786406457424164],1.0,0.7647058823529411
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_5.png,Sig: once a day as needed,mu ady an M,[0.8310928344726562],1.0,0.72
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_6.png,4. Metoclopramide 10 mg,Meterpan b,[0.6454413533210754],1.0,0.7391304347826086
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_7.png,Sig (10mg) 3x a day as needed,"""",[0.8889674544334412],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_8.png,5. Omeprazole 40 mg,Omh 80 y,[0.6629945039749146],1.0,0.7368421052631579
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_9.png,Sig: once a day x 7 days,42 2 m,[0.5163924694061279],1.0,0.9166666666666666
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_10.png,6. Aspirin 100 mg,  y,[0.6435630321502686],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_11.png,Sig: 1 tab once a day,h^ 1toe mn ady,[0.6466313600540161],1.0,0.5714285714285714
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_12.png,7. Amlodipine 5 mg,Dmlrodigin 5my,"[0.5898005962371826, 0.726398766040802]",1.0,0.5
+image_splits/training_set_splits/synthetic_segmented/V07/page_1/line_13.png,Sig: 1 tab once a day,1.tb su,[0.5353362560272217],1.0,0.8095238095238095
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_0.png,1) Ibuprofen #20,MH ond,"[0.6437478065490723, 0.4484880864620209]",1.0,0.8125
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_1.png,400mg every 6 hours as needed,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_2.png,2) Celecoxib #14,Cleaxib #1,"[0.7133767008781433, 0.4770144820213318]",1.0,0.4375
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_3.png,200mg once d or 100g 2x d,xz nw,"[0.523637056350708, 0.973206639289856]",1.0,0.92
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_4.png,3) Tramadol #10,Tromelel #10,[0.7252137064933777],0.6666666666666666,0.4666666666666667
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_5.png,50mg orally every 6 hours,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_6.png,4) Metoclopramide #10,Metodopnamide Y,"[0.7380856871604919, 0.6485621333122253]",1.0,0.42857142857142855
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_7.png,10 mg up to 4 times a day 30 minutes before meals and at bedtime,ugt 4xedy   meds3 ,[0.5269038677215576],1.0,0.796875
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_8.png,5) Diclofenac #5,Rlofnoc 4,"[0.5111293196678162, 0.6138903498649597]",1.0,0.625
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_9.png,Inj.: 50 mg enteric coated tablet or MR tablet 2-3x/day with meals,L entuic boated tlet a M teblet ?-3×),"[0.5897437930107117, 0.7459973692893982]",1.0,0.5606060606060606
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_10.png,6) Colchicine #30,Coclricine H2,"[0.781493067741394, 0.6346358060836792]",1.0,0.5294117647058824
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_11.png,1 tablet (500 micrograms) taken 2-4x d,×-4mt (ON),"[0.6140390634536743, 0.48054128885269165]",1.0,0.8947368421052632
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_12.png,7) Naproxen #14,Narnoxw 1#,"[0.6945573687553406, 0.7956741452217102]",1.0,0.6
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_13.png,500mg every 6 hours,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_14.png,8) Prednisone #3,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V08/page_1/line_15.png,Oral: 10mg/ml - 3x a d,Onal: lomgkoal 3xc,"[0.7974529266357422, 0.8268176913261414]",1.0,0.5454545454545454
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_0.png,9) Omeprazole #30 14,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_1.png,S: 40mL/mg take 1 capsule once d ,tafgy- tohe 1 ylh mna,"[0.5718342065811157, 0.5563451647758484]",0.8571428571428571,0.71875
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_2.png,10.) Cholecalciferol (Vit D3) #7,Cholecelcifuol (V.t D_3),"[0.7271817326545715, 0.7028687000274658]",1.0,0.40625
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_3.png,One drop containing 25.000 iu once a month,antaining 25.oes iu' mnle as ,[0.695523738861084],1.0,0.5476190476190477
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_4.png,11) Metoprolol #100,Metoprol #,"[0.7490170001983643, 0.9404610395431519]",1.0,0.47368421052631576
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_5.png,50mg/100mg once a day,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_6.png,12) Atenolol,2) en,"[0.6698880195617676, 0.9364578127861023]",1.0,0.5833333333333334
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_7.png,#30,#,[0.9948762059211731],1.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_8.png,50-100mg once a day,anu dal 00,"[0.7342147827148438, 0.9539282917976379, 0.865294873714447]",1.0,0.8947368421052632
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_9.png,13) Paracetamol #20,fanactn,[0.5833088159561157],1.0,0.7894736842105263
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_10.png,Oral: 500mg tablet evy 4 hours,4 VOoW  telet W7,"[0.37673428654670715, 0.5869898796081543, 0.6648533940315247, 0.5892688632011414]",1.0,0.7666666666666667
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_11.png,14) Clopidogrel #100,0,[0.830752968788147],1.0,0.95
+image_splits/training_set_splits/synthetic_segmented/V08/page_2/line_12.png,Oral: 75mg 1 tablet once a d,faht Inu,"[0.5176560878753662, 0.5933840274810791]",1.0,0.8571428571428571
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_0.png,1. Atenolol 50mg #30,ate nolot,[0.7873935699462891],1.0,0.75
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_1.png,Sig: 1 tablet once a day,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_2.png,2. Omeprazole 40mg #20,Onemple,[0.5596398115158081],1.0,0.8181818181818182
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_3.png,Sig: 1 capsule 30-60mins before breakfast,27-Cine befove balft,[0.6887525320053101],1.0,0.6585365853658537
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_4.png,3) Naproxen tab 500mg #5,Naxen Lu 5N,"[0.6523335576057434, 0.5011715888977051]",1.0,0.6666666666666666
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_5.png,Sig: 1 tablet daily,lanl tb eet m,"[0.4779176712036133, 0.6692244410514832, 0.6684252023696899]",1.0,0.7368421052631579
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_6.png,4. Metoclopramide 10mg #10,gofm,[0.4065569341182709],1.0,0.9230769230769231
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_7.png,Sig: 1 tab 4x a dy 30 mins before meals and,i t28 4x a24 20mi lfa,"[0.7396055459976196, 0.7139813899993896, 0.5522429347038269]",0.9090909090909091,0.6511627906976745
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_8.png,at bedtime,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_9.png,5) Clonidine 0.17mg #5,Conidinn 0.Aπ,"[0.9052407741546631, 0.6398260593414307]",1.0,0.5454545454545454
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_10.png,S: 1 tab at bedtime,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_11.png,6) Celecoxib 200mg #20,Wle conet Yo,"[0.6525532603263855, 0.5160377025604248]",1.0,0.8181818181818182
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_12.png,S: 1 cap once a day,U,[0.4833691716194153],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_13.png,7) Ibuprofen tab #10,m,[0.3562559485435486],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_1/line_14.png,S: 1 tab every 4 hours as needed, 4 hu  ede. 841,"[0.6656951308250427, 0.6192989945411682]",0.875,0.84375
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_0.png,8. Clopidogrel 75mg #30,8 Coidoud 33,"[0.9601556062698364, 0.46371570229530334, 0.6635851860046387]",1.0,0.6086956521739131
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_1.png,S: 1tab once a day,onve  8 rel .3.,"[0.6355674862861633, 0.429218053817749, 0.675818920135498]",1.0,0.8333333333333334
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_2.png,9. Paracetamol tab 500mg #30,2 tnul Sub,"[0.8748409748077393, 0.6608343124389648]",1.0,0.8214285714285714
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_3.png,Sig: 1 tab every 4 hours for fever,of of  N4,"[0.5090137720108032, 0.6985200047492981]",1.0,0.8823529411764706
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_4.png,10. Amlodipine 5mg #30,mm,[0.5453784465789795],1.0,0.9090909090909091
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_5.png,S: 1 tab once a day,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_6.png,11. Aspirin tab 80mg #30,Fpini 2l M8,"[0.5805653929710388, 0.4564785957336426, 0.4830295145511627]",1.0,0.7916666666666666
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_7.png,S: 1 tab every 4 -6 hours as needed,grell m,"[0.7975636124610901, 0.626357913017273]",1.0,0.9428571428571428
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_8.png,12. Risedronate 35mg  #30,Ri&donte,[0.6800956726074219],1.0,0.72
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_9.png,S: take 1 tablet  once per week ,,[0.0],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_10.png,13. Colchicine 500mg #10,esos,[0.3621581792831421],1.0,0.9583333333333334
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_11.png,S: 1 tab every 4 hours for 8 days,8 4 2 2 {t,"[0.7371588349342346, 0.2853468060493469, 0.33596011996269226, 0.973259687423706, 0.6498585939407349]",0.8888888888888888,0.8484848484848485
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_12.png,14. Losartan 150mg #50, frsnln lt,"[0.0, 0.47006502747535706, 0.49447566270828247]",1.0,0.8636363636363636
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_13.png,S: 1 tab once a day,{t m,"[0.4035334587097168, 0.7220187783241272]",1.0,0.8947368421052632
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_14.png,15. Prednisone tab 10mg #15,Arhicne At as,"[0.6127853393554688, 0.5633547306060791]",1.0,0.7777777777777778
+image_splits/training_set_splits/synthetic_segmented/V09/page_2/line_15.png,1 tab 3x a day,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_0.png,16. Metoprolol tab 25mg #30,he todul Tub 28,"[0.5876373648643494, 0.4287112057209015]",1.0,0.7037037037037037
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_2.png,S: 1 tab daily,Ihe,[0.5408095717430115],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_3.png,17. Cholecalciferol (Vit D3) #30,Cholecasifevnt (af. Dz) 2,"[0.7195308804512024, 0.17572470009326935]",1.0,0.5
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_4.png,S: 1 drop once a day,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_5.png,18. Diclofenac 500 mg # 10,hicofmn,[0.47183576226234436],1.0,0.8076923076923077
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_6.png,Sig: 1 tab 3x a day p.c,1ts6 2xn8,"[0.6403335928916931, 0.6876248121261597]",1.0,0.8260869565217391
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_7.png,19. Alendronate tab 10 mg #20,,[],1.0,1.0
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_8.png,Sig: 1 tab once a week in the morning,Mn,[0.5364153981208801],1.0,0.972972972972973
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_9.png,20. Simvastatin 40 mg ,l 2,"[0.39204251766204834, 0.9904885292053223]",1.0,0.9523809523809523
+image_splits/training_set_splits/synthetic_segmented/V09/page_3/line_10.png,Sig: 1 tab once a day in the morning,n 24),"[0.35901856422424316, 0.7949070334434509]",1.0,0.9444444444444444

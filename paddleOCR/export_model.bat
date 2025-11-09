@@ -1,0 +1,2 @@
+REM :: change values in curly brackets to proper directories
+cd PaddleOCR && python tools/export_model.py -c configs/rec/my_custom_config2.yml -o Global.pretrained_model="{base_model}" Global.save_inference_dir=inference/rec

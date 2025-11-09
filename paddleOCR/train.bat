@@ -1,1 +1,2 @@
-!cd PaddleOCR && python tools/train.py -c configs/rec/my_custom_config.yml -o Global.save_model_dir={save_model_dir}
+REM :: change values in curly brackets to proper directories
+cd PaddleOCR && python tools/train.py -c configs/rec/my_custom_config2.yml -o Global.pretrained_model={base_model} Global.save_model_dir={save_model_dir}
