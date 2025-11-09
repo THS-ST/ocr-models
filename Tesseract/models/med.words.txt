@@ -1,0 +1,26 @@
+Sig:
+tab
+tabs
+tablet
+caps
+cap
+once
+twice
+daily
+bid
+tid
+qid
+morning
+evening
+noon
+after
+before
+meals
+for
+itch
+pain
+as
+needed
+mg
+ml
+# 1/2 1/4 3/4 5mg 10mg 500mg 1.5ml 2ml (etc. add the forms you see)
