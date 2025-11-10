@@ -1,0 +1,829 @@
+image,ground_truth,prediction,CER,WER,exact
+sample_000000.png,1. Loratadine 10mg/tab #5,1 Loradine 10mg/tab #5,12.00,50.00,0
+sample_000001.png,Sig: 1 tab once a morning for itch,Sig: 1 tab onee in ave moming for ta,32.35,62.50,0
+sample_000002.png,4. Mupirocin ointment #1,14 Muirocin ointment #1,12.50,50.00,0
+sample_000003.png,Sig: Ipahid 2x a day for wks,0t9 tulll 2x/cay ton z oha,75.00,100.00,0
+sample_000004.png,#5,#5,0.00,0.00,1
+sample_000005.png,Dove Sensitive Soap,: Dove Semitive doap,26.32,100.00,0
+sample_000006.png,#5,1#5,50.00,100.00,0
+sample_000007.png,2. Cetirizine 10mg/tab #5,2. Cetirizine 101mg/tab,16.00,50.00,0
+sample_000008.png,Sig: 1 tab once a night for itch,Stig: 1 tab once all nigh fai tall,31.25,62.50,0
+sample_000009.png,3. Clobetasol Propionate 0.05% cream #1,3. Clabtasl Profioate 0.050 cxeam #1),20.51,83.33,0
+sample_000010.png,Sig: Ipahid nang manipis sa mga apektadong bahagi,ig: -Ipahid nang manipis sa mga apertadong bahagy,8.16,50.00,0
+sample_000011.png,2x/day for 2 weeks,2x/day for 2 ucilk,27.78,25.00,0
+sample_000012.png,(Norvasc) #100,(Mosvasc) #100,14.29,50.00,0
+sample_000013.png,#30 -> Vit C/zinc (Civaz) #100,#38 7 ovitc/zinc (Cvaz)#100,30.00,100.00,0
+sample_000014.png,#30,1#30,33.33,100.00,0
+sample_000015.png,S: 1 tablet once a day,S: 1 taebleet once a day,9.09,16.67,0
+sample_000016.png,#30 -> Vit B (Beetab) #100,#30 -3 1iz o (Beetab) ##100,19.23,66.67,0
+sample_000017.png,#30 -> (ATC) Omega gold #100,#30 2(ATC) Omga gold #100,14.29,50.00,0
+sample_000018.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000019.png,Amlodipine 5mg,Oimnclanepiine 2mg,64.29,100.00,0
+sample_000020.png,Genacot #200,4Gonacab #3200,41.67,100.00,0
+sample_000021.png,#30 ->,1#7#30 7#7,100.00,100.00,0
+sample_000022.png,#100,#100,0.00,0.00,1
+sample_000023.png,Rx,Rx,0.00,0.00,1
+sample_000024.png,S: 1 tablet 2x a day,S: 1 tabet 2x a day,5.00,16.67,0
+sample_000025.png,(Biogesic) #6,(Biogesic) #6,0.00,0.00,1
+sample_000026.png,Label: 1 tablet every 4 hours for,Label: 1 tabeet every 4 hours for,3.03,14.29,0
+sample_000027.png,fever and headache,Aeeefod head e,50.00,100.00,0
+sample_000028.png,Paracetamol 500mg/tablet,Paravlomol 30mg/tablet,25.00,100.00,0
+sample_000029.png,Rx,Rx,0.00,0.00,1
+sample_000030.png,Sodium Ascorbate + Zinc tab,Soadiim Ascordate Zorclab,33.33,100.00,0
+sample_000031.png,(Immunpro) #10,(mminp) #1mg,42.86,100.00,0
+sample_000032.png,Label: 1 tablet after breakfast,tLHabeb: 1 tablet after dreabfoit,22.58,40.00,0
+sample_000033.png,Sig: Ipahid sa lahat ng apektadong bahagi,Sia: Ipahid sa lahat ng apedadong tahagi,9.76,42.86,0
+sample_000034.png,3. Avene Cicalfate Cream / Zinc Oxide 10% Cream,2 svone Clealfate Crcam / 2in: oxide 1f ona,34.04,88.89,0
+sample_000035.png,"Sig: Gamitin 3x/day sa katawan,",Sg: Gamitin 3x/day sa atauan,12.90,40.00,0
+sample_000036.png,1. Muiprocin ointment #1,: Mapiocin onntment #1,25.00,75.00,0
+sample_000037.png,2x/day until healed,2x/day umi heated,21.05,66.67,0
+sample_000038.png,2. Clobetasol Propionate 0.05% cream #1,2. Clobetasol Pyinote 0.05l cram #1,17.95,50.00,0
+sample_000039.png,"Sig: Ipahid sa braso, legs, leeg 2x/day",S0g: pAtn a braio) Lgin 1onag txfang,56.41,100.00,0
+sample_000040.png,until 14th day,uyntil 14th day,7.14,33.33,0
+sample_000041.png,#1,(#1,50.00,100.00,0
+sample_000042.png,(2x/day sa genital area),#aa,91.67,100.00,0
+sample_000043.png,Rx,i10,150.00,100.00,0
+sample_000044.png,Azithromycin 500mg/tab,Azithromycin 500mg/tab,0.00,0.00,1
+sample_000045.png,PECOF tablet #14,Pacole oblet #1,50.00,100.00,0
+sample_000046.png,(7AM - 7PM),(7PAR -7PRI,45.45,100.00,0
+sample_000047.png,(Azcotil),(Azcotill),11.11,100.00,0
+sample_000048.png,Sig: 1 tab Once a Day,Sis: 1 tab Once aDay,9.52,50.00,0
+sample_000049.png,x 5 Days x 5,x 5 Days x 5,0.00,0.00,1
+sample_000050.png,(12 NOON),(12 maon),44.44,50.00,0
+sample_000051.png,Bromhexine + Salbutamol +,Bromhexine # Salbutamol #,8.00,50.00,0
+sample_000052.png,Guaifenesin,Guaifenesin,0.00,0.00,1
+sample_000053.png,Sig: 1 tab 2x a day,1iig: 1 tab2x a day,15.79,50.00,0
+sample_000054.png,2,1y,200.00,100.00,0
+sample_000055.png,Cetirizine tablet 10mg #14,Cetirizine tablet 10mg #145,3.85,25.00,0
+sample_000056.png,Sig: 1 tablet once a day,Sig: 1 tablet once a day,0.00,0.00,1
+sample_000057.png,At bedtime for 16 days,Aat bedtime for 1 days,9.09,40.00,0
+sample_000058.png,Rosuvastatin 10mg,Ttisuzatatinn 10mg,35.29,50.00,0
+sample_000059.png,(Rosustat / Lustatin) #100,(Rosotat / Lustatin)#100,11.54,75.00,0
+sample_000060.png,1 tablet once a day,1 tablet once a day,0.00,0.00,1
+sample_000061.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000062.png,Amlopdipine 5mg,Amlodipine 5mg,6.67,50.00,0
+sample_000063.png,(Provasc / ),(Orovasrc /1 .),33.33,100.00,0
+sample_000064.png,#100,#100,0.00,0.00,1
+sample_000065.png,Lozartan 50mg,Losardtan 50mg,15.38,50.00,0
+sample_000066.png,(Kenzar),(Lavar),50.00,100.00,0
+sample_000067.png,#100,#100,0.00,0.00,1
+sample_000068.png,REQUEST FOR DIAGNOSTIC TEST,REAXRQUEST FOR DIAGNOSTIC TEST,11.11,25.00,0
+sample_000069.png,S:,S55:,100.00,100.00,0
+sample_000070.png,Sig: Ipahid sa makapal na butlig,Sig: 1Ipahid sa makapal na buili,9.38,33.33,0
+sample_000071.png,1. Clobetasol Propionate 0.05% cream #1,1. Clabrctasol Propionatn 0-050 cCream #1,17.95,66.67,0
+sample_000072.png,2x/day hanggang numipis,2x/day hanggang numipiso,4.35,33.33,0
+sample_000073.png,2. Avene Cicalfate Cream,2. Avene CAcalfatrr Cream,12.50,25.00,0
+sample_000074.png,Sig: Ipahid 3x.day sa katawan (2x/day sa genital area),STIg ipAnl 2x/daiy a keatanaon (2x/day sa genital aval),33.33,66.67,0
+sample_000075.png,#1,6#,100.00,100.00,0
+sample_000076.png,3. Niacinamide Cream,3. Niacinanmidhe Crream,15.00,66.67,0
+sample_000077.png,Sig: Ipahid sa mga maitim na sugat,g: 1Ipotd sa onfa maitm na smgab,35.29,71.43,0
+sample_000078.png,2x/day,2x/day,0.00,0.00,1
+sample_000079.png,Levofloxacin 500mg,Levaflofacin 500mg,11.11,50.00,0
+sample_000080.png,(Omnivox) #7,(Omnraivao) #7,33.33,50.00,0
+sample_000081.png,Rx,S,100.00,100.00,0
+sample_000082.png,S: 1 tablet once a day,Star1 Sabdeet once day,36.36,66.67,0
+sample_000083.png,Rosuvastatin 10mg,RAosuatatc 10mg,29.41,50.00,0
+sample_000084.png,(Rosustat) #100,(Rasustae) #150,20.00,100.00,0
+sample_000085.png,S: 1 tablet every other day,S: 1 tablel everey Otme day,18.52,50.00,0
+sample_000086.png,Amlodipine 5mg #100,Amldodipine 5mg #1mg,15.79,66.67,0
+sample_000087.png,(Bezam) (Provasc),(Bezam) (Provasc),0.00,0.00,1
+sample_000088.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000089.png,Amlopidine 5mg,Amlodipne 5mg,21.43,50.00,0
+sample_000090.png,(Provasc) #100,1L Provasc) #1000,28.57,150.00,0
+sample_000091.png,Rx,R7x,50.00,100.00,0
+sample_000092.png,1 tablet once a day,1 Att once a day,26.32,20.00,0
+sample_000093.png,S:,S::,50.00,100.00,0
+sample_000094.png,Amlodipine 5mg,CAmlodifine 5amgg,28.57,100.00,0
+sample_000095.png,(Provasc) #200,(Provasc) #200,0.00,0.00,1
+sample_000096.png,(Provasc) #200,(Provasc) t# 200,14.29,100.00,0
+sample_000097.png,#200,#200,0.00,0.00,1
+sample_000098.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000099.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000100.png,S: 1 tablet once a day,7: 1 tablet once a dday,9.09,33.33,0
+sample_000101.png,S: 1 tablet once a day,S: 1 tablet oncoa day,9.09,33.33,0
+sample_000102.png,Febuxostat 40mg,Febuxostat 40mg,0.00,0.00,1
+sample_000103.png,(Urica / Uxenta) #100,(Umzal/ lusbnta) 7100,42.86,100.00,0
+sample_000104.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000105.png,Multivitamin,aueltontance,66.67,100.00,0
+sample_000106.png,(Centrum gold),(Centaum aled),28.57,100.00,0
+sample_000107.png,#200,#200,0.00,0.00,1
+sample_000108.png,Amlodipine 5mg,Comlodipine 5mg,14.29,50.00,0
+sample_000109.png,Rx,Rx,0.00,0.00,1
+sample_000110.png,Amlodipine 5mg,Amlodipine 5mg,0.00,0.00,1
+sample_000111.png,(Provasc) #100,(Provasc) #100,0.00,0.00,1
+sample_000112.png,S: 1 tablet once a day,S: 1 tatet once a dy,13.64,33.33,0
+sample_000113.png,(Urica) 40mg,(Urica) 40mg,0.00,0.00,1
+sample_000114.png,#100,#100,0.00,0.00,1
+sample_000115.png,S: 1 tablet once a day,S: 1 tabet once a day,4.55,16.67,0
+sample_000116.png,1. GLICLAZIDE,o. SLICLAZIE,23.08,100.00,0
+sample_000117.png,(ZELTINE MR),(ZELNNE BR),25.00,100.00,0
+sample_000118.png,80mg,0810mg,50.00,100.00,0
+sample_000119.png,#400 370,#4500 370,12.50,50.00,0
+sample_000120.png,SIG: 1 TABLET 2X A DAY,::f TACLET 2 Aa TA,45.45,100.00,0
+sample_000121.png,BEFORE MEALS,BEFORNT MEALS,16.67,50.00,0
+sample_000122.png,2. PIOGLITAZONE,-6MA TAZONE,60.00,100.00,0
+sample_000123.png,30mg,#330m,75.00,100.00,0
+sample_000124.png,(PIOZONE),(AIZONE),22.22,100.00,0
+sample_000125.png,#200 170,#2000 170/,25.00,100.00,0
+sample_000126.png,SIG: 1 TABLET 2X A DAY,1 TRALET ONGE A Xaf,63.64,66.67,0
+sample_000127.png,BEFORE LUNCH,AEFOOnE LONCGE,50.00,100.00,0
+sample_000128.png,ATORVASTATIN 10MG,7,100.00,100.00,0
+sample_000129.png,Atormax,(nvermax,57.14,100.00,0
+sample_000130.png,#200 170,# 25 17,50.00,150.00,0
+sample_000131.png,RITEMED,lLTE MED,42.86,200.00,0
+sample_000132.png,1 TABLET ONCE A DAY,SR 1 TOALLE ONCE AZYD,52.63,80.00,0
+sample_000133.png,AT NIGHT,Ay 5CHT,50.00,100.00,0
+sample_000134.png,4. VITAMIN B COMPLEX,S ITOMIN B AOMDO TER,50.00,100.00,0
+sample_000135.png,(PHAREX),(PLOLEX),37.50,100.00,0
+sample_000136.png,#200 170,A# 20x0 170,37.50,100.00,0
+sample_000137.png,S: 1 TABLET ONCE A DAY,# -accr mcxd f aay,81.82,100.00,0
+sample_000138.png,IN THE MORNING,:,100.00,100.00,0
+sample_000139.png,Label: 1 tablet every 8 hours for,Labet: 1 tabler cvery 6 house for,18.18,71.43,0
+sample_000140.png,7 days,7 days,0.00,0.00,1
+sample_000141.png,colds,cedsy,60.00,100.00,0
+sample_000142.png,Hexitidine oral antiseptic,Hexitidine arcal artisepti,15.38,66.67,0
+sample_000143.png,(Bactidol) #1 bottle,(Bactadal) #1 tatte,25.00,66.67,0
+sample_000144.png,9pm,9 pm,33.33,200.00,0
+sample_000145.png,Label: 1 tablet at night,Lobiel: 1 tablet at mikt,20.83,40.00,0
+sample_000146.png,Co-amixoclav 625mg/tablet,Lo-ammoxclav 625mg/tablet,16.00,50.00,0
+sample_000147.png,6pm,61om,66.67,100.00,0
+sample_000148.png,Sinupret Forte #15,Simuperet foeds #15,33.33,66.67,0
+sample_000149.png,Label: gargle 2x a day,Stout goge sx o day,50.00,80.00,0
+sample_000150.png,Bilastine 20mg/tablet #5,Bilastins 20mg/tablely 5,16.67,100.00,0
+sample_000151.png,# 21,# 21,0.00,0.00,1
+sample_000152.png,2pm,2pmn,33.33,100.00,0
+sample_000153.png,10pm,10pm,0.00,0.00,1
+sample_000154.png,7am,7am,0.00,0.00,1
+sample_000155.png,1pm,1fpm,33.33,100.00,0
+sample_000156.png,7pm,#p,66.67,100.00,0
+sample_000157.png,Label: 1 tablet 3x a day for,Label: 1 tablet 3x a day fors,3.57,14.29,0
+sample_000158.png,2. Paracetamol 500mg/tab #16,.. arace tu) 50mg/tabd #100,39.29,125.00,0
+sample_000159.png,Sig. take 1 tablet,Sig take 1 talat,16.67,50.00,0
+sample_000160.png,1. Co amoxiclav 625mg / tab #25,1x.6 Loamotin Gisg /00 # 25,58.06,100.00,0
+sample_000161.png,Sig. take 1 tablet,Si. take 1 tablei,11.11,50.00,0
+sample_000162.png,P5,Ia,100.00,100.00,0
+sample_000163.png,Every 8 hours for,S1: uhy 4 hobscas fd,76.47,125.00,0
+sample_000164.png,7 days,777-f#dg0.,133.33,100.00,0
+sample_000165.png,Every 6 hours as needed,Oey 00 hats ab neadal,52.17,100.00,0
+sample_000166.png,for fever,Ror prer,44.44,100.00,0
+sample_000167.png,Amlodipine 10mg #200,Amlodipine 10mg #200,0.00,0.00,1
+sample_000168.png,(Bezam),(Beza),14.29,100.00,0
+sample_000169.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000170.png,Rosuvastatin 10mg,Rrosuvastatn 10mg,11.76,50.00,0
+sample_000171.png,(Lustatin) #200,(Lustatin) #200,0.00,0.00,1
+sample_000172.png,Rx Am,Rx Am,0.00,0.00,1
+sample_000173.png,Telmisartan #200,Lelmisarntan #200,12.50,50.00,0
+sample_000174.png,(Teldra) 50mg,(Tabrs) 50mg,30.77,50.00,0
+sample_000175.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000176.png,PM S: 1 table once a day,PNS 2 dabed ance a hvcy,45.83,85.71,0
+sample_000177.png,Accuflam spray,Accaflam sprmg,21.43,100.00,0
+sample_000178.png,#1,#1,0.00,0.00,1
+sample_000179.png,Rx,Rx,0.00,0.00,1
+sample_000180.png,(Cataflam) 50mg,(Cataflam) 50mg,0.00,0.00,1
+sample_000181.png,#5,#157,100.00,100.00,0
+sample_000182.png,Diclofenac,Ddiclofenac,10.00,100.00,0
+sample_000183.png,S: 1 tablet once a day,S: 1 tablt once a day,4.55,16.67,0
+sample_000184.png,or as needed for pain,or as needed for plasnn,14.29,20.00,0
+sample_000185.png,#1,#1,0.00,0.00,1
+sample_000186.png,S: AD,S:: AD,20.00,50.00,0
+sample_000187.png,(zinof) #200,(znofg) #200,16.67,50.00,0
+sample_000188.png,Amlodipine 5mg #200,Muledapene 0mg # 200,36.84,133.33,0
+sample_000189.png,fenofibrate 200mg,femofirate 200mg,11.76,50.00,0
+sample_000190.png,Rx,Rx,0.00,0.00,1
+sample_000191.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000192.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000193.png,S: 1 tablet once a day,S: 1 ablt nca day,22.73,50.00,0
+sample_000194.png,(Bezam/Provasc),(Bezam/ Provasc),6.67,200.00,0
+sample_000195.png,Lozartan 50mg,Lozartan 53mg,7.69,50.00,0
+sample_000196.png,(Kenzar / Bezartan),(Konzar / Bezartan),5.26,33.33,0
+sample_000197.png,#200,#200,0.00,0.00,1
+sample_000198.png,Metformin 500mg #400,Midptrmn 20mg #300,40.00,100.00,0
+sample_000199.png,(Normax),(Mormax),12.50,100.00,0
+sample_000200.png,1 tablet 2x a day,1 tablet 2x a day,0.00,0.00,1
+sample_000201.png,S:,S:,0.00,0.00,1
+sample_000202.png,vit c/ zinc,vit c/xnc,27.27,66.67,0
+sample_000203.png,(Civaz),(Civaz),0.00,0.00,1
+sample_000204.png,S: 1 tablet once,(tablet once,31.25,75.00,0
+sample_000205.png,a day,a day,0.00,0.00,1
+sample_000206.png,S:,S:,0.00,0.00,1
+sample_000207.png,#100,#100,0.00,0.00,1
+sample_000208.png,Amlodipine 500mg,Aumlodipine 5y,31.25,100.00,0
+sample_000209.png,(Provasc),Prdvazc),33.33,100.00,0
+sample_000210.png,#100,#7100,25.00,100.00,0
+sample_000211.png,Rx,Rx,0.00,0.00,1
+sample_000212.png,#100,##100,25.00,100.00,0
+sample_000213.png,S: 1 tablet once a day,S4(-: 1 tablet once a daiy,18.18,33.33,0
+sample_000214.png,(Atenurix) 40mg,(Atenmusix) 40mg,13.33,50.00,0
+sample_000215.png,#60,#400,66.67,100.00,0
+sample_000216.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000217.png,DUO,2D,100.00,100.00,0
+sample_000218.png,EMPAGLIFLOZIN,EMPALGLLIFLOG,38.46,100.00,0
+sample_000219.png,METFORMIN,METFON,33.33,100.00,0
+sample_000220.png,12.5,12f,50.00,100.00,0
+sample_000221.png,500,500,0.00,0.00,1
+sample_000222.png,Jardiance,Sarrmond,66.67,100.00,0
+sample_000223.png,#200,,100.00,100.00,0
+sample_000224.png,5mg,5mg,0.00,0.00,1
+sample_000225.png,#100,#100,0.00,0.00,1
+sample_000226.png,S: 1 tablet once a day,S: 1 tablet once a dy,4.55,16.67,0
+sample_000227.png,(Neomet) 500mg,(Mesome) 500mg,21.43,50.00,0
+sample_000228.png,#200,#200,0.00,0.00,1
+sample_000229.png,Amlodipine,Amclodipine,10.00,100.00,0
+sample_000230.png,(Provasc),(1mdas),55.56,100.00,0
+sample_000231.png,Rx,Rx,0.00,0.00,1
+sample_000232.png,S: 1 tablet 2x a day,1aleat a x a day,45.00,66.67,0
+sample_000233.png,S:,S:,0.00,0.00,1
+sample_000234.png,S: 1 tablet once a day,S: 1 tablet once a dasy,4.55,16.67,0
+sample_000235.png,Lozartan 50mg,Lozartan 50mg,0.00,0.00,1
+sample_000236.png,(Kenzar) 	#100,(NMemar) #100,35.71,50.00,0
+sample_000237.png,(Provasc)   #100,(Provdac) #10,31.25,100.00,0
+sample_000238.png,S: 1 tablet 2x a day,S: 1 tablet 2x a day,0.00,0.00,1
+sample_000239.png,S: 1 tablet once a day,S: 1 tablet ona a day,9.09,16.67,0
+sample_000240.png,lozartan 50mg,lozartan 50mg,0.00,0.00,1
+sample_000241.png,7AM,7AM,0.00,0.00,1
+sample_000242.png,(Kenzar) #100,(1nvanzan) #100,38.46,50.00,0
+sample_000243.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000244.png,(glitab) 30mg,(Sitab) 30mg,15.38,50.00,0
+sample_000245.png,#200,#200,0.00,0.00,1
+sample_000246.png,Metformin 500mg,Metfomn 5m0mg,20.00,100.00,0
+sample_000247.png,(Neomet) #100,(MNeonat) #133,38.46,100.00,0
+sample_000248.png,S: 1 tablet,S: 1 tablet,0.00,0.00,1
+sample_000249.png,once a day,once a da-,10.00,33.33,0
+sample_000250.png,Amlodipine 5mg,Amlodoipine 5mg,7.14,50.00,0
+sample_000251.png,Rx 7pm,Rx 7pm,0.00,0.00,1
+sample_000252.png,#100,#100,0.00,0.00,1
+sample_000253.png,Rx,Rx,0.00,0.00,1
+sample_000254.png,5mg/5ml,5img/00m0,57.14,100.00,0
+sample_000255.png,7 days,TYiy,83.33,100.00,0
+sample_000256.png,10mg/5ml,10r 00,75.00,200.00,0
+sample_000257.png,2. Prednisone syrup,ig,94.74,100.00,0
+sample_000258.png,#5,#,50.00,100.00,0
+sample_000259.png,Sig: Give 3.2ml 2x/day,Sgi: Give 3.2ml 2x/da,13.64,50.00,0
+sample_000260.png,for 5 days,far h dus,40.00,100.00,0
+sample_000261.png,Syrup,1,100.00,100.00,0
+sample_000262.png,1.Cetirizine,Octmigire,66.67,100.00,0
+sample_000263.png,#1,7,100.00,100.00,0
+sample_000264.png,2x/day for,Sday til,60.00,100.00,0
+sample_000265.png,Sig: Give 2.5ml,Stig 6Give 2-.50m,40.00,100.00,0
+sample_000266.png,2. Etoxib,. Epxib,33.33,100.00,0
+sample_000267.png,60mg #10,60 g/ts a l6,100.00,200.00,0
+sample_000268.png,stomach for 7 days,17::1,94.44,100.00,0
+sample_000269.png,S: 1tab 2x/day,S71 ta any,64.29,100.00,0
+sample_000270.png,For 3-6days,A31),90.91,100.00,0
+sample_000271.png,(7am-3pm-11pm),)am-3p0m -t1f-),50.00,200.00,0
+sample_000272.png,1. Clindamycin (Peldacyn),1S. Clateayn (1Vehlaays)y,56.00,100.00,0
+sample_000273.png,300 g # 21 or (Dalacin-C),S0 g # 2 a tdatada),52.00,66.67,0
+sample_000274.png,S: 1cap every 8hrs on full,SSIA e0ly # la a fatt,69.23,100.00,0
+sample_000275.png,1 vial,1 ale,50.00,50.00,0
+sample_000276.png,2x/day,2x/days,16.67,100.00,0
+sample_000277.png,mix,mpx,33.33,100.00,0
+sample_000278.png,in water (½ glass will do),S5 webeix hasifd),65.38,100.00,0
+sample_000279.png,Take,Tade,25.00,100.00,0
+sample_000280.png,Bacillus,tLaalls,62.50,100.00,0
+sample_000281.png,(Erceflora) # 10,(Lararian) #15,68.75,100.00,0
+sample_000282.png,5mg,5mg,0.00,0.00,1
+sample_000283.png,(Provasc),(Provasc),0.00,0.00,1
+sample_000284.png,S: 1-2 tablets as needed for insomnia,13,97.30,100.00,0
+sample_000285.png,Amlopidine,Amlodipine,20.00,100.00,0
+sample_000286.png,S: 1 tablet once a day,S: 1 tablt oncaa day,13.64,50.00,0
+sample_000287.png,S: 1 tablet as needed,S: 1tablet o odad.,38.10,80.00,0
+sample_000288.png,for dizziness,ttor dezainns,46.15,100.00,0
+sample_000289.png,#100,#100,0.00,0.00,1
+sample_000290.png,Betahistine,PBetabhitie,36.36,100.00,0
+sample_000291.png,16mg,160mg,25.00,100.00,0
+sample_000292.png,(Nuvert),(Rumert),25.00,100.00,0
+sample_000293.png,#30,#30,0.00,0.00,1
+sample_000294.png,Melatonin 3mg,Imelatonin 3mg,15.38,50.00,0
+sample_000295.png,#30,#30,0.00,0.00,1
+sample_000296.png,for insomnia,1a mnsomuca,50.00,100.00,0
+sample_000297.png,Dynatussin – # 30 tabs,Dynatassin advotabs,36.36,100.00,0
+sample_000298.png,Sig: 1 tablet 3x a day,Sig: 1 tablet 3x a day,0.00,0.00,1
+sample_000299.png,Co-Amoxiclav 625 mg – 14 tabs,Co-Amoxiclav 625mg # 14 tab,10.34,66.67,0
+sample_000300.png,Sig: 1 tablet 2x daily for 7 days,1suy 1 tablet 2x daity for 7 date,21.21,37.50,0
+sample_000301.png,Azithromycin 500mg – #3 tabs,Azivhromgcin 500 mg #3tabs,21.43,100.00,0
+sample_000302.png,Sig: 1 tablet once a day for 3 days,Sig 1 tablet once a day for 3 daye,5.71,22.22,0
+sample_000303.png,Spironolactone 25 mg – # 8,sdpronotactine 2 0mg ##383,42.31,100.00,0
+sample_000304.png,Sig 1 tab 2x a week (Tuesday & Saturday),Sig 1 tab 2x a weels( Tuesdiay # 5aunday),20.00,44.44,0
+sample_000305.png,after breakfast,atlle ereakifast,40.00,100.00,0
+sample_000306.png,Tamsulosin 400 mcg – #30,tamsullon 400 mbag - #30,29.17,60.00,0
+sample_000307.png,Sig 1 tablet once a day,Sig 1 tablet once day,8.70,16.67,0
+sample_000308.png,Sodium Bicarbonate 650mg – #60,Stm Bicarbonale 150mg a 3,33.33,100.00,0
+sample_000309.png,Sig 1 tablet 2x a day,SS2ig 1 tablet 2 x a day,14.29,50.00,0
+sample_000310.png,Citicoline 500 mcg – #30,SCiticoBne 5#00 mcgy 7 #30,25.00,80.00,0
+sample_000311.png,Sig 1 tablet once a day,S. g 1 tablet oncel a day,13.04,50.00,0
+sample_000312.png,Memantine 10mg – #60,Miliantioe 10 mag 7 #10,40.00,125.00,0
+sample_000313.png,Sig 1 tablet 2x a day,Sig 1 tablet 2x a day,0.00,0.00,1
+sample_000314.png,Tiotropium/Olodaterol (Spiolto Respimat),SS smmoiciio /olodateral C Of 0 m a aagy #,75.00,333.33,0
+sample_000315.png,Sig 2 puffs once a day,As1m t2 puffn oncgas,54.55,100.00,0
+sample_000316.png,Rosuvastatin 10mg,Famvastati on 10mg,35.29,100.00,0
+sample_000317.png,– #30,1 # 30,40.00,150.00,0
+sample_000318.png,Sig 1 tablet at bedtime,Sg 1 tablet a bedtvnimae,21.74,60.00,0
+sample_000319.png,Quetiapine 100 mcg – #30,Diatspine 100mceg -#00,41.67,100.00,0
+sample_000320.png,Sig ½ tablet 2x a day,SSig 12 tab 2x daillyy,52.38,83.33,0
+sample_000321.png,Escitalopram 10 mg – #30,E(scaltalopram 1o md #a 7#0,37.50,100.00,0
+sample_000322.png,Sig 1 tablet once day,Sg / tabliot once day,19.05,60.00,0
+sample_000323.png,at bedtime,at bedtime,0.00,0.00,1
+sample_000324.png,Clindamycin 300mg/cap – 28,Clindamycin 300mg/cap - 28,3.85,25.00,0
+sample_000325.png,(6am -12pm - 6pm - 12am),Coamasatda o im #12mm,62.50,100.00,0
+sample_000326.png,This is skin infection,This is skin infecton,4.55,25.00,0
+sample_000327.png,Co-Amoxiclav 625 mg – 21 tabs,Co-Amoxiclavy 625 mg - 21 tabs,6.90,33.33,0
+sample_000328.png,Sig 1 tablet 3x daily for 7 days,Sig 1 tablet 2x dady #00 1 ags,28.12,62.50,0
+sample_000329.png,Sig 1 cal every 6 hours for 7 days,Sig: 1cal avery 6 hours for 7 dasys,11.76,55.56,0
+sample_000330.png,Clindamycin 75mg/5ml,Clindamgin 75mg/5mlEI,20.00,100.00,0
+sample_000331.png,Sig take 20ml via,Si taxe 20ml 1g,29.41,75.00,0
+sample_000332.png,#4,#14,50.00,100.00,0
+sample_000333.png,mouth three times a day,wmouth ftirce tv a day,34.78,60.00,0
+sample_000334.png,with strict aspiration precaution,Of staxx osxvatee freoeckians,66.67,100.00,0
+sample_000335.png,for 7 days,f1gr 17domg,70.00,100.00,0
+sample_000336.png,Sig take 1 tablet once a,Sig. take 2tont once,37.50,66.67,0
+sample_000337.png,day at breakfast,dacat lvealyt,50.00,100.00,0
+sample_000338.png,1. Biotene Spray,1. Bidene 5pramg,31.25,66.67,0
+sample_000339.png,Sig Spray on oral mucosa #3,Sp tgg a tab ineatid,74.07,100.00,0
+sample_000340.png,3x a day,Sx a da,25.00,66.67,0
+sample_000341.png,2. Carbocisteine 100 mg/5 mL,2. C(ofbocidema 100m/mL,42.86,80.00,0
+sample_000342.png,(Loviscol) (120ml) #3,Covol) 6(noaly#3,57.14,100.00,0
+sample_000343.png,Sig Give 5ml three times a day,Sx: Gie 5ml force tra ady,40.00,85.71,0
+sample_000344.png,3. Omeprazole 40mg # 14,3. Ompraatle 400mg # 14,17.39,40.00,0
+sample_000345.png,at bedtime,at bedtime,0.00,0.00,1
+sample_000346.png,Paracetamol 250ml/5ml,oraccramol 200m0/50,38.10,100.00,0
+sample_000347.png,(Calpol),(Calp),25.00,100.00,0
+sample_000348.png,#3,#3,0.00,0.00,1
+sample_000349.png,Sig take 10ml every,Sig abe 10ml evny,21.05,50.00,0
+sample_000350.png,4 hours for fever,A hous for frrr,29.41,75.00,0
+sample_000351.png,> 37.3 C,378C,62.50,100.00,0
+sample_000352.png,Essentiale # 20,Esseatiael tabe cag # 200,73.33,133.33,0
+sample_000353.png,Once a day,Onae odmacy,50.00,100.00,0
+sample_000354.png,Heparin 30g OD #100,Aepocarin 300g SD #100,26.32,75.00,0
+sample_000355.png,Inhaled,Inlad,42.86,100.00,0
+sample_000356.png,Corolan 7.5g # 200,C00pclan Falgx # 200,44.44,50.00,0
+sample_000357.png,Facial,Fooedd,83.33,100.00,0
+sample_000358.png,Lasix 40g # 100,(oavx ofamy 10,66.67,100.00,0
+sample_000359.png,Espididol,L::,100.00,100.00,0
+sample_000360.png,Inspra 25g # 100,BInsepra 2g # 100,18.75,50.00,0
+sample_000361.png,Daily,Daily,0.00,0.00,1
+sample_000362.png,Coversyl 5g # 100,wersgl 5g #100,29.41,75.00,0
+sample_000363.png,Esd bc,Ed bn,33.33,100.00,0
+sample_000364.png,Jardiance 25g # 100,wSloatont ay 1v #0,84.21,100.00,0
+sample_000365.png,Trimag 200g # 100,Trioag 00g # 100,11.76,50.00,0
+sample_000366.png,Cardiomax # 200,Cardismadx # 2 100,26.67,100.00,0
+sample_000367.png,Nebilet 5g #100,elilet 5 5mg 10,46.67,133.33,0
+sample_000368.png,Candid V 200mg #300,Candid v 10mg # 300,21.05,100.00,0
+sample_000369.png,Plosul 75g # 100,S oxul 77ad 100,43.75,75.00,0
+sample_000370.png,Roswin 10g # 100,Roscuor 15 #140,50.00,100.00,0
+sample_000371.png,S: 1 tablet once a day,1S: 1 tabet oncedday,22.73,83.33,0
+sample_000372.png,7pm,7pm,0.00,0.00,1
+sample_000373.png,#100,#100,0.00,0.00,1
+sample_000374.png,Amlodipine 5mg,Amtlodipine 53mg,14.29,100.00,0
+sample_000375.png,(Provasc) # 100,(Provasc) # 100,0.00,0.00,1
+sample_000376.png,7am (Atenurix) 40mg,7am (Atenux) 4aindg,31.58,66.67,0
+sample_000377.png,#100,#100,0.00,0.00,1
+sample_000378.png,S: 1 tablet once a day,S: 1 tabet once a day,4.55,16.67,0
+sample_000379.png,(Rosuvastatin) 10mg,Tf1TRoosetat ) 10mg,52.63,100.00,0
+sample_000380.png,7pm S: 1 tablet once a day,e ll,92.31,100.00,0
+sample_000381.png,10mg # 100,ong #100,40.00,100.00,0
+sample_000382.png,Amlodipine 5mg,Amlodipine 5mg,0.00,0.00,1
+sample_000383.png,(Provasc) # 100,(Movalsc) #100,26.67,100.00,0
+sample_000384.png,Losartan 50mg,Losartan 50mg,0.00,0.00,1
+sample_000385.png,(Kenzar) # 100,(Kenzas)) #100,21.43,100.00,0
+sample_000386.png,(Lustatin / Rosuvast),533: (0zustati:1080tac,90.48,100.00,0
+sample_000387.png,S: 1 tablet once a day,MSs 1 tabeet once a daays,22.73,50.00,0
+sample_000388.png,S: 1 tablet once a day,S: 1 talleet ce d ddaa,31.82,66.67,0
+sample_000389.png,S: 1 tablet once a day,S3: 1 tablet once a day,4.55,16.67,0
+sample_000390.png,Losartan 50mg,Losartan 50mg,0.00,0.00,1
+sample_000391.png,(Kenzar),(Kenzar),0.00,0.00,1
+sample_000392.png,1 tablet once a day,1 (bet once a day,15.79,20.00,0
+sample_000393.png,(Omnivox) 500mg,1 Cmnivox) 500mg,20.00,100.00,0
+sample_000394.png,#7,#17,50.00,100.00,0
+sample_000395.png,S: 1 tablet once a day,S: 1 tablet once ady,9.09,33.33,0
+sample_000396.png,Lunch,Lech,40.00,100.00,0
+sample_000397.png,Morning,Tonng,42.86,100.00,0
+sample_000398.png,(Lustatin) 10mg #100,(Lustatin) 10mg #00,5.00,33.33,0
+sample_000399.png,Rosuvast,Rosumnaan,50.00,100.00,0
+sample_000400.png,Before,BApe,66.67,100.00,0
+sample_000401.png,Bedtime,Bedtne,28.57,100.00,0
+sample_000402.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000403.png,(Provasc) 5mg #100,(Peovasc) 5mg #10,11.11,66.67,0
+sample_000404.png,Bedtime,Beltoe,42.86,100.00,0
+sample_000405.png,S: 1 tablet once a day,S: 1 abelet once a daay,13.64,33.33,0
+sample_000406.png,#100,#100,0.00,0.00,1
+sample_000407.png,Flutiform Inhaler 125 # 2,Palfran odsialtne #2,76.00,100.00,0
+sample_000408.png,Flutiform Inhaler 125 # 2,Prbl 1 falft 2n a dary,84.00,120.00,0
+sample_000409.png,gargle after use,Fgle aftes vee,37.50,100.00,0
+sample_000410.png,(1 - 0 - 1),t -#0d ivy,72.73,100.00,0
+sample_000411.png,at bedtime,A#f: Aotiime,80.00,100.00,0
+sample_000412.png,S: apply on forehead/hairline,1: aply o frhura/thaehas,51.72,100.00,0
+sample_000413.png,Daivobet ointment,DBrivobet sest omepit,52.94,150.00,0
+sample_000414.png,Hydrocortisone 1% cream,Atatradestitan aa deemiasbEk,91.30,100.00,0
+sample_000415.png,S: apply 2x/day on side,S: SamMlgy saaidy on arka,56.52,60.00,0
+sample_000416.png,of nose,Sgg npeky,100.00,100.00,0
+sample_000417.png,Halovate ointment,SStalont teadaoxyiyg,88.24,100.00,0
+sample_000418.png,S: apply on legs 2x/day,nxyy,86.96,100.00,0
+sample_000419.png,Itraconazole 100mg,IStanconaooe 10mg,33.33,100.00,0
+sample_000420.png,10 days,10 d,42.86,50.00,0
+sample_000421.png,#7,#7,0.00,0.00,1
+sample_000422.png,(Inox),(nnox),16.67,100.00,0
+sample_000423.png,0 - 1 - 0,bo 1 0,55.56,60.00,0
+sample_000424.png,S: 1 tab a day,S10 1 da aAay,42.86,80.00,0
+sample_000425.png,Clotrimazole eardrops,Claronrimponoe omoome,66.67,100.00,0
+sample_000426.png,(Candiva otic),(1Caanivad ozic),35.71,100.00,0
+sample_000427.png,2 drops in right ear,LSaaapriin dgiang,75.00,100.00,0
+sample_000428.png,2x/day for,2xig/a p,70.00,100.00,0
+sample_000429.png,Ciprofloxacin,CproFfloxacin,15.38,100.00,0
+sample_000430.png,500 mg/tab × 7 days,S50g/tas x tay,52.63,100.00,0
+sample_000431.png,AM LUNCH PM BED TIME NO. OF,AM LUNCH PM BED TIME NO. OF,0.00,0.00,1
+sample_000432.png,PIECES,PIECES,0.00,0.00,1
+sample_000433.png,8A,8A,0.00,0.00,1
+sample_000434.png,8P,8P,0.00,0.00,1
+sample_000435.png,#14,#14,0.00,0.00,1
+sample_000436.png,1. Cefuroxime,1. ((furoximpe,23.08,50.00,0
+sample_000437.png,500mg/tab,500mg/tb,11.11,100.00,0
+sample_000438.png,(Cemex),(cemex),14.29,100.00,0
+sample_000439.png,× 7 days,V 70 dmyd,50.00,100.00,0
+sample_000440.png,AM LUNCH PM BED TIME NO. OF,AMI LUNCH PM BED TIME NO. OF,3.70,14.29,0
+sample_000441.png,PIECES,PIECES,0.00,0.00,1
+sample_000442.png,8A,8A,0.00,0.00,1
+sample_000443.png,8P,471,150.00,100.00,0
+sample_000444.png,#14,#14,0.00,0.00,1
+sample_000445.png,1. Co-Amoxiclav,1. co- tomedxicanv,53.33,100.00,0
+sample_000446.png,(Augmentin) 625mg / tab,(AUuSadutin) 6257 /ta,39.13,100.00,0
+sample_000447.png,Fluimucil,FLuimu,44.44,100.00,0
+sample_000448.png,600 mg/tab × 7 days,S00mg/tab x 7 0mm,36.84,80.00,0
+sample_000449.png,AM LUNCH PM BED TIME NO. OF,AMITUNCH PM BEDTIME NO. OF,11.11,57.14,0
+sample_000450.png,PIECES,PIECES,0.00,0.00,1
+sample_000451.png,#14,#14,0.00,0.00,1
+sample_000452.png,#7,#7,0.00,0.00,1
+sample_000453.png,8A,84,50.00,100.00,0
+sample_000454.png,8P,8P,0.00,0.00,1
+sample_000455.png,Sinecod,Sinecod,0.00,0.00,1
+sample_000456.png,Forte,1Forie,40.00,100.00,0
+sample_000457.png,625 mg/tab × 7 days,Ai: 7 :,84.21,80.00,0
+sample_000458.png,AM LUNCH PM BED TIME NO. OF,AM LUNCH PM BED TIME NO. OF,0.00,0.00,1
+sample_000459.png,#21,#21,0.00,0.00,1
+sample_000460.png,#5,#5,0.00,0.00,1
+sample_000461.png,#14,#14,0.00,0.00,1
+sample_000462.png,PIECES,PIECES,0.00,0.00,1
+sample_000463.png,Cetirizine,Cetirizine,0.00,0.00,1
+sample_000464.png,5 days,5 day,16.67,50.00,0
+sample_000465.png,1 tab x,1 /tb #,42.86,66.67,0
+sample_000466.png,Co-Amoxiclav,CLO-NMmakxlaiv,75.00,100.00,0
+sample_000467.png,Deolsin capsule #20,Deotoo apfrla a,57.89,100.00,0
+sample_000468.png,2 sprays/nostril,2 dprays/nostoll #51,43.75,100.00,0
+sample_000469.png,Nasofree/Clariderm,Nasofree /Claridess,16.67,200.00,0
+sample_000470.png,Every 12 hrs,Svat 1 hree,58.33,100.00,0
+sample_000471.png,if needed,if needed,0.00,0.00,1
+sample_000472.png,Do not exceed 5 days,Lo Not exeed 5 diys,20.00,80.00,0
+sample_000473.png,of regular use,of regoler ne,28.57,66.67,0
+sample_000474.png,Oxymetazoline,Oxymetazoline,0.00,0.00,1
+sample_000475.png,RX,RX,0.00,0.00,1
+sample_000476.png,Mucosaliv,MNMecoetin,77.78,100.00,0
+sample_000477.png,30g,50g,33.33,100.00,0
+sample_000478.png,2x,2xx,50.00,100.00,0
+sample_000479.png,Rx,R2x,50.00,100.00,0
+sample_000480.png,July,July,0.00,0.00,1
+sample_000481.png,Ultrasound of whole abdomen,AUoy of volt abdama,55.56,75.00,0
+sample_000482.png,U/S of H breast & axilla,I of o Saet bexild,54.17,83.33,0
+sample_000483.png,Rx,Rx,0.00,0.00,1
+sample_000484.png,(Tobracare),(Tobrecanre),18.18,100.00,0
+sample_000485.png,1g,1g,0.00,0.00,1
+sample_000486.png,Oint,Anly,100.00,100.00,0
+sample_000487.png,1 cap 2x a day,Icap 2x a day,14.29,40.00,0
+sample_000488.png,2. Glumet XR 500mg/tab #2,2. Glumet: XR 500mg/tab #7,8.00,40.00,0
+sample_000489.png,1 tab once a day,i tab once a day,6.25,20.00,0
+sample_000490.png,#13,#15,33.33,100.00,0
+sample_000491.png,Silgram 750mg/cap,Sigram 750mg /mp,23.53,150.00,0
+sample_000492.png,Rx,Rx,0.00,0.00,1
+sample_000493.png,Amoxicillin Trihydrate 500 mg,Aosicdin tadpate 50 g,44.83,100.00,0
+sample_000494.png,(Amoxcillin) #15,(Pmnoxg nllin # gx,56.25,200.00,0
+sample_000495.png,Sig: 1 tab 3x a day x 5 days,S 177 7,85.71,100.00,0
+sample_000496.png,Mefenamic Acid 500 mg,Pofensic Aid 60 mg,33.33,75.00,0
+sample_000497.png,(Dolfenal) #6,(Dolfe#,46.15,100.00,0
+sample_000498.png,Sig: 1 tab every 4 hours,,100.00,100.00,0
+sample_000499.png,1. at bedtime,S. (1) am bettime,53.85,133.33,0
+sample_000500.png,8:00 PM,n,100.00,100.00,0
+sample_000501.png,(Stelix) (10/5),(Steeax) (10/5),13.33,50.00,0
+sample_000502.png,1. Nac (Pneumotyl) 600 - 7,5X o. nelCORVatZ) 60mg am m,76.92,100.00,0
+sample_000503.png,1. tablet dissolve in 1 glass of,St: 0 tnbet dnecalle t qab #y,68.75,100.00,0
+sample_000504.png,"water, once a day","Ssnoter, onee adaay",41.18,100.00,0
+sample_000505.png,(12nn),(112en),33.33,100.00,0
+sample_000506.png,2. Levofloxacin (Levoflox) 500 #7,a. Levofloxcan (Levofirxin) 50g #7,24.24,80.00,0
+sample_000507.png,12 noon,: o,71.43,100.00,0
+sample_000508.png,S:,#S#:,100.00,100.00,0
+sample_000509.png,3. Montelukast + Cetirizine,(3. Montelukart 1(C2etiirizine,22.22,100.00,0
+sample_000510.png,1. Montelukast + Cetirizine,IX Mt Ong,81.48,100.00,0
+sample_000511.png,(Stelix) 10/5,(Stelix ) 2/5,23.08,150.00,0
+sample_000512.png,-15,--#-1x(,166.67,100.00,0
+sample_000513.png,S: 2. at bedtime,S: O art bettiume,31.25,75.00,0
+sample_000514.png,S: 1. oday,S: 1 aay,30.00,66.67,0
+sample_000515.png,x 2 weeks,Rx ars,77.78,100.00,0
+sample_000516.png,1. Pantoprazole + Domperidone,X 0 Pamlmscox Dren,75.86,100.00,0
+sample_000517.png,#15,#15,0.00,0.00,1
+sample_000518.png,(Pantec) 40/30,(Pantec) 4#0/300,14.29,50.00,0
+sample_000519.png,RX,RX,0.00,0.00,1
+sample_000520.png,co-amoxiclav 625 mg / capsule,CcCObO. Cimoxclav 025 mg / capsule,37.93,60.00,0
+sample_000521.png,Sig: 1 capsule every 8 hours x 7 days,S#ig: 1 capsule every 89 nhows x 11 dagst,24.32,55.56,0
+sample_000522.png,Arcoxia 90 mg / capsule,Arcoxiag 90 mg / cdp sule,13.04,60.00,0
+sample_000523.png,Sig: 1 capsule OD / once a day or as,Sig:. 1 capsule OD 1 once a day onr aas,11.11,40.00,0
+sample_000524.png,needed for pain,needad for pain,6.67,33.33,0
+sample_000525.png,RX,RX,0.00,0.00,1
+sample_000526.png,cefalexin 500mg/capsule,Cefalexin 500mg/capsule,4.35,50.00,0
+sample_000527.png,1: capsule every 8 hours x 7 days,: 1 capsule eveary g hocrs x 7 days,18.18,62.50,0
+sample_000528.png,Sig:,Sig:,0.00,0.00,1
+sample_000529.png,mefenamic acid 500mg/capsule,Incfenamic acid 500mg/capsule,10.71,33.33,0
+sample_000530.png,Sig: 1 capsule every 8 hours as needed,Sig: 1 capsule every 4 hous as eideed,13.16,37.50,0
+sample_000531.png,for pain,fir pain,12.50,50.00,0
+sample_000532.png,amlodipine 10 g,aSmlodipine 10g,13.33,100.00,0
+sample_000533.png,Atorvastatin 40 mg,LCAmastat 40 m,44.44,66.67,0
+sample_000534.png,S: 1 l od (7pm),o 1 A 1al (5am),53.33,80.00,0
+sample_000535.png,50g,Le 50g,100.00,100.00,0
+sample_000536.png,100,a100,33.33,100.00,0
+sample_000537.png,(Lifezar),((Lifei),44.44,100.00,0
+sample_000538.png,S: 1 l od (7am),8. 0 1 1 a 130mg,73.33,100.00,0
+sample_000539.png,100,S2111000,166.67,100.00,0
+sample_000540.png,(Lipitor),(Lipid),33.33,100.00,0
+sample_000541.png,Febuxostat 40,CFluvutae 40,53.85,50.00,0
+sample_000542.png,100,SS12100,133.33,100.00,0
+sample_000543.png,(Atenurix),(Arnurs),40.00,100.00,0
+sample_000544.png,RX,RX,0.00,0.00,1
+sample_000545.png,(Norvasc),(oNervac),33.33,100.00,0
+sample_000546.png,100,100,0.00,0.00,1
+sample_000547.png,100 mg,100mgg,33.33,100.00,0
+sample_000548.png,celecoxib,LEleyii,66.67,100.00,0
+sample_000549.png,#2 capsules,##Sf#2 Clay,81.82,100.00,0
+sample_000550.png,Sig: take 1 cap every 12 hours,Sf taheis cap eory 1amban,50.00,85.71,0
+sample_000551.png,"for moderate pain, as needed","Sfonr medeeale frra, o0d aneek d",53.57,120.00,0
+sample_000552.png,50mg,#e 0mg,75.00,200.00,0
+sample_000553.png,Diclofenac k 50mg,Diclofuc 5b,47.06,100.00,0
+sample_000554.png,#9 tabs,#49 tac,42.86,100.00,0
+sample_000555.png,Sig: take 1 tab every 8 hours,Si take 1 tab ay 6 /m,41.38,57.14,0
+sample_000556.png,for moderate pain as,Ssfer. modeate pain aa,30.00,75.00,0
+sample_000557.png,needed,::: wetpe,133.33,200.00,0
+sample_000558.png,100mg,S: tV mn,140.00,300.00,0
+sample_000559.png,Ibuprofen,1Ibuprfne,44.44,100.00,0
+sample_000560.png,#6 caps,#656 vaps,42.86,100.00,0
+sample_000561.png,Sig: take 1 cap every 8 hrs,S1f take 1 vey tay 4 /os,48.15,71.43,0
+sample_000562.png,as needed,20n oedad,66.67,100.00,0
+sample_000563.png,"(3x a day) for mild pain,",1x o day) fr -mmla pare,40.00,83.33,0
+sample_000564.png,Prednisone,Ftrednis0me,40.00,100.00,0
+sample_000565.png,10mg,10mg,0.00,0.00,1
+sample_000566.png,#10 tabs,1# 10 tabs,25.00,100.00,0
+sample_000567.png,Sig:  - take 1 tab every 6 hrs on,S -tabe 1 tab onny 4 ou as,48.48,77.78,0
+sample_000568.png,the first day,She fixd day,30.77,66.67,0
+sample_000569.png,- take 1 tab every 8 hours on,tokee 1 dab esyy 14# hoe oan,51.72,87.50,0
+sample_000570.png,the second day,ftfhoo sevornd day,42.86,66.67,0
+sample_000571.png,- take 1 tab every 12 hours on,tabe 1 tab vey 1d ae an,40.00,75.00,0
+sample_000572.png,the third day,the ttard day,15.38,33.33,0
+sample_000573.png,- take 1 tab once on the,S atos 1 tab ocet on take,37.50,57.14,0
+sample_000574.png,"fourth day, orally",fourde anye 1 p0 oalley,66.67,166.67,0
+sample_000575.png,1. Ibuprofen 400 mg,(1 Ataprode 30 mg,47.37,75.00,0
+sample_000576.png,#10,#210,33.33,100.00,0
+sample_000577.png,2. Celecoxib 200 mg,2. Celacoxib 200 mg,5.26,25.00,0
+sample_000578.png,Sig: 1 capsule once a day,Si: 1 capsule once a day,4.00,16.67,0
+sample_000579.png,3. Clonidine 0.17 mg,3. Cloidine 0.17 mg,5.00,25.00,0
+sample_000580.png,Sig: 1 tablet at bedtime,5ig 1 tablet at beine,20.83,40.00,0
+sample_000581.png,4. Metoclopramide 10 mg,# Metoclopmmids 10 mg,21.74,50.00,0
+sample_000582.png,Sig: 1 tablet OD 30 minutes,Sig: 1 tablel D #0 minutes,11.11,50.00,0
+sample_000583.png,before meals & at bedtime,before meals #8d at bedtime,12.00,20.00,0
+sample_000584.png,5. Naproxen 500 mg,S5. Napropen 500 mg,11.11,50.00,0
+sample_000585.png,#5,#35,50.00,100.00,0
+sample_000586.png,S: 1 tablet daily,S: 1 tablet daily,0.00,0.00,1
+sample_000587.png,S: 1 tablet q 4 hours as needed,Sg: 1 tablet g 4 hours as neoded,9.68,37.50,0
+sample_000588.png,6. Omaprazole 40 mg,S6. Omepraytac 4 mg,36.84,75.00,0
+sample_000589.png,#20,#120,33.33,100.00,0
+sample_000590.png,S: 1 capsule 30-60 min before breakfast,S: 1 capoale 30-60 min betinre broaktarotd,25.64,42.86,0
+sample_000591.png,7. Atenolol 50 mg,7. Atenolol 50 mg,0.00,0.00,1
+sample_000592.png,#30,#30,0.00,0.00,1
+sample_000593.png,S: 1 tablet daily,S: 1 tabledt daly,11.76,50.00,0
+sample_000594.png,8. Clopidogrel 70 mg,1. clpidaprl #0 g,40.00,100.00,0
+sample_000595.png,#30,#130,33.33,100.00,0
+sample_000596.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000597.png,9. Paracetamol 500 mg,1. Palaclamdl 350 mg,33.33,75.00,0
+sample_000598.png,#30,#20,33.33,100.00,0
+sample_000599.png,S: 1 tablet for 4 hrs pain,S: 1 tablet # 4 he pon,26.92,42.86,0
+sample_000600.png,10. Amlodipine 5 mg,S10 tnbodipine 5mg,31.58,100.00,0
+sample_000601.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000602.png,11. Aspirin 80 mg,11. Afpirin 80 mg,5.88,25.00,0
+sample_000603.png,#30,#30,0.00,0.00,1
+sample_000604.png,S: 1 tablet od 4 to 6 hours as needed,S: 1 ablet y t 6 hours ab oecded,24.32,60.00,0
+sample_000605.png,12 Risedronate 35 mg,12 PRisedionate 35 mgg,15.00,50.00,0
+sample_000606.png,#30,#130,33.33,100.00,0
+sample_000607.png,S: 1 tablet per orem once a week,S: 1 tabet pr erin o0ie a wrekd,28.12,62.50,0
+sample_000608.png,13. Colchicine 500 mg,13. Colchicin e 500 mg,4.76,50.00,0
+sample_000609.png,#10,#10,0.00,0.00,1
+sample_000610.png,S: 1 table for hour x 8 hours,S: 1 tablt trs 1x 0 tun,48.28,75.00,0
+sample_000611.png,14 Losartan 50 mg,14 1Losartan 50 0mg,11.76,50.00,0
+sample_000612.png,S: 1 tablet once a day,S: 1 tablet once a day,0.00,0.00,1
+sample_000613.png,15. Prednisone 10 mg,18. Prednivin 10 mg,20.00,50.00,0
+sample_000614.png,#15,#15,0.00,0.00,1
+sample_000615.png,S: 1 tablet 3x a day,S: 1 thblet 6x a day,10.00,33.33,0
+sample_000616.png,16. Metoprolol 15 mg,16. Metaproal d5 mg,20.00,50.00,0
+sample_000617.png,#30,#30,0.00,0.00,1
+sample_000618.png,S: 1 tablet daily,S: 1 tablet daity,5.88,25.00,0
+sample_000619.png,17. cholecalciferol (vitamin D3),17. octukecalciterl (vitamin 23),21.88,50.00,0
+sample_000620.png,#30,1#30,33.33,100.00,0
+sample_000621.png,S: 1 gtt once a day,S: 1 g#t orc a day,15.79,33.33,0
+sample_000622.png,18. Diclofenac 50 mg,1 Sidlothenas 50 m,40.00,75.00,0
+sample_000623.png,#10,#10,0.00,0.00,1
+sample_000624.png,S: 1 tablet 3x day p.c,S: 1 thblet 3 day 1.e,18.18,50.00,0
+sample_000625.png,19. Alendronate 10 mg,1. Alendrenate 1- mg,14.29,75.00,0
+sample_000626.png,#21,#25,33.33,100.00,0
+sample_000627.png,S: 1 tablet once a week in the morning,S: 14 Aaber ame a 0sk adhe armg,50.00,77.78,0
+sample_000628.png,20. Simvastatin 40 mg,S30. Uvastaton 40 mg,28.57,50.00,0
+sample_000629.png,#30,#33,33.33,100.00,0
+sample_000630.png,S: 1 tablet once a day in evening,S: 1 Ahblet oncs a dy 3 abeori,36.36,62.50,0
+sample_000631.png,Tramadol 50 mg/tab,Trareado 50mg/tab,22.22,100.00,0
+sample_000632.png,One table orally every 4-6 hours.,Ohe tablet orvally eeey 4-66 hoors,24.24,100.00,0
+sample_000633.png,Celecoxib 200 mg/tab,CeLlecoxis 2o0 mg/tab,15.00,66.67,0
+sample_000634.png,One tablet orally once a day.,Onne tablet orally nnce a day.,6.90,33.33,0
+sample_000635.png,Paracetamol 500 mg/tab,PARALETAmMml 500mg/tab,45.45,100.00,0
+sample_000636.png,One tablet orally every 6 hours,One tablet orally enry 6 hours,6.45,16.67,0
+sample_000637.png,4,4,0.00,0.00,1
+sample_000638.png,Famotidine 20 mg/tab,Famotidine 20 mg/tab,0.00,0.00,1
+sample_000639.png,One tablet orally every 6 hours.,One tablet oraly evy 6 hous.,12.50,50.00,0
+sample_000640.png,Atorvastatin 20 mg/tab,Atonvastatin 2dong/tab,18.18,100.00,0
+sample_000641.png,One tablet orally once a day.,One tablet orally once a day.,0.00,0.00,1
+sample_000642.png,Metformin 500 mg/tab,Metformin 500mg/tab,5.00,66.67,0
+sample_000643.png,One tablet 2x/day.,One tablet ox/day.,5.56,33.33,0
+sample_000644.png,Losartan 50 mg/tab,Losartan 50 mg/tab,0.00,0.00,1
+sample_000645.png,One tablet orally once a day.,One tablet orally once a day.,0.00,0.00,1
+sample_000646.png,Amlodipine 5 mg/tab,Ancodipine 5 mg/tab,10.53,33.33,0
+sample_000647.png,One tablet orally once a day.,One tablet orally once a day.,0.00,0.00,1
+sample_000648.png,Losartan 100 mg/tab,Losartan 100 mg/tab,0.00,0.00,1
+sample_000649.png,One tablet orally once a day.,One tablet ormallly once a day.,6.90,16.67,0
+sample_000650.png,Amlodipine 10 mg/tab,AmlLlodipine 10 mg/tab,10.00,33.33,0
+sample_000651.png,One tablet orally once a day.,One tablet onally once a day.,3.45,16.67,0
+sample_000652.png,Finasteride 5 mg/tab,Finasteride 5 mg/tab,0.00,0.00,1
+sample_000653.png,One tablet orally once daily.,One tablet orally once daily.,0.00,0.00,1
+sample_000654.png,(same time each day),OC(somae tame ccazh day),40.00,75.00,0
+sample_000655.png,Methimazole 40 mg/tab,Mmetaimntzole 40mg/taa,28.57,100.00,0
+sample_000656.png,One tablet orally once a day.,One tablet orally once a day.,0.00,0.00,1
+sample_000657.png,Enalapril 5 mg/tab,Enalapril 5mg/tab,5.56,66.67,0
+sample_000658.png,One tablet once a day.,One tablet once a day.,0.00,0.00,1
+sample_000659.png,Sucralfate 1 gram/tab,Sucralfate 1 one/tab,19.05,33.33,0
+sample_000660.png,One tablet 4x/day for 4-8 wks.,One tablet 4x/day for #-8uhs.,13.33,33.33,0
+sample_000661.png,Methimazole 30 mg/tab,MEethimazole 30 mg/tab,4.76,33.33,0
+sample_000662.png,One tablet orally per day.,One tablet orally por day.,3.85,20.00,0
+sample_000663.png,Oxybutynin 5 mg/tab,OxiypBautymin 5 mg/tab,26.32,33.33,0
+sample_000664.png,One tablet once a day.,One tablet once a day.,0.00,0.00,1
+sample_000665.png,17. Oxybutynin 10 mg/tab,1. Ossfurine 50mg/tab,41.67,100.00,0
+sample_000666.png,One tablet once a day.,One tablet once a daay,9.09,20.00,0
+sample_000667.png,18. Codeine 30 mg/tab,18. COOXIE 300g/tab,38.10,75.00,0
+sample_000668.png,One tablet orally every 4-6 hrs.,One tablet orall dery 4-b hors.,15.62,66.67,0
+sample_000669.png,19. Enalapril 5 mg/tab,1n. Enneril 5mg/ab,31.82,100.00,0
+sample_000670.png,One tablet 2x/day.,One tablet adx/day.,11.11,33.33,0
+sample_000671.png,Memantine 5 mg/tab,Memantine 5 mg/tab,0.00,0.00,1
+sample_000672.png,One tablet once a day for 7 days.,One tablet once a day fa 7 days.,6.06,12.50,0
+sample_000673.png,then 2x/day for 10 days.,Otnncn 2x/day far 10 days.,20.83,40.00,0
+sample_000674.png,ISOSORBIDE MONONITRATE 30mg/tab,ISosorBipe MANONITRATE 320mg/ta,32.26,100.00,0
+sample_000675.png,One tablet once a day (in the morning).,One tablet once a day (in the moriring).,5.13,12.50,0
+sample_000676.png,CALCIUM CARBONATE 500mg/tab,OCALCInM CARBRNATE 500mg/tab,11.11,66.67,0
+sample_000677.png,One tablet every 4 hours.,One tablet eny 4 houras.,16.00,40.00,0
+sample_000678.png,GLICLAZIDE 60mg/tab,CLICLAZIDE 60mg/tab,5.26,50.00,0
+sample_000679.png,One tablet once a day,One tablet once a day,0.00,0.00,1
+sample_000680.png,(after breakfast).,(afftin orcclefanx).,55.56,100.00,0
+sample_000681.png,TIOTROPIUM 18mcg/dose,TIOfROPHIM 18 mcg/dos,23.81,150.00,0
+sample_000682.png,One puff via inhaler once daily.,One taff via cakeler once daify.,21.88,50.00,0
+sample_000683.png,INSULIN GLARGINE 100iu/mL prefilled,ILIN LIN 10a/m pefld,45.71,100.00,0
+sample_000684.png,syringe,Otugas,100.00,100.00,0
+sample_000685.png,One mL subcutaneously once daily.,One nak smbataneously once daiy.,21.21,60.00,0
+sample_000686.png,BISOPROLOL FUMARATE 5mg/tab,OOPIONG RARAI 1x/ta,59.26,100.00,0
+sample_000687.png,One tablet orally once a day.,One Teblet orally once a day,10.34,33.33,0
+sample_000688.png,METFORMIN 850mg/tab,METFOROMIN 850mg/tab,5.26,50.00,0
+sample_000689.png,One tablet once a day.,One tablet once a day,4.55,20.00,0
+sample_000690.png,SERTRALINE 50mg/tab,SEARMRALINE 50mg/tab,10.53,50.00,0
+sample_000691.png,One tablet once a day (evening).,One tablet once a day (semig).,12.50,16.67,0
+sample_000692.png,ATORVASTATIN 40mg/tab,AUbSTATIN 40mg/tb,28.57,100.00,0
+sample_000693.png,One tablet once a day.,Oe tablet once a day.,4.55,20.00,0
+sample_000694.png,TAMSULOSIN 200mg/tab,TAmSOLON 270mcg/tab,30.00,100.00,0
+sample_000695.png,One tablet once a day (after meal).,ONnee tablet once a day (dfte naad).,20.00,42.86,0
+sample_000696.png,PREDNISONE 10mg/5mL suspension,PONIOINE 00/0mrapeon,56.67,100.00,0
+sample_000697.png,5mL once a day.,S5 mL once a day.,13.33,50.00,0
+sample_000698.png,CELECOXIB 100mg/tab,MFCOLECOXIB 100mg/tab,15.79,50.00,0
+sample_000699.png,One tablet 2x/day.,One tablet 2x/day.,0.00,0.00,1
+sample_000700.png,ALLOPURINOL 100mg/tab,ALLOPURINOL 100mg/tab,0.00,0.00,1
+sample_000701.png,One tablet once a day.,Once tuabllet oncee an daay.,27.27,100.00,0
+sample_000702.png,LEVOTHYROXINE 50mcg/tab,g,95.65,100.00,0
+sample_000703.png,One tablet once a day (on empty stomach).,One tablet once a day (o smpty stomadd),12.20,37.50,0
+sample_000704.png,ALLOPURINOL 300mg/tab,Acoturino 30mmg/tab,52.38,100.00,0
+sample_000705.png,½ tablet 2x/day (AM - PM).,1i table 2x/day (an - om).,26.92,66.67,0
+sample_000706.png,NAPROXEN 500mg/tab,NAPROXEN 5m0mg/tab,5.56,50.00,0
+sample_000707.png,One tablet once a day.,Once tablet once a day.,4.55,20.00,0
+sample_000708.png,SPIRONOLACTONE 100mg/tab,SPIRONOLACTONE 100mg/tab,0.00,0.00,1
+sample_000709.png,One tablet once daily.,One tablet once daly.,4.55,25.00,0
+sample_000710.png,PREDNISONE10mg /tab,PREDNISONE 10mg/tab,10.53,100.00,0
+sample_000711.png,One tablet once a day.,One tablet once a day.,0.00,0.00,1
+sample_000712.png,TAMSULOSIN 400mcg/fc tab,TAMSULOSIN 5400mcg/fc tab,4.17,33.33,0
+sample_000713.png,One tablet orally once a day.,One tablet orally once a day.,0.00,0.00,1
+sample_000714.png,ATROVASTATIN 80mg/tab,ATRAVASTATIN 50mg/tab,9.52,100.00,0
+sample_000715.png,One tablet once a day.,One tablet once a day.,0.00,0.00,1
+sample_000716.png,1. Ibuprofen 40mg,1) Afurmin 0mg,47.06,100.00,0
+sample_000717.png,"S: 4mg every 4-6 hrs,",Sg:: mg auey 4-okar,52.38,100.00,0
+sample_000718.png,as needed,as needed,0.00,0.00,1
+sample_000719.png,2 Celecoxib 200mg,69). boniasn ag,82.35,100.00,0
+sample_000720.png,"S: one tablet 2x, as",S: one talt 2x,30.00,60.00,0
+sample_000721.png,needed,Ineeded,16.67,100.00,0
+sample_000722.png,3. Tramadol 50 mg,. Taonabil 40mg,47.06,100.00,0
+sample_000723.png,S: one tablet 3x day,: ontr tay,60.00,100.00,0
+sample_000724.png,4. Alendronate 10 mg,4. Alerbinate 10mg,25.00,75.00,0
+sample_000725.png,S: one tablet once,S: me tablet once,11.11,25.00,0
+sample_000726.png,weekly first thing in the,adly fit Aarg ts ta,56.00,100.00,0
+sample_000727.png,morning,Thonig,57.14,100.00,0
+sample_000728.png,5. Omeprazole 40mg,5: Imegrapele 10mg,33.33,100.00,0
+sample_000729.png,S: one tablet once a day,S: onetle ue a di,37.50,66.67,0
+sample_000730.png,before breakfast,Defure breedfpst,31.25,100.00,0
+sample_000731.png,6. Amlodipine 5 mg,. Amoliprn #g,44.44,100.00,0
+sample_000732.png,S: one tablet 1 x day,S: oe talet 11day,23.81,83.33,0
+sample_000733.png,S: one tablet 1 x day,S: on trl 1dy,42.86,83.33,0
+sample_000734.png,7. Cholecalciferol (Vitamin D3),. Cabeeseul nzit,70.97,100.00,0
+sample_000735.png,1 tab / day,1 r ddg,63.64,75.00,0
+sample_000736.png,S: use drop orally once,S:e dr l,65.22,100.00,0
+sample_000737.png,a day,4 dy,40.00,100.00,0
+sample_000738.png,8. Aspirin 80 mg,8 Aoinn 0mg,43.75,100.00,0
+sample_000739.png,S: one tablet every 4-6 hrs,S: oc talet y t,51.85,83.33,0
+sample_000740.png,as needed,as needlet,22.22,50.00,0
+sample_000741.png,9. Paracetamol 500mg,gg:::,100.00,100.00,0
+sample_000742.png,S: one tablet every,S:tne tablet ary,26.32,75.00,0
+sample_000743.png,4 hrs,5 huy,60.00,100.00,0
+sample_000744.png,1. Ibuprofen 400 mg,1. Lmpealn 40 mg,42.11,50.00,0
+sample_000745.png,Sig: once a day x 5 days,50: once a dyv 5 dfy,33.33,57.14,0
+sample_000746.png,2. Celecoxib 200 mg,#2. Ceeeorib 200 mg,21.05,50.00,0
+sample_000747.png,Sig: 1 tab 2x a day x 7 days,1m: 1af onc da/ 80 p ddey,60.71,100.00,0
+sample_000748.png,3. Tramadol 50 mg,3. Imomadol 50 mg,17.65,25.00,0
+sample_000749.png,Sig: once a day as needed,Sy on a day an eded,32.00,66.67,0
+sample_000750.png,4. Metoclopramide 10 mg,1:. Mebreopanir 10mg,47.83,100.00,0
+sample_000751.png,Sig (10mg) 3x a day as needed,S (10 mg) ax a s as needed,24.14,71.43,0
+sample_000752.png,5. Omeprazole 40 mg,5. Omeprasyodle #0 mg,21.05,50.00,0
+sample_000753.png,Sig: once a day x 7 days,SS0g: 1m 1 dhay it 0 hos,58.33,100.00,0
+sample_000754.png,6. Aspirin 100 mg,61. Asprivin 100 mg,17.65,50.00,0
+sample_000755.png,Sig: 1 tab once a day,S) 1tab once a aagygy,38.10,66.67,0
+sample_000756.png,7. Amlodipine 5 mg,7: Amly dipor 5 mg,33.33,75.00,0
+sample_000757.png,Sig: 1 tab once a day,Sg 1 mb oce n day,28.57,66.67,0
+sample_000758.png,1) Ibuprofen #20,17,93.75,100.00,0
+sample_000759.png,400mg every 6 hours as needed,Sarg ong (hes eald,72.41,100.00,0
+sample_000760.png,2) Celecoxib #14,2) Clkeeib #14,31.25,33.33,0
+sample_000761.png,200mg once d or 100g 2x d,0m tne xtag 2xad,56.00,100.00,0
+sample_000762.png,3) Tramadol #10,3) Taemel #50,40.00,66.67,0
+sample_000763.png,50mg orally every 6 hours,50 xlly enrg 6 tous,40.00,80.00,0
+sample_000764.png,4) Metoclopramide #10,5) Metolpromide #10,19.05,66.67,0
+sample_000765.png,10 mg up to 4 times a day 30 minutes before meals and at bedtime,::,100.00,100.00,0
+sample_000766.png,5) Diclofenac #5,1) Dichfenic #5,25.00,66.67,0
+sample_000767.png,Inj.: 50 mg enteric coated tablet or MR tablet 2–3×/day with meals,: 11,96.97,100.00,0
+sample_000768.png,6) Colchicine #30,6) Cachione #30,23.53,33.33,0
+sample_000769.png,1 tablet (500 micrograms) taken 2-4x d,1alet (t micrapos) taken 2:4x 4,34.21,85.71,0
+sample_000770.png,7) Naproxen #14,71) nlarnn #14,46.67,66.67,0
+sample_000771.png,500mg every 6 hours,10mg g 4 tas,63.16,100.00,0
+sample_000772.png,8) Prednisone #3,68) Srudicne #3,37.50,66.67,0
+sample_000773.png,Oral: 10mg/ml - 3x a d,SOrl: cal- 30 d,54.55,83.33,0
+sample_000774.png,9) Omeprazole #30 14,S:) Dpple#2010,65.00,100.00,0
+sample_000775.png,S: 40mL/mg take 1 capsule once d,Sg g g o ay,78.12,100.00,0
+sample_000776.png,10.) Cholecalciferol (Vit D3) #7,23: Sarcd fl: 1b0 4 0,81.25,120.00,0
+sample_000777.png,One drop containing 25.000 iu once a month,1tmyg enkinitg 2500 iu nce a m0ke,47.62,75.00,0
+sample_000778.png,11) Metoprolol #100,1) Metoproel #10,21.05,100.00,0
+sample_000779.png,50mg/100mg once a day,Vltrg /10 f1 - ey,71.43,125.00,0
+sample_000780.png,12) Atenolol,12) Atenalel,16.67,50.00,0
+sample_000781.png,#30,#30,0.00,0.00,1
+sample_000782.png,50-100mg once a day,30-100mg once daty,21.05,75.00,0
+sample_000783.png,13) Paracetamol #20,10) Pasatl #0,42.11,100.00,0
+sample_000784.png,Oral: 500mg tablet evy 4 hours,0ndy tmg vbale crg t hotars,60.00,100.00,0
+sample_000785.png,14) Clopidogrel #100,15) Cpidael d#00,40.00,100.00,0
+sample_000786.png,Oral: 75mg 1 tablet once a d,nal: 75mg 1llel onead,35.71,85.71,0
+sample_000787.png,1. Atenolol 50mg #30,1. Atenolol 50mg #30,0.00,0.00,1
+sample_000788.png,Sig: 1 tablet once a day,Si: 1 tablet once a dy,8.33,33.33,0
+sample_000789.png,2. Omeprazole 40mg #20,172. Omeprapple 40mg #20,18.18,50.00,0
+sample_000790.png,Sig: 1 capsule 30-60mins before breakfast,S: 1 capsuie 30 6momias hafore beekft,31.71,100.00,0
+sample_000791.png,3) Naproxen tab 500mg #5,. Napursin 2al ne #5,54.17,80.00,0
+sample_000792.png,Sig: 1 tablet daily,Sia: 1 tablet daily,5.26,25.00,0
+sample_000793.png,4. Metoclopramide 10mg #10,S.: Mmct dopeiile 1m: #10,50.00,100.00,0
+sample_000794.png,Sig: 1 tab 4x a dy 30 mins before meals and,OSi: 1 tab ak an ay 30mmtun #g00 osichy omd,55.81,81.82,0
+sample_000795.png,at bedtime,at bedtime,0.00,0.00,1
+sample_000796.png,5) Clonidine 0.17mg #5,S.) Olonideine 0.17g Aos,36.36,100.00,0
+sample_000797.png,S: 1 tab at bedtime,S: 1 talb at bedtime,5.26,20.00,0
+sample_000798.png,6) Celecoxib 200mg #20,S) OClelonib 20mmg t0,36.36,100.00,0
+sample_000799.png,S: 1 cap once a day,S: 1 capp once a day,5.26,16.67,0
+sample_000800.png,7) Ibuprofen tab #10,S9) 1haprofn 1tab #10,35.00,75.00,0
+sample_000801.png,S: 1 tab every 4 hours as needed,S: 1 hb ony 4 houer os necded,31.25,62.50,0
+sample_000802.png,8. Clopidogrel 75mg #30,S: Clopibdopul 2x0mg #30,39.13,75.00,0
+sample_000803.png,S: 1tab once a day,S5: 1tab once a day,5.56,20.00,0
+sample_000804.png,9. Paracetamol tab 500mg #30,89. Prastmul tab taxie #30,39.29,60.00,0
+sample_000805.png,Sig: 1 tab every 4 hours for fever,Sig 1 tab ay 4 toar far frors,38.24,62.50,0
+sample_000806.png,10. Amlodipine 5mg #30,10. Amlodipine 5mg #230,4.55,25.00,0
+sample_000807.png,S: 1 tab once a day,S 1td o0mada,52.63,100.00,0
+sample_000808.png,11. Aspirin tab 80mg #30,1. Apuin tab 560mg #3,29.17,80.00,0
+sample_000809.png,S: 1 tab every 4 -6 hours as needed,Sfes ftall evar #x dhorns on peaded,54.29,100.00,0
+sample_000810.png,12. Risedronate 35mg  #30,12:. Risdronate 330m #33g0,32.00,100.00,0
+sample_000811.png,S: take 1 tablet  once per week,S:g: take 1 tat onoe puae tveeinksk,51.61,71.43,0
+sample_000812.png,13. Colchicine 500mg #10,15. tLredizgnie 3500mg #5D,50.00,100.00,0
+sample_000813.png,S: 1 tab every 4 hours for 8 days,S: 1 tab agy 4 bres f 8 day,33.33,44.44,0
+sample_000814.png,14. Losartan 150mg #50,14. forsertin 520mg d 0,36.36,100.00,0
+sample_000815.png,S: 1 tab once a day,Sig: 1 tab 3nnce a day,21.05,33.33,0
+sample_000816.png,15. Prednisone tab 10mg #15,1#. Pabdbione tab ag #145,33.33,80.00,0
+sample_000817.png,1 tab 3x a day,1 tab 2x a gy,21.43,40.00,0
+sample_000818.png,16. Metoprolol tab 25mg #30,So.: hveloyricl fab 30mg #3,51.85,100.00,0
+sample_000819.png,S: 1 tab daily,Sg: 1tab Laplk,35.71,100.00,0
+sample_000820.png,17. Cholecalciferol (Vit D3) #30,12. datlcorifarel (0d 2m) #3,50.00,100.00,0
+sample_000821.png,S: 1 drop once a day,S: 0 gt ove ay,50.00,83.33,0
+sample_000822.png,18. Diclofenac 500 mg # 10,18: Diclomnac 500mg #10,19.23,100.00,0
+sample_000823.png,Sig: 1 tab 3x a day p.c,SS: 1 tab 2xx a daay /c,30.43,57.14,0
+sample_000824.png,19. Alendronate tab 10 mg #20,t:. Stomd osccte t2.b 0mg # aiss,65.52,116.67,0
+sample_000825.png,Sig: 1 tab once a week in the morning,Siig: 1 tab once a preel an tie aeing,27.03,55.56,0
+sample_000826.png,20. Simvastatin 40 mg,20. Smveatlin 40s #5mg,38.10,75.00,0
+sample_000827.png,Sig: 1 tab once a day in the morning,S: 1 tab pece a dy - dorc,44.44,66.67,0
