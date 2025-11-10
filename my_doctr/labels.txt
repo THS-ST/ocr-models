@@ -1,0 +1,13 @@
+data_3.png|Amlodipine 5mg\n(Provasc) #100\nS: 1 tablet once a day\n\nMetformin 500mg\n(Neomet) #200\nS: 1 tablet 2x a day\nLosartan 50mg\n(Kenzar/Arblok)\n#100\nS: 1 tablet once a day
+data_13.png|1. Vitamin B Complex\n(PHAREX) #200 170\nS: 1 tablet once a day in the morning\n2. Gliclazide 80mg\n(RITEMED) #200 170\n\nSig: 1 tablet once a day\nBefore breakfast\n3. Losartan 100mg\n(RITEMED) #200 #190 185\nSig: 1/2 tablet once a day\nin the morning
+data_22.png|NAPHAZOLINE #2\nPHENIRAMINE MALEATE\n(VISTALLERG) eyedrops\nSig: 1 drop 4x a day to both\nEyes for 1-2 weeks\nCETIRIZINE #5\n(10 mg/tablet)\nSig: 1 tablet once a day
+data_29.png|Amlodipine 5mg\n(Bezam / Provasc)\nS: 1 tablet once a day #100\nFebuxostat 40mg\n(Urica) #100\nS: 1 tablet once a day\nMultivitamin #100\n(Centrum)\nS: 1 tablet once a day
+data_51.png|TRIAMCINOLONE Acetonide #4\nSig: Apply lotion to the affected areas 2-3x daily\nPERMETHRIN (Lindell) 50mg/ml 5% lotion\nSig: Apply lotion evenly from neck to toes, leave on for 8-12 hours then wash thoroughly w/ soap & water\nEmpagliflozin 10mg/5mg – 30 tabs + Linagliptin\nSig: 1 tab once a day\nApixaban 2.5mg/tab – 30 tabs\nSig: 1 tab 2x daily\nARIPIPRAZOLE 10mg/tab – 30 tabs\n1 tab once daily\nMemantine 10mg – 60 tabs\nSig: 1 tab 2x daily\nHydrochlorothiazide 25mg – 8 tabs\nSig: 1 tablet 2x a week after breakfast\nSpiolto Respimat #1\nSig: 2 puffs once a day\nCETIRIZINE 10mg – #20\nSig: 1 tab at bedtime (1-2x daily)
+data_64.png|(Lipiduce) 160mg #100\nS: 1 tablet once a day\n(Glitab) 30mg #200\nS: 1 tablet 2x a day\nMetformin 500mg\n(Neomet) #100\n(Normax)\nS: 1 tablet once a day\n(Ciclodin) 500mg\nS: 1 tablet 2x a day\n(after meals)
+data_66.png|Cefuroxime 250mg / 5ml susp. #1\n2.5ml 3x a day for 7 days\nAluminum magnesium syrup\n3ml 3x a day for 7 days\nDomperidone Syrup #1\n3ml 3x a day for 3 days
+data_67.png|Amlodipine\n(Bezam / Provasc) #20\nS: 1 tablet once a day\nMultivitamin #200\n(Centrum Gold)\nS: 1 tablet once a day\nFlammazine cream #1\nS: AD
+data_68.png|Amlodipine 5mg\n(Provasc) #100\nS: 1 tablet once a day\n\nUrica 40mg #60\nS: 1 tablet once a day
+data_75.png|RX\nAM LUNCH PM BEDTIME NO. OF PIECES\nCo-Amoxiclav 625mg - 7 days\n8 8 14\nAmlodipine 10mg x PM\n8 8 14\nIberet-Folic – x 1 month\n/\nFurosemide 20mg/Tab x 5 days\n8 5
+data_79.png|AM LUNCH PM BEDTIME NO. OF PIECES\nNeopenotran vaginal suppository x 7 nights\n/ 7\nCandibec Cream x 7-14 days\n/ / / 1\nFloracap x 1 month\n/ / 60
+data_85.png|AM LUNCH PM BEDTIME NO. OF PIECES\nDuphaston 10mg/tab × 7 days\n8 8 14\n(Sept 10 - 16)\n(wait for mens)\nUntil Sept 30
+data_93.png|AM LUNCH PM BEDTIME NO. OF PIECES\nDydrogesterone\n10mg/tab × 10 days\n/ #30\nx3\n(Sept 16-25)\n(Oct 16-25)\n(Nov 16-25)
