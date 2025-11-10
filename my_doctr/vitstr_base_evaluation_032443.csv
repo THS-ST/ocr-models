@@ -1,0 +1,277 @@
+image,ground_truth,prediction,CER,WER,exact
+data_3.png,Amlodipine 5mg (Provasc) #100 S: 1 tablet once a day  Metformin 500mg (Neomet) #200 S: 1 tablet 2x a day Losartan 50mg (Kenzar/Arblok) #100 S: 1 tablet once a day,"Rx
+Ammldodian 5m0
+(: Porrvacc #1 1000
+S:
+1 #aldcee av0o- 85
+Mutfg3m
+500Am5
+(Nioviec 12
+#x 2p
+1
+S:
+1 Raeiee
+2m a ddy
+L0zaatan 50mg
+( Revnaaa attaa
+10m
+S 1
+(
+#otdbetb OUcC Cn  S 2 1 -g",0.691358024691358,0.9666666666666667,0
+data_13.png,1. Vitamin B Complex (PHAREX) #200 170 S: 1 tablet once a day in the morning 2. Gliclazide 80mg (RITEMED)#200 170 Sig: 1 tablet once a day Before breakfast 3. Losartan 100mg (RITEMED) #200 #190 185 Sig: 1/2 tablet once a day in the morning,"2 
+c.MAASs
+#0m
+RX
+(A Sx A 10m
+a 200 170
+8:
+5 AAEE
+2m5CE D2 02m
+10m Toca
+mocAat b
+2: LecaaA E
+#0 550
+1 AUTEMRAM
+#0
+10
+75
+CIEAEI
+1 #30
+00g
+OIET GGE
+ERLOEE E
+LOEAAONE
+1 #m
+(: RiTEMOD
+#0
+10 1gm 15
+S1
+5 OEEEs
+S  Cs
+2A
+1. SNE mn0 aa 1",0.8242677824267782,1.0,0
+data_22.png,NAPHAZOLINE #2 PHENIRAMINE MALEATE (VISTALLERG) eyedrops Sig: 1 drop 4x a day to both Eyes for 1-2 weeks CETIRIZINE #5 (10 mg/tablet) Sig: 1 tablet once a day,"-
+#2
+mit 4t  oatc
+#i ottttprneee #orcaacc
+(olommmcxtal 8 tyys
+Sg
+# #
+8
+1 dgr #0
+6ag / Bott
+Fx - 1
+#0 1 2 zeddy  
+B
+#5
+Cet1/1 c E   1
+110 17 1  aeedbl 1 -
+1
+1 ttdd Emee 20 Rem Px   3 1",0.9367088607594937,1.1428571428571428,0
+data_29.png,Amlodpipine 5mg (Bezam / Provasc) S: 1 tablet once a day #100 Febuxostat 40mg (Urica) #100 S: 1 tablet once a day Multivitamin #100 (Centrum) S: 1 tablet once a day,"Aunl aefore 5o0
+(Rezaaat PNoova # 100
+aU C Cx 1 dcd
+L faldce
+5eeovrattce #0 m0g
+( Uoecca))
+#100
+#edec
+6ica C: 4ag
+1
+mmcctttb 7auuee
+100
+(: Caulueoi )
+1 1
+c talece
+AUC a dday",0.7378048780487805,0.967741935483871,0
+data_51.png,TRIAMCINOLONE Acetonide #4 Sig: Apply lotion to the affected areas 2-3x daily PERMETHRIN (Lindell) 50mg/ml 5% lotion Sig: Apply lotion evenly from neck to toes leave on for 8-12 hours then wash thoroughly w/ soap & water Empagliflozin 10mg/5mg – 30 tabs + Linagliptin Sig: 1 tab once a day Apixaban 2.5 mg / tab – 30 tabs Sig: 1 tab 2x daily ARIPIPRAZOLE 10mg/tab – 30 tabs 1 tab once daily Memantine 10mg – 60 tabs Sig: 1 tab 2x daily Hydrochlorothiazide 25 mg – 8 tab Sig: 1 tablet 2x a week after breakfast Spiolto Respimat #1 Sig 2 puffs once a day CITIRIZINE 10mg – #20 Sig 1 tab at bedtime (1-2x daily),"TRlamCi tee  eeee Rectoaxidd
+71 ax
+6x  ggm mpray Lot1a #0 #6 7actt a  nees
+PERME TAR1t
+5 0 Lotida
+40rdr)
+61g afpd 6ot1oo mimgy
+#0 #005 1
+ 
+Soggggd
+Leaad 007
+5-1  7 mm #to ahgd #oldyy
+m1  pa
+for ri
+-
+30#d 7
+1.  mmpaa #1 Lim  1  # g - 1x
+1
+10ggg5 m0g
+1  ade #
+     
+a
+# 00
+Sig
+1 
+ 
+50#db5
+2: Apii adonn 2:5 mg
+S2gd
+3:m ( 
+1 #ab 2x
+3:4 R1 PIFRaa EOLE
+1
+30#dbd
+1#a5 8omCe
+700gmm
+4aidyy
+6otady
+4: Mermaaatinne 10
+Sidg 1  b Rx 20m
+8t d
+3 m #4do00 atl0 # cazidd 25mmyy 6mxad
+#g 1 #ab1da 25 2 uecddaaaa
+1
+maron
+#1
+40gmmm
+S:  p  tlttee Respiimma
+8x 7:m 2p tdfde ada #20
+7  I   b 2im 
+5:g 1 S   oeeeatae e  aaa (:2ztaaal)",0.7845394736842105,0.9655172413793104,0
+data_64.png,(lipiduce) 160 mg #100 S: 1 tablet once a day (glitab) 30mg #200 S: 1 tablet 2x a day Metformin 500mg (Neomet) #100 (Normax) S: 1 tablet once a day (Ciclodin) 500mg S: 1 tablet 2x a day (after meals),"(: Lorodicc)) a 1600v3
+7 100
+S: 11 #addde 6ic a 4
+(   at 2 30mg 200
+#
+S: 1:teeet m0 #0 aamy
+Autfrrmises
+5orm
+Aeonvee 2
+#x 100
+(7eiaaaias )
+Sa   Faded mm0 #0
+(6ceblbi 1 
+50mg
+S: talecl
+2P 2 a  8 
+mncdde
+(atee
+S:",0.6884422110552764,0.925,0
+data_66.png,Cefuroxime 250 mg / 5ml supp. #1 2.5 ml 3x a day for 7 days Aluminum magnesium syrup 3ml 3x a day for 7 days Domperidone Syrup #1 3ml 3x a day for 3 days,"CPmmmm 1m00
+25 mm/amm 8mmm #
+A1
+9: 4g
+D:5 ma 2g ataayy por
+7 dayy #
+MPmomm m0m mx
+morfmmi mmm
+5nmm
+#
+9:3 mx
+350
+#1 Mam
+fom
+7pamm #
+Ommprmiinn
+snpmyy
+11 #
+mml 2pmm 1 ax
+1 
+95 3
+fom 3xdayy",0.8169934640522876,1.0,0
+data_67.png,Amlodipine (Bezam / Provasc) #20 S: 1 tablet once a day Multivitamin #200 (Centrum gold) S: 1 tablet once a day Flammazine cream #1 S: AD,"Cuuidedonn
+5mmg
+R da # 1  
+(Reoaa   1 Mooraa
+#
+# - -
+( #abell
+AUc a dd
+Meelffsn 7 rm
+#
+2ac
+( Ceuldi 8rt #  2
+1 5
+21
+( #atace
+AUco Oc Rx
+Faeouezznee 1
+OUoaaa
+S:
+#1",0.9051094890510949,0.9615384615384616,0
+data_68.png,Amlodipine 5mg (Provasc) #100 S: 1 tablet once a day (Urica) 40mg #60 S: 1 tablet once a day,"Oune Lodrpec
+#xg
+(Paovatc 2
+Rx 100
+S:
+1 #oedce
+AUCC a  ds 1
+1 1 Uecd 2
+4amg 6
+1 # 7
+Rg
+a5
+S: 11
+1 10
+6etece
+O2 CA agd -
+R",0.9130434782608695,1.0,0
+data_75.png,RX AM LUNCH PM BEDTIME NO. OF PIECES Co-Amoxiclav 625 mg - 7days 8 8 14 Amlodipine 10 mg x PM 8 8 14 Iberet-Folic – x 1 month Furosemide 20 mg/Tab x 5 days 8 5,"Rx
+aM LEMCR PM EED TIME #0 2P
+PIECES
+1:  C0-AMexicct
+8A
+8P
+#14
+62gma Rx 7 may
+2: Mocooaet 7g1m
+8A
+8P
+#14
+xx Pmn0
+3 10 6etd- Forc
+#5 #0
+Rx 11
+1om t
+4: Fezatffioote
+5:
+20g1t/ xx 50mg
+10",0.7987421383647799,0.9459459459459459,0
+data_79.png,AM LUNCH PM BEDTIME NO. OF PIECES Neopenotran vaginal suppository x 7 nights 7 Candibec Cream x 7-14 days 1 Floracap x 1 month 60,"Rx
+aM LERCRI PM EED TIME #0.00
+PIECES
+1. aoodoa Mom
+#7
+6tti itc fulooatltta
+x  miCttt
+2: CPnO 10tC
+CRem x7   Om4
+3 FIotAFaM
+3
+S1
+Roncd",0.7131782945736435,0.96,0
+data_85.png,AM LUNCH PM BEDTIME NO. OF PIECES Duphaston 10 mg/tab × 7 days 8 8 14 (Sept 10 - 16) (wait for mens) Until sept 30,"Rx
+AM LEMCR PM RED TIME #o.0P
+PIECES
+10mPPfatt   6gg/b 8A
+8P
+#14
+x  taaa
+2  baa 10 10 15
+metm
+#x Uott Fo0
+3
+Uettaa PEo 70",0.7192982456140351,0.9230769230769231,0
+data_93.png,AM LUNCH PM BEDTIME NO. OF PIECES Dydrogesterone 10 mg/tab × 10 Days #30 ×3 (Sept 16-25) (Oct 16-25) (Nov 16-25),"Rx
+AM LEMCA PM EED TIME #D.OF
+PIECES
+10camas 0.taa
+R5
+30
+10t  R 10tAaa
+x 6g m ed
+2: (Pio 15 a ax
+(:
+1C Aam 25
+#
+80m
+1 mtm
+15
+2m",0.7678571428571429,0.9523809523809523,0

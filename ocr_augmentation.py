@@ -82,8 +82,14 @@ class DeterministicOCRDataset(Dataset):
         
         # Load all image paths and transcriptions
         with open(csv_path, "r", newline="", encoding="utf-8") as f:
-            reader = csv.DictReader(f)
+            reader = csv.DictReader(f, delimiter='\t')
+            # Clean headers
+            reader.fieldnames = [h.strip() for h in reader.fieldnames]
             self.data = list(reader)
+
+        print("CSV headers:", reader.fieldnames)
+
+
 
     def __len__(self):
         return len(self.data)
@@ -140,7 +146,7 @@ final_transforms = transforms.Compose([
     transforms.ToPILImage(),
     transforms.Resize((64, 256)),  # Example resizing for OCR model input
     transforms.ToTensor(),
-    transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+    transforms.Normalize(mean=[0.5], std=[0.5])
 ])
 
 # In your training loop (e.g., for TrOCR or EasyOCR)

@@ -22,6 +22,9 @@ testing_folder/
 #data folders
 data/
 data_cleaning/
+doctr/
+doctr_dataset2/
+my_doctr_dataset/
 
 ocr_augmentation.py
 

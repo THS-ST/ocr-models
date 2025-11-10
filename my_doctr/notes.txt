@@ -1,0 +1,94 @@
+make sure to have python 3.11 installed
+make venv py -3.11 -m venv C:\Users\Shay\doctr_env_new
+
+activate venv C:\Users\Shay\doctr_env_new\Scripts\activate
+or  
+C:\Users\Shay\doctr_env_new\Scripts\activate.bat
+
+python -m pip install --upgrade pip
+pip install "python-doctr[torch]"
+
+verify
+python -c "import doctr; print(doctr.__version__)"
+should output 1.0
+
+python -c "from doctr.training import recognition; print('ok')"
+
+
+train command
+python -m doctr.training recognition --train_path my_doctr_dataset/train --val_path my_doctr_dataset/val --epochs 20 --batch_size 16 --learning_rate 1e-3 --arch crnn_vgg16_bn
+
+cd C:\Users\Shay\Documents\GitHub\ocr-models\doctr
+
+python references/recognition/train.py crnn_vgg16_bn --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 5 --batch_size 4 --workers=None
+
+python references/recognition/train.py crnn_vgg16_bn --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 5 --batch_size 2 --workers 0 --vocab " \"#%&()+,-./0123456789:>ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvwxyz½×–"
+
+VOCAB = ' "#%&()+,-./0123456789:>ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvwxyz½×–'
+
+python references/recognition/train.py crnn_vgg16_bn --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 5 --batch_size 2 --workers 0 --vocab custom --pretrained
+
+python references/recognition/train.py parseq --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 5 --batch_size 2 --workers 0 --vocab custom --pretrained --max-chars 84 --input_size 85
+
+python references/recognition/train.py crnn_vgg16_bn --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 50 --batch_size 2 --workers 0 --vocab custom --max-chars 30 --pretrained
+
+python references/recognition/predict.py crnn_vgg16_bn --weights crnn_vgg16_bn_20251107-233625.pt --image ../data/image_splits/data_3.png --vocab custom
+
+--- Extracted Text ---
+Rx
+Amlodyne #mg
+S Frorc) # 100
+7
+1 leil acm S
+Mepng
+50
+Coii 5
+# 7
+
+S
+1 Raled
+2 adday
+Louitan 5mg
+5 Bezzaalle
+100
+S
+1
+flcc Dc 8 3  3 #
+
+python references/recognition/train.py sar_resnet31 --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 2 --batch_size 2 --workers 0 --vocab custom --pretrained
+
+python references/recognition/train.py vitstr_base --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 2 --batch_size 8 --workers 0 --vocab custom --pretrained
+
+python references/recognition/train.py vitstr_base --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 10 --batch_size 8 --workers 0 --vocab custom --pretrained True
+
+python references/recognition/train.py vitstr_base --train_path ../doctr_dataset2/train --val_path ../doctr_dataset2/val --epochs 10 --batch_size 8 --workers 0 --vocab custom --pretrained True
+
+
+
+AUGMENTATIONS FOR VITSTIR:
+train_set = RecognitionDataset(
+            parts[0].joinpath("images"),
+            parts[0].joinpath("labels.json"),
+            img_transforms=Compose([
+                T.Resize((args.input_size, 4 * args.input_size), preserve_aspect_ratio=False),
+                # Augmentations
+                T.RandomApply(T.ColorInversion(), 0.05),
+                RandomGrayscale(p=0.05),
+                T.RandomApply(
+                            ColorJitter(
+                                brightness=(0.9, 1.1),
+                                contrast=(0.9, 1.1),
+                                saturation=(0.95, 1.05),
+                                hue=(-0.03, 0.03),
+                            ),
+                            p=0.3
+                ),                #T.RandomApply(T.RandomShadow(), p=0.4),
+                T.RandomApply(T.GaussianNoise(std=0.03), p=0.1),
+                T.RandomApply(T.GaussianBlur(sigma=(0.1, 0.5)), p=0.1),
+                #T.RandomApply(T.Rotation(max_angle=2), p=0.2),
+
+                #RandomPerspective(distortion_scale=0.2, p=0.3),
+            ]),
+        )
+
+python references/recognition/train.py parseq --train_path ../doctr_dataset2/train --val_path ../doctr_dataset2/val --epochs 2 --batch_size 8 --workers 0 --vocab custom --pretrained True
