@@ -7,12 +7,12 @@ from doctr.datasets import VOCABS
 from jiwer import wer, cer
 
 # --- Config ---
-RECO_MODEL_PATH = r"C:\Users\Shay\Documents\GitHub\ocr-models\doctr\vitstr_base_20251109-140131.pt"
+RECO_MODEL_PATH = r"C:\Users\Shay\Documents\GitHub\ocr-models\doctr\vitstr_base_20251112-000553.pt"
 TEST_IMAGES_DIR = r"C:\Users\Shay\Documents\GitHub\ocr-models\data\image_splits\testing_set_full" 
 LABELS_CSV = Path(TEST_IMAGES_DIR) / "labels.csv"  # CSV: filename,text
 VOCAB_KEY = "custom"
 
-OUTPUT_CSV = "DocTR_evaluation3.csv"  
+OUTPUT_CSV = "DocTR_evaluation-hail-mary.csv"  
 
 # --- Load ViTSTR Recognition Model ---
 reco_model = recognition.vitstr_base(

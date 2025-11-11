@@ -61,7 +61,7 @@ python references/recognition/train.py vitstr_base --train_path ../my_doctr_data
 
 python references/recognition/train.py vitstr_base --train_path ../my_doctr_dataset/train --val_path ../my_doctr_dataset/val --epochs 10 --batch_size 8 --workers 0 --vocab custom --pretrained True
 
-python references/recognition/train.py vitstr_base --train_path ../doctr_dataset2/train --val_path ../doctr_dataset2/val --epochs 10 --batch_size 8 --workers 0 --vocab custom --pretrained True
+python references/recognition/train.py vitstr_base --train_path ../doctr_dataset2/train --val_path ../doctr_dataset2/val --epochs 50 --batch_size 8 --workers 0 --vocab custom --pretrained 
 
 
 
@@ -91,4 +91,4 @@ train_set = RecognitionDataset(
             ]),
         )
 
-python references/recognition/train.py parseq --train_path ../doctr_dataset2/train --val_path ../doctr_dataset2/val --epochs 2 --batch_size 8 --workers 0 --vocab custom --pretrained True
+python references/recognition/train.py parseq --train_path ../doctr_dataset2/train --val_path ../doctr_dataset2/val --epochs 50 --batch_size 8 --workers 0 --vocab custom --pretrained
